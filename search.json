@@ -47,7 +47,18 @@
     "href": "appx/proposal.html",
     "title": "Appendix A — Proposal",
     "section": "",
-    "text": "Your proposal go here.",
+    "text": "Salaries Across Data Science Postings",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Proposal</span>"
+    ]
+  },
+  {
+    "objectID": "appx/proposal.html#salaries-across-data-science-postings",
+    "href": "appx/proposal.html#salaries-across-data-science-postings",
+    "title": "Appendix A — Proposal",
+    "section": "",
+    "text": "TEAM\nTeam Member Sohail Mohammed Team Member Munyaradzi Masvaure\n\n\nPROJECT DESCRIPTION\nThe project aims to explore and statistically predict the relationship between salaries and other variables through data science approaches such as data cleaning, wrangling, visualizing, mapping and building shiny app to make it easy for viewers/users to see the effects of change in salary.\n\n\nRESEARCH QUESTION(S)\n\n“Exploring the relationship between salaries for data science job postings based on factors such as seniority, job title, company type, employment location, and industry, and how they relate to salary levels?”\nPredicting with 99% confidence intervals the salary of the population of Data Science job postings in the world based on factors such as seniority, job title, company type, employment location, and industry and how it affects salary levels? MOTIVATION AND INSPIRATION As potential/aspiring data scientists, we want to have a better understanding of the job market and build awareness of factors affecting salaries especially in the United States considering the current transformations and fast-changing job market.\n\n\n\nData Set\nDataset\n\n\nImplementation Plan\nDependent Variable: Salary (either as a numeric amount, or grouped categories if ranges/bands more common) Independent Variables: Job title, seniority level, location, industry, company size, company ownership, employment status Exploratory Steps: Cleaning and wrangling data Summarize salary distributions across job titles and seniority levels.​ Compare salaries by city and remote status.​ Assess influence of company size and industry.​ Use statistical modeling (e.g., regression) and visualizations to identify significant predictors. Using Confidence Intervals and ML models to explore relationships between predictors and our response variable (salary).\n\nDivision of roles :\nSohail : Data Wrangling, contribute shiny app, Stats ML contribution Munya: Sf Visualizations, Interpretations and findings, Code, Presentation",
     "crumbs": [
       "Appendices",
       "<span class='chapter-number'>A</span>  <span class='chapter-title'>Proposal</span>"
