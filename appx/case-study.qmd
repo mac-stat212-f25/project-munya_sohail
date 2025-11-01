@@ -1,5 +1,32 @@
 ---
 title: "Case Study"
 ---
+```{r}
+library(magick)
+```
 
-Your case study go here.
+
+The two inspiring reports we looked at were [Wine Animals](https://pudding.cool/2025/04/wine-animals/) by The Pudding Journalism and [The NYT Best Visualizations](https://www.informationisbeautifulawards.com/news/118-the-nyt-s-best-data-visualizations-of-the-year) by Information is beautiful. There’s more to storytelling than graphs. You could have icons and motion as long as you tell your story.
+
+
+### Below is an example:
+
+
+
+>Infographic: Your Contribution to the California Drought By Larry Buchanan, Josh Keller, and Haeyoun Park 
+
+![](http://iibawards-prod.s3.amazonaws.com/app/public/ckeditor_assets/pictures/221/content_screen_shot_2015-12-10_at_12_24_33.png)
+
+
+
+### Some of the unique elements we could include for our exploration on Careers in Data Science are:
+-Icon-based overlays indicating seniority (junior, midlevel, lead, senior) on a map of office locations .
+
+-Interactive visualization/ custom icons for the industry (Technology, Finance, Retail, Healthcare, Education)
+
+-Custom icons for hybrid, onsite, and remote work to supplement or replace standard bar/column charts.
+
+
+Given our dataset’s structure, which is rich with classification, hierarchy, and transitions, moving beyond static graphs to storytelling visuals like icons, motion graphics, and interactive elements would make our exploration more appealing.
+
+
