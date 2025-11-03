@@ -2,7 +2,7 @@
 title: "Case Study"
 ---
 ```{r}
-library(magick)
+#library(magick)
 ```
 
 
