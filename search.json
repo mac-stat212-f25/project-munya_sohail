@@ -69,7 +69,7 @@
     "href": "appx/case-study.html",
     "title": "Appendix B — Case Study",
     "section": "",
-    "text": "Your case study go here.",
+    "text": "Code\n#library(magick)\n\n\nThe two inspiring reports we looked at were Wine Animals by The Pudding Journalism and The NYT Best Visualizations by Information is beautiful. There’s more to storytelling than graphs. You could have icons and motion as long as you tell your story.\n\nBelow is an example:\n\nInfographic: Your Contribution to the California Drought By Larry Buchanan, Josh Keller, and Haeyoun Park\n\n\n\n\nSome of the unique elements we could include for our exploration on Careers in Data Science are:\n-Icon-based overlays indicating seniority (junior, midlevel, lead, senior) on a map of office locations .\n-Interactive visualization/ custom icons for the industry (Technology, Finance, Retail, Healthcare, Education)\n-Custom icons for hybrid, onsite, and remote work to supplement or replace standard bar/column charts.\nGiven our dataset’s structure, which is rich with classification, hierarchy, and transitions, moving beyond static graphs to storytelling visuals like icons, motion graphics, and interactive elements would make our exploration more appealing.",
     "crumbs": [
       "Appendices",
       "<span class='chapter-number'>B</span>  <span class='chapter-title'>Case Study</span>"
