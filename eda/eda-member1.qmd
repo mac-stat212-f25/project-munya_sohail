@@ -1,5 +1,117 @@
 ---
-title: "Member 1 First Name & Last Name Initial"
+title: "Sohail Khan Mohammed "
 ---
 
 Your exploratory data analysis of the team datasets go here.
+
+```{r}
+# loading the necessary packages
+library(dplyr)
+library(tidyverse)
+library(naniar)
+library(stringr)
+```
+
+
+
+```{r}
+# loading the dataset 
+dsPosting_2025 <- read.csv("../data/raw/data_science_job_posts_2025.csv")
+dim(dsPosting_2025)
+head(dsPosting_2025)
+
+
+# view(dsPosting_2025)
+```
+
+
+```{r}
+# populating missing values with na 
+dsPosting_2025 <- dsPosting_2025 %>% 
+  replace_with_na_all(condition = ~.x== "")
+dsPosting_2025
+
+sum(is.na(dsPosting_2025)) # we have 383 na values ( Can't remove the rows as we'll lose approx 1/3rd of the data )
+
+```
+
+```{r}
+# remove company, headquarters (as Company name isn't there and headqaurters info doesnt matter ) 
+dsPosting_2025 <- dsPosting_2025 %>% 
+  select(job_title, seniority_level, status, location, post_date, industry, ownership, company_size, revenue, salary, skills) 
+
+dsPosting_2025
+
+  
+```
+
+```{r}
+
+# removing the status (onsite, hybird, Remote, Fully remote etc from the location column )
+
+matched_types <- c("onsite", "on-site", "remote","Remote", "fully remote","Fully Remote", "Hybrid", "hybrid")
+
+dsPosting_2025<-dsPosting_2025 %>%
+  mutate(location = ifelse(tolower(location) %in% tolower(matched_types), NA, location))
+
+dsPosting_2025
+
+```
+
+
+```{r}
+# removing revenue from company size and mnaking it na
+dsPosting_2025 <-dsPosting_2025 %>%
+  mutate(company_size = ifelse(str_detect(company_size, "€"), NA, company_size))
+
+
+# removing public from revenue and mnaking it na
+dsPosting_2025 <-dsPosting_2025 %>%
+  mutate( revenue = ifelse(str_detect(revenue, "Public"), NA, company_size))
+
+# removing private from revenue and mnaking it na
+dsPosting_2025 <-dsPosting_2025 %>%
+  mutate( revenue = ifelse(str_detect(revenue, "Private"), NA, company_size))
+
+dsPosting_2025 <- dsPosting_2025 %>%
+  mutate(salary = str_remove_all(salary, "€"))
+ 
+
+# converting the euro to dollar in revenue and salary and naming salaryusd
+dsPosting_2025 <- dsPosting_2025 %>%
+  mutate(
+    salary_clean = str_remove_all(salary, ","),
+    salary_min   = as.numeric(str_extract(salary_clean, "^[0-9]+")),
+    salary_max   = as.numeric(str_extract(salary_clean, "(?<=– )[0-9]+")),
+    # Use average for ranges, otherwise just the single value
+    salary_num   = if_else(is.na(salary_max), salary_min, (salary_min + salary_max) / 2),
+    salary_usd   = salary_num * 1.1254
+  )
+
+dsPosting_2025
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
