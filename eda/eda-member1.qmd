@@ -95,6 +95,10 @@ dsPosting_2025
 
 
 
+```{r}
+write.csv(dsPosting_2025, "../data/processed/dsPosting_2025.csv", row.names = FALSE)
+
+```
 
 
 

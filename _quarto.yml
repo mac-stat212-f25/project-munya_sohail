@@ -22,7 +22,7 @@ number-depth: 2
 
 book:
   title: "Project Title"
-  author: ["Member 1 first and last name initial", "Member 2 first and last name initial", "Member 3 first and last name initial"]
+  author: ["Sohail Khan Mohammed", "Munyaradzi Masvaure"]
   date: today  # use today to update date published based on last time project was edited
   date-format: full
   # favicon: path/to/favorite-logo.png
@@ -63,14 +63,14 @@ book:
       chapters:
         - eda/eda-member1.qmd
         - eda/eda-member2.qmd
-        - eda/eda-member3.qmd
+        #- eda/eda-member3.qmd
 
   appendices:
   - appx/proposal.qmd
   - appx/case-study.qmd
   - wa/wa-member1.qmd
   - wa/wa-member2.qmd
-  - wa/wa-member3.qmd
+ # - wa/wa-member3.qmd
 
 
 
