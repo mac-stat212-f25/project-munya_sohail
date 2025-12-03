@@ -339,10 +339,6 @@ ggplot() +
 
 ```
 
-
-
-
-
 1. avarage salaries across different industries
 2. map for salaries by different US states
 3. Remote, hybrid and onsite comparisons

@@ -1,0 +1,945 @@
+job_title,seniority_level,status,location,post_date,industry,ownership,company_size,revenue,salary_clean,avg_salary_usd,skills
+data scientist,senior,hybrid,"Grapevine, TX . Hybrid",17 days ago,Retail,Public,NA,NA,100472 - 200938,113071.18879999999,"['spark', 'r', 'python', 'scala', 'machine learning', 'tensorflow']"
+data scientist,lead,hybrid,"Fort Worth, TX . Hybrid",15 days ago,Manufacturing,Public,"155,030","155,030",118733,133622.1182,"['spark', 'r', 'python', 'sql', 'machine learning']"
+data scientist,senior,on-site,"Austin, TX . Toronto, Ontario, Canada . Kirkland, WA . Orlando, FL . Edmonton, Alberta, Canada + 1 More",a month ago,Technology,Public,"25,930","25,930",94987 - 159559,106898.3698,"['aws', 'git', 'python', 'docker', 'sql', 'machine learning', 'gcp', 'kubernetes', 'deep learning']"
+data scientist,senior,hybrid,"Chicago, IL . Scottsdale, AZ . Austin, TX . Hybrid",8 days ago,Technology,Public,"34,690","34,690",112797 - 194402,126941.7438,"['sql', 'r', 'python']"
+data scientist,NA,on-site,NA,3 days ago,Finance,Private,"1,800","1,800",114172 - 228337,128489.1688,[]
+data scientist,lead,NA,"New York, NY",3 months ago,Technology,Private,150,150,196371 - 251170,220995.9234,"['scikit-learn', 'python', 'scala', 'sql', 'machine learning', 'tensorflow']"
+data scientist,junior,NA,"Berkeley, CA",15 days ago,Education,NA,"17,471","17,471",51330 - 70144,57766.782,[]
+machine learning engineer,senior,on-site,"Menlo Park, CA",9 days ago,Technology,Public,900,NA,121480 - 132440,136713.592,['machine learning']
+data scientist,senior,remote,NA,6 days ago,Technology,Private,126,126,207331,233330.3074,[]
+data scientist,senior,on-site,NA,a day ago,Technology,Public,"5,520","5,520",219201,246688.80539999998,[]
+data scientist,senior,NA,"Atlanta, GA",15 days ago,Technology,Public,"103,010","103,010",96815,108955.601,"['pytorch', 'r', 'python', 'sql', 'machine learning', 'keras', 'deep learning', 'tensorflow']"
+data scientist,midlevel,NA,Greater Vancouver Metropolitan Area,6 days ago,Education,NA,240,240,62697 - 89293,70559.2038,"['java', 'git', 'python']"
+data scientist,senior,remote,"Minneapolis, MN . Fully Remote",8 days ago,Manufacturing,Public,"21,030","21,030",99464 - 165954,111936.7856,"['sql', 'machine learning', 'python']"
+data scientist,senior,on-site,"Titusville, NJ . Titusville, New Jersey, United States",19 days ago,Healthcare,Public,"128,890","128,890",112343 - 117823,126430.8122,"['sql', 'machine learning', 'r', 'python']"
+data scientist,senior,on-site,"Arlington, VA",a month ago,Technology,Private,45,45,127867 - 150700,143901.5218,"['pandas', 'powerbi', 'python', 'java', 'sql', 'machine learning', 'tableau']"
+data scientist,senior,remote,NA,14 days ago,Finance,Private,300,300,134266,151102.9564,[]
+data scientist,lead,NA,"Bengaluru, Karnataka, India",6 days ago,Technology,Public,"132,000","132,000",52746,59360.348399999995,"['spark', 'aws', 'r', 'python', 'machine learning', 'gcp', 'deep learning', 'hadoop', 'azure']"
+data scientist,lead,on-site,"Charlotte, NC . On-site",8 days ago,Finance,Public,"257,150","257,150",126956 - 198196,142876.2824,"['aws', 'r', 'python', 'sql', 'machine learning', 'azure', 'tableau']"
+data scientist,senior,remote,NA,13 days ago,Education,Private,130,130,185412 - 228338,208662.6648,[]
+machine learning engineer,junior,NA,"Basel, Basel, Switzerland",19 days ago,Healthcare,Public,"93,580","93,580",80123,90170.4242,"['pytorch', 'python', 'machine learning', 'deep learning', 'tensorflow']"
+data scientist,senior,on-site,"Toronto, Ontario, Canada . On-site",8 days ago,Finance,Public,"44,010",NA,72611,81716.4194,"['pytorch', 'spark', 'git', 'r', 'python', 'sql', 'machine learning', 'tensorflow']"
+data scientist,senior,on-site,"Findlay, OH . Denver, CO . San Antonio, TX",8 days ago,Energy,Public,"11,610","11,610",95265 - 164221,107211.231,"['pytorch', 'scikit-learn', 'python', 'machine learning', 'deep learning', 'tensorflow']"
+data scientist,senior,on-site,"Toronto, Ontario, Canada",6 days ago,Technology,Private,300,300,85044,95708.51759999999,"['airflow', 'spark', 'machine learning', 'python']"
+data scientist,senior,NA,"San Francisco, CA",3 months ago,Technology,Private,100,100,146141 - 210074,164467.0814,[]
+data scientist,lead,NA,"Bengaluru, Karnataka, India",a month ago,Technology,Public,"222,070","222,070",10049,11309.1446,"['deep learning', 'machine learning']"
+data scientist,NA,remote,"Remote, US . Fully Remote",3 months ago,Technology,Private,340,340,91335 - 109601,102788.409,[]
+data scientist,senior,NA,"Huntsville, AL . Merritt Island, FL . Seattle, WA",15 days ago,Technology,Private,"3,780","3,780",125171 - 175240,140867.4434,"['aws', 'git', 'r', 'python', 'docker', 'machine learning', 'kubernetes', 'deep learning', 'azure']"
+data scientist,senior,NA,"San Francisco, CA",8 days ago,Education,Private,807,807,150707,169605.6578,"['sql', 'machine learning', 'r', 'python']"
+data scientist,senior,on-site,"Laurel, MD",a month ago,Technology,NA,"8,010","8,010",210071,236413.90339999998,['python']
+machine learning engineer,senior,NA,"Amsterdam, North Holland, Netherlands",a month ago,Technology,Public,"26,950","26,950",72515,81608.381,"['sql', 'machine learning', 'python']"
+data scientist,lead,on-site,"Richmond, VA . On-site",7 days ago,Technology,Public,"4,820","4,820",112288,126368.91519999999,"['machine learning', 'python']"
+data scientist,lead,hybrid,"Seattle, WA . Hybrid",25 days ago,Retail,Public,"157,200",NA,132437,149044.5998,"['r', 'python', 'sql', 'machine learning', 'tableau']"
+data scientist,senior,hybrid,"Manchester, England, United Kingdom . Hybrid",15 days ago,Technology,Public,"1,320",NA,45669 - 63936,51395.8926,"['spark', 'python', 'airflow', 'sql', 'machine learning']"
+data scientist,senior,on-site,"Richmond, VA . On-site",7 days ago,Technology,Public,"4,780","4,780",112291,126372.2914,"['machine learning', 'python']"
+NA,midlevel,NA,"Barcelona, Catalonia, Spain",7 days ago,Technology,NA,900,900,28068,31587.727199999998,"['git', 'r', 'python', 'linux', 'bash']"
+data scientist,senior,on-site,"Toronto, Ontario, Canada",3 days ago,Technology,Private,"26,070","26,070",83298 - 124946,93743.5692,"['pandas', 'numpy', 'scikit-learn', 'python', 'sql', 'azure', 'tableau']"
+data scientist,senior,hybrid,"Foster City, CA . Hybrid",3 years ago,Technology,Private,"1,790","1,790",198201 - 269440,223055.4054,[]
+data scientist,senior,hybrid,"San Francisco, CA, US . Seattle, WA, US . Hybrid",19 days ago,Technology,Public,"5,260","5,260",260211,292841.4594,[]
+data scientist,lead,NA,United States,a month ago,Technology,Private,210,210,114355,128695.117,"['pytorch', 'spark', 'scikit-learn', 'python', 'neural network', 'machine learning', 'deep learning', 'tensorflow']"
+data scientist,midlevel,on-site,"Cambridge, MA",15 days ago,Technology,Public,"9,070",NA,144311 - 198198,162407.5994,"['r', 'python', 'sql', 'machine learning', 'tableau']"
+data scientist,senior,NA,"Atlanta, GA",20 days ago,Technology,Public,"9,030","9,030",105035,118206.389,"['sql', 'machine learning', 'tableau', 'python']"
+data scientist,senior,remote,United States . Fully Remote,2 months ago,Technology,Private,60,60,155272 - 164406,174743.1088,"['sql', 'machine learning', 'tableau', 'python']"
+data scientist,senior,on-site,"San Diego, CA",9 days ago,Technology,Public,"41,020","41,020",140661,158299.8894,"['pytorch', 'python', 'docker', 'sql', 'neural network', 'kubernetes', 'tensorflow']"
+data scientist,senior,hybrid,"Toronto, Ontario, Canada . Montreal, Quebec, Canada . Hybrid",8 days ago,Finance,Public,"26,040",NA,73739,82985.8706,"['machine learning', 'r', 'python']"
+data scientist,senior,hybrid,"New York, NY . Hybrid",6 days ago,Technology,Public,"5,050","5,050",135178 - 168971,152129.3212,[]
+data scientist,senior,on-site,NA,14 days ago,Technology,Private,990,990,228515,257170.781,[]
+data scientist,senior,NA,"New York, NY",8 days ago,Finance,Public,"2,290",NA,137007 - 159840,154187.6778,"['aws', 'git', 'python', 'sql', 'machine learning']"
+machine learning engineer,senior,NA,"Seattle, WA",15 days ago,Technology,Private,"3,810","3,810",162184 - 227055,182521.8736,"['pandas', 'pytorch', 'aws', 'python', 'docker', 'machine learning', 'kubernetes', 'deep learning', 'azure', 'tensorflow']"
+data scientist,senior,hybrid,"McLean, VA . Hybrid",8 days ago,Technology,Public,"24,040",NA,92833 - 172402,104474.2582,"['java', 'machine learning', 'r', 'python']"
+data scientist,lead,on-site,"Seattle, Washington, United States . On-site",12 days ago,Technology,Private,46,46,210070 - 228336,236412.778,[]
+data scientist,senior,NA,"Warsaw, Mazowieckie, Poland . Prague, Prague, Czechia . Kyiv, Kyiv City, Ukraine",3 months ago,Technology,Private,330,330,67594 - 86774,76070.2876,"['pandas', 'pytorch', 'r', 'python', 'machine learning', 'tensorflow']"
+data scientist,senior,on-site,NA,3 months ago,Technology,Private,5,5,123307 - 191806,138769.6978,[]
+data scientist,senior,on-site,"San Francisco, California, United States . On-site",20 days ago,Finance,Private,950,950,219199 - 273999,246686.5546,[]
+data scientist,NA,NA,"Bangalore, Karnataka",5 months ago,Technology,Private,750,750,41302,46481.2708,[]
+data scientist,senior,hybrid,"Toronto, Ontario, Canada . Hybrid",7 days ago,Technology,Public,"23,860","23,860",75128 - 79194,84549.0512,"['sql', 'tableau', 'python']"
+data scientist,senior,on-site,"Rock Island, IL . On-site",3 months ago,Technology,Public,"28,840",NA,77667 - 129442,87406.4418,"['scikit-learn', 'r', 'python', 'java', 'machine learning']"
+data scientist,midlevel,NA,"Cambridge, England, United Kingdom",8 days ago,Education,NA,"10,933","10,933",31175,35084.345,[]
+data scientist,midlevel,remote,"Oregon, United States . Fully Remote",4 days ago,Manufacturing,Public,"99,620","99,620",19420 - 98368,21855.268,"['pandas', 'powerbi', 'r', 'python', 'sql', 'neural network', 'machine learning', 'deep learning', 'tableau']"
+machine learning engineer,senior,NA,"Pune, Maharashtra, India",4 days ago,Logistics,Private,"38,090","38,090",26757,30112.3278,"['spark', 'aws', 'powerbi', 'python', 'docker', 'sql', 'machine learning', 'gcp', 'kubernetes', 'deep learning', 'azure']"
+data scientist,senior,NA,"Denver, CO",8 days ago,Finance,Public,"2,300",NA,137005 - 159838,154185.427,"['aws', 'git', 'python', 'sql', 'machine learning']"
+data scientist,senior,on-site,"San Francisco, California, United States . On-site",a month ago,Technology,Private,420,420,148808,167468.5232,[]
+data scientist,lead,on-site,"Charlotte, NC",8 days ago,Retail,Public,"118,910",NA,101935 - 193633,114717.64899999999,"['sql', 'deep learning', 'machine learning']"
+data scientist,senior,hybrid,"Bengaluru, Karnataka, India . Hybrid",a month ago,Finance,Public,"68,400",NA,24205,27240.307,"['pytorch', 'aws', 'python', 'sql', 'gcp', 'azure', 'tensorflow']"
+data scientist,senior,NA,"Chennai, Tamil Nadu, India",2 days ago,Technology,Public,"187,540","187,540",13886,15627.304399999999,"['pandas', 'numpy', 'pytorch', 'powerbi', 'git', 'scikit-learn', 'python', 'java', 'sql', 'neural network', 'gcp', 'machine learning', 'matplotlib', 'tensorflow']"
+data scientist,senior,on-site,"Menlo Park, CA . On-site",15 days ago,Finance,Public,"3,810","3,810",163491 - 191804,183992.7714,[]
+data scientist,midlevel,NA,"Berkeley, CA",15 days ago,Education,NA,"17,451","17,451",82193 - 122141,92500.0022,"['machine learning', 'database']"
+data scientist,senior,remote,"Remote, United States . Fully Remote",a month ago,Technology,Private,"1,290","1,290",134541 - 174088,151412.44139999998,[]
+data scientist,senior,on-site,"Rock Island, IL . On-site",3 months ago,Technology,Public,"28,810",NA,77671 - 129446,87410.9434,"['scikit-learn', 'r', 'python', 'java', 'machine learning']"
+data scientist,senior,remote,"San Francisco, CA, US . Remote, US . Fully Remote",4 days ago,Technology,Public,"5,320","5,320",306623,345073.5242,[]
+data scientist,senior,NA,United States,15 days ago,Finance,Private,30,30,28501,32075.0254,[]
+data scientist,senior,remote,NA,a day ago,Technology,Public,"5,550","5,550",255732,287800.7928,[]
+data scientist,NA,remote,NA,8 days ago,Finance,Private,45,45,91335 - 228333,102788.409,[]
+data scientist,senior,NA,"Pittsburgh, PA",7 days ago,Technology,Public,"103,070","103,070",96819,108960.1026,"['python', 'java', 'sql', 'kubernetes', 'azure']"
+data scientist,senior,on-site,"Seattle, WA . Seattle, Washington, États-Unis . Seattle, Washington, USA",a month ago,Retail,Public,"865,416","865,416",219201,246688.80539999998,"['amazon', 'r', 'python', 'machine learning', 'deep learning']"
+machine learning engineer,NA,on-site,"Taipei, Taiwan . On-site",a day ago,Technology,Private,530,530,36340,40897.036,[]
+data scientist,senior,hybrid,"Denver, CO . Hybrid",a month ago,Technology,Private,900,900,138833,156242.6582,"['spark', 'r', 'python', 'database', 'machine learning']"
+data scientist,senior,remote,"Fort Worth, TX",a month ago,Technology,Public,"108,670","108,670",100470 - 132436,113068.938,['machine learning']
+data scientist,senior,hybrid,"Austin, Texas . Hybrid",a day ago,Technology,Public,"2,760",NA,200936,226133.3744,[]
+data scientist,senior,hybrid,"Toronto, ON . Hybrid",11 days ago,Finance,Private,780,780,153442 - 210981,172683.6268,[]
+data scientist,senior,NA,"Orlando, FL",5 days ago,Finance,Public,"14,090","14,090",88185,99243.39899999999,"['spark', 'r', 'python', 'sql', 'hadoop', 'machine learning']"
+data scientist,senior,on-site,United States,15 days ago,Technology,Private,900,900,203676 - 253909,229216.9704,"['pytorch', 'spark', 'aws', 'scikit-learn', 'python', 'docker', 'deep learning', 'java', 'sql', 'machine learning', 'gcp', 'kubernetes', 'hadoop', 'azure', 'tensorflow']"
+data scientist,lead,remote,"All, MO",15 days ago,Technology,Public,"2,570",NA,146133 - 182666,164458.0782,"['aws', 'scikit-learn', 'python', 'sql', 'machine learning', 'tensorflow']"
+machine learning engineer,NA,on-site,"Mountain View, California (HQ) . On-site",8 days ago,Technology,Private,900,900,138826 - 208239,156234.7804,[]
+data scientist,senior,on-site,"Reston, VA",4 days ago,Technology,Private,"21,690","21,690",167600 - 225989,188617.03999999998,"['aws', 'git', 'python', 'java', 'kubernetes', 'machine learning']"
+data scientist,senior,remote,NA,2 months ago,Technology,Private,900,900,133351 - 155271,150073.2154,[]
+data scientist,senior,hybrid,"Redwood City, US, California . Hybrid",2 months ago,Technology,Private,"2,010","2,010",149786 - 195453,168569.16439999998,[]
+data scientist,senior,on-site,"Veldhoven, North Brabant, Netherlands . On-site",21 days ago,Technology,Public,"24,780","24,780",82371,92700.3234,['r']
+data scientist,senior,remote,NA,4 days ago,Technology,Public,"4,080","4,080",224774,252960.65959999998,[]
+data scientist,senior,NA,"Ridgefield, CT",10 days ago,Technology,Public,"52,060",NA,127874 - 202766,143909.3996,"['pytorch', 'git', 'scikit-learn', 'python', 'docker', 'kubernetes', 'machine learning', 'tensorflow']"
+data scientist,senior,NA,"Pune, Maharashtra, India",15 days ago,Technology,Public,"524,608","524,608",27274 - 52695,30694.1596,"['pandas', 'pytorch', 'r', 'python', 'java', 'database', 'keras', 'machine learning', 'matplotlib', 'tensorflow']"
+data scientist,NA,on-site,"San Mateo, CA . On-site",a month ago,Technology,Private,126,126,109602 - 123302,123346.09079999999,[]
+data scientist,senior,on-site,NA,11 days ago,Technology,Public,"2,790",NA,117189 - 185414,131884.5006,[]
+data scientist,senior,on-site,"Omaha, NE . Newport Beach, CA . Massachusetts, United States",a month ago,Finance,Public,"4,010",NA,149445 - 182654,168185.403,"['scikit-learn', 'python', 'sql', 'machine learning', 'tensorflow']"
+data scientist,senior,on-site,"Torrance, CA",3 days ago,Technology,Public,"10,100","10,100",63942,71960.3268,"['spark', 'r', 'python', 'hadoop', 'machine learning']"
+data scientist,senior,hybrid,"Los Angeles, CA . United States . San Francisco, CA . Hybrid",20 days ago,Technology,Private,150,150,182668 - 214634,205574.5672,['amazon']
+data scientist,midlevel,remote,"San Francisco, CA",8 days ago,Technology,Public,"1,290",NA,90877 - 141566,102272.9758,"['tableau', 'sql', 'r', 'python']"
+data scientist,senior,hybrid,"Navi Mumbai, Maharashtra, India . Hybrid",a month ago,Finance,Public,"9,920",NA,15542,17490.9668,"['pandas', 'numpy', 'pytorch', 'scikit-learn', 'python', 'docker', 'scipy', 'sql', 'machine learning', 'deep learning', 'matplotlib', 'tensorflow']"
+data scientist,senior,hybrid,"Tallinn, Harjumaa, Estonia . Hybrid",15 days ago,Technology,Private,"3,770","3,770",61772,69518.2088,"['pandas', 'numpy', 'spark', 'aws', 'scikit-learn', 'python', 'docker', 'airflow', 'sql', 'machine learning', 'deep learning']"
+data scientist,senior,on-site,"New York, NY",8 days ago,Retail,Public,"130,040","130,040",137004,154184.3016,['machine learning']
+data scientist,senior,NA,"Fairfax, VA",2 months ago,Technology,Public,"97,010","97,010",171892 - 257744,193447.2568,"['pytorch', 'git', 'python', 'machine learning', 'keras', 'deep learning', 'tensorflow']"
+data scientist,senior,hybrid,"New York, NY . Hybrid",8 days ago,Technology,Public,830,830,45674 - 105040,51401.5196,"['database', 'sql', 'aws', 'python']"
+data scientist,midlevel,NA,United States,a month ago,Technology,Private,15,15,137007 - 164407,154187.6778,"['amazon', 'spark', 'python', 'airflow', 'machine learning']"
+data scientist,senior,on-site,"Phoenix, AZ",3 days ago,Energy,Public,"35,020","35,020",82201,92509.0054,"['powerbi', 'aws', 'r', 'python', 'sql', 'machine learning']"
+data scientist,NA,hybrid,NA,7 months ago,Finance,Private,890,890,158920 - 237831,178848.568,[]
+data scientist,NA,on-site,"Bengaluru, Karnataka, India . On-site",22 days ago,Technology,Private,180,180,27409,30846.0886,[]
+data scientist,lead,hybrid,"Austin, TX . Hybrid",15 days ago,Technology,Public,"19,470","19,470",109605,123349.46699999999,"['java', 'sql', 'python']"
+data scientist,lead,hybrid,"Cincinnati, OH . Chicago, IL . Hybrid",a day ago,Technology,Private,"1,230","1,230",199795,224849.293,[]
+data scientist,senior,on-site,"Manassas, VA",14 days ago,Technology,Public,"40,060","40,060",94077 - 118737,105874.2558,"['aws', 'python', 'linux', 'sql', 'gcp', 'hadoop']"
+data scientist,senior,NA,"Bengaluru, Karnataka, India",8 days ago,Technology,Private,"1,270","1,270",639348,719522.2392,"['spark', 'aws', 'python', 'sql', 'gcp', 'deep learning', 'tensorflow', 'tableau']"
+data analyst,midlevel,NA,"Eindhoven, North Brabant, Netherlands",15 days ago,Healthcare,Public,"82,020",NA,69047,77705.4938,['python']
+data scientist,senior,NA,"Cincinnati, OH",5 days ago,Technology,Public,"222,500",NA,135179,152130.4466,"['azure', 'aws', 'machine learning', 'python']"
+machine learning engineer,NA,on-site,"San Francisco, CA . Seattle, WA . New York, NY . On-site",13 days ago,Technology,Private,580,580,200939 - 296838,226136.7506,[]
+data scientist,lead,hybrid,"Bengaluru, Karnataka, India . Hybrid",8 days ago,Technology,Private,900,900,19096,21490.6384,"['spark', 'r', 'python', 'java', 'sql', 'machine learning']"
+data scientist,senior,NA,Raleigh-Durham-Chapel Hill Area,2 days ago,Technology,Public,"10,010",NA,99560,112044.824,"['spark', 'aws', 'r', 'python', 'machine learning', 'hadoop', 'deep learning']"
+data scientist,senior,hybrid,"McLean, VA . Hybrid",5 days ago,Technology,Public,"24,030",NA,92838 - 172407,104479.88519999999,"['java', 'machine learning', 'r', 'python']"
+data scientist,NA,remote,NA,7 days ago,Retail,Private,"12,300","12,300",137001,154180.9254,[]
+data scientist,senior,on-site,"Rochester, New York Metropolitan Area",22 days ago,Education,NA,"9,320","9,320",55196 - 77273,62117.5784,"['deep learning', 'machine learning']"
+data scientist,senior,on-site,"Denver, CO",15 days ago,Healthcare,Public,"24,020","24,020",68685 - 100834,77298.099,"['pytorch', 'aws', 'r', 'python', 'docker', 'scikit-learn', 'sql', 'machine learning', 'gcp', 'deep learning', 'azure', 'tensorflow']"
+data scientist,senior,hybrid,Greater São Paulo Area . Hybrid,22 days ago,Technology,Public,"26,910","26,910",50222,56519.8388,"['sql', 'r', 'python']"
+data scientist,midlevel,on-site,"Mettawa, IL",6 days ago,Healthcare,Public,"49,360","49,360",137003,154183.1762,[]
+data scientist,senior,on-site,"South San Francisco, CA . On-site",25 days ago,Healthcare,Public,"78,750","78,750",124219,139796.0626,"['machine learning', 'r', 'python']"
+data scientist,senior,remote,United States,5 days ago,Technology,Public,"27,450",NA,95586 - 172785,107572.4844,"['machine learning', 'r', 'python']"
+data scientist,lead,on-site,"San Antonio, TX",15 days ago,Finance,Private,"33,030","33,030",137008,154188.8032,"['spark', 'r', 'python', 'sql', 'machine learning', 'hadoop', 'deep learning']"
+data scientist,senior,remote,United States . Fully Remote,a day ago,Technology,Private,30,30,137002 - 155268,154182.0508,"['sql', 'machine learning', 'tableau', 'python']"
+data scientist,senior,NA,"Mississauga, Ontario, Canada",5 days ago,Healthcare,Public,"93,560","93,560",74130,83425.902,"['gcp', 'git', 'r']"
+data scientist,senior,hybrid,"Manchester, England, United Kingdom . Hybrid",2 months ago,Technology,Private,180,180,95906 - 105039,107932.6124,"['pytorch', 'aws', 'scikit-learn', 'scipy', 'machine learning', 'gcp', 'azure', 'tensorflow']"
+data scientist,NA,on-site,"Bowie, MD . On-site",8 days ago,Technology,Public,"2,820",NA,101149 - 110282,113833.0846,[]
+data scientist,senior,on-site,"Plano, TX . On-site",15 days ago,Finance,Public,"290,800","290,800",86772 - 196371,97653.2088,"['pytorch', 'machine learning', 'tensorflow', 'python']"
+data scientist,midlevel,NA,"Arlington, VA",8 days ago,Finance,Private,"23,320","23,320",173540,195301.916,"['spark', 'python', 'docker', 'java', 'sql', 'machine learning', 'kubernetes', 'hadoop', 'deep learning']"
+data scientist,lead,NA,"New York, NY",4 days ago,Healthcare,Private,"76,020","76,020",171458 - 238990,192958.8332,"['powerbi', 'r', 'python', 'scikit-learn', 'sql', 'machine learning', 'tensorflow', 'tableau']"
+data scientist,lead,hybrid,"San Francisco, CA . Hybrid",5 days ago,Healthcare,Private,500,500,258704,291145.4816,[]
+data scientist,senior,NA,"Chicago, IL",9 days ago,Healthcare,Public,"2,520",NA,63935 - 86768,71952.449,"['powerbi', 'r', 'python', 'sql', 'database', 'hadoop', 'tableau']"
+data scientist,NA,on-site,"Charlotte, NC . On-site",8 days ago,Technology,Private,"3,760","3,760",123305 - 137005,138767.447,[]
+data scientist,senior,on-site,"San Francisco, CA . On-site",4 days ago,Technology,Private,150,150,155274,174745.3596,"['sql', 'machine learning', 'r', 'python']"
+data scientist,senior,hybrid,"Foster City, CA . Hybrid",6 days ago,Finance,Public,"21,050","21,050",120561 - 192988,135679.3494,"['pytorch', 'spark', 'r', 'python', 'scikit-learn', 'machine learning', 'deep learning', 'tensorflow']"
+machine learning engineer,senior,hybrid,"Vancouver, British Columbia, Canada . Hybrid",a month ago,Technology,Public,"25,940","25,940",59371 - 63938,66816.1234,"['pytorch', 'machine learning', 'tensorflow', 'python']"
+data scientist,senior,on-site,"Alameda, CA",7 days ago,Healthcare,Public,"103,540","103,540",79187,89117.0498,"['spark', 'r', 'python', 'scala', 'linux', 'java', 'hadoop', 'machine learning']"
+data scientist,senior,NA,"Berlin, Berlin, Germany",8 days ago,Technology,Private,"3,780","3,780",98643,111012.83219999999,"['pandas', 'numpy', 'spark', 'aws', 'scikit-learn', 'python', 'airflow', 'machine learning']"
+data scientist,senior,NA,"Singapore, Singapore",7 days ago,Finance,Public,"30,870",NA,67044,75451.3176,"['pytorch', 'git', 'python', 'machine learning', 'tensorflow']"
+data scientist,senior,NA,"Boston, MA . Newark, DE . Tampa, FL . Kennesaw, GA . Plano, TX + 8 More",a month ago,Finance,Public,"274,280","274,280",150707 - 224869,169605.6578,"['python', 'java', 'sql', 'hadoop', 'machine learning']"
+data scientist,lead,NA,"New York, NY",2 months ago,Healthcare,Public,"300,070","300,070",131706 - 263408,148221.9324,"['sql', 'python']"
+data scientist,midlevel,on-site,"San Diego, CA . On-site",5 days ago,Healthcare,Public,"78,720","78,720",115539 - 181846,130027.5906,"['aws', 'git', 'r', 'python', 'java', 'machine learning', 'database', 'azure', 'matplotlib']"
+data scientist,senior,on-site,"Redmond, WA",a month ago,Technology,Public,"94,540","94,540",121475 - 255734,136707.965,"['sql', 'machine learning', 'r', 'python']"
+data scientist,lead,hybrid,NA,a month ago,Technology,Private,360,360,294100,330980.14,[]
+data scientist,NA,on-site,"San Francisco, California . On-site",8 days ago,Technology,Private,500,500,127874 - 155273,143909.3996,[]
+machine learning engineer,senior,NA,"Pune, Maharashtra, India",2 days ago,Logistics,Private,"38,130","38,130",26760,30115.703999999998,"['spark', 'aws', 'powerbi', 'python', 'docker', 'sql', 'machine learning', 'gcp', 'kubernetes', 'deep learning', 'azure']"
+data scientist,midlevel,remote,"Annapolis Junction, MD . Annapolis, MD . Fully Remote",a month ago,Technology,Private,60,60,109600 - 182666,123343.84,"['linux', 'machine learning', 'python']"
+data scientist,senior,remote,"Rosemont, IL",5 days ago,Healthcare,Public,"28,070",NA,68501 - 109601,77091.0254,"['git', 'r', 'python', 'bash', 'sql', 'machine learning', 'deep learning']"
+data scientist,lead,hybrid,"New York, NY . Hybrid",a month ago,Finance,Public,"68,430",NA,137002,154182.0508,"['pandas', 'numpy', 'scikit-learn', 'python', 'sql', 'hadoop']"
+data scientist,senior,NA,"Hyderabad, Telangana, India",10 days ago,Technology,Public,"40,050","40,050",24621,27708.4734,"['pytorch', 'r', 'python', 'sql', 'machine learning', 'deep learning', 'tensorflow', 'tableau']"
+data scientist,junior,NA,"Bengaluru, Karnataka, India",a month ago,Technology,Public,"222,040","222,040",10055,11315.896999999999,"['deep learning', 'machine learning']"
+data scientist,senior,on-site,"Chantilly, VA . On-site",a month ago,Technology,Public,"26,030","26,030",114171,128488.0434,"['aws', 'azure']"
+data scientist,senior,NA,"Pune, Maharashtra, India",8 days ago,Finance,Public,"68,160","68,160",29949 - 41758,33704.6046,"['powerbi', 'aws', 'python', 'sql', 'machine learning', 'tableau']"
+data scientist,senior,NA,"Bengaluru, Karnataka, India",5 days ago,Technology,Public,"261,060","261,060",9583,10784.7082,"['aws', 'r', 'python', 'sql', 'neural network', 'gcp', 'azure']"
+data scientist,senior,on-site,"Orlando, FL",a month ago,Technology,Public,"108,650","108,650",68500,77089.9,['machine learning']
+data scientist,senior,remote,"Bengaluru, Karnataka, India",3 months ago,Technology,Private,"15,440","15,440",36104,40631.4416,"['spark', 'python', 'sql', 'machine learning', 'deep learning', 'tensorflow']"
+data scientist,senior,hybrid,"Montreal, Quebec, Canada . Hybrid",5 days ago,Technology,Private,31,31,55906,62916.6124,"['pandas', 'numpy', 'pytorch', 'aws', 'scikit-learn', 'python', 'sql', 'machine learning']"
+data scientist,midlevel,hybrid,"Lebanon, NH . Hybrid",17 days ago,Healthcare,Public,613,NA,81293 - 108937,91487.1422,"['machine learning', 'python']"
+data scientist,midlevel,on-site,"Veldhoven, North Brabant, Netherlands . On-site",8 days ago,Technology,Public,"24,820","24,820",82373,92702.5742,['python']
+data scientist,senior,remote,United States,15 days ago,Healthcare,Public,"1,020",NA,88140 - 136089,99192.756,"['sql', 'azure', 'r', 'python']"
+data scientist,senior,NA,"New York, NY",22 days ago,Technology,Public,"11,060",NA,114175 - 118741,128492.545,"['aws', 'git', 'python', 'sql', 'gcp', 'machine learning']"
+data scientist,senior,on-site,"Annapolis Junction, MD",a month ago,Technology,Private,45,45,178100 - 210980,200433.74,"['sql', 'machine learning', 'r', 'python']"
+data scientist,senior,NA,"Budapest, Budapest, Hungary",a month ago,Finance,Public,"88,990","88,990",27403,30839.336199999998,"['machine learning', 'python']"
+data scientist,midlevel,remote,"Fort Meade, MD . Fort Meade, Maryland, Birleşik Devletler . Fully Remote",3 months ago,Technology,Private,90,90,127871 - 178103,143906.0234,"['sql', 'machine learning', 'r', 'python']"
+data scientist,senior,on-site,"Mountain View, CA",15 days ago,Technology,Public,"182,338","182,338",171712 - 277840,193244.6848,"['sql', 'python']"
+data scientist,senior,NA,"Bengaluru, Karnataka, India",19 days ago,Technology,Private,"3,540","3,540",19234,21645.9436,"['pytorch', 'aws', 'git', 'python', 'docker', 'gcp', 'azure', 'tensorflow']"
+data scientist,lead,on-site,Antwerp Metropolitan Area,2 days ago,Technology,Public,"20,070",NA,90697,102070.4038,"['powerbi', 'tableau']"
+machine learning engineer,NA,on-site,"San Francisco, CA . Seattle, WA . New York, NY . On-site",13 days ago,Technology,Private,31,31,200939 - 296838,226136.7506,[]
+data scientist,senior,on-site,United States,9 days ago,Technology,Public,"212,610","212,610",99744 - 204046,112251.8976,"['pytorch', 'aws', 'r', 'python', 'docker', 'machine learning', 'kubernetes', 'deep learning', 'tensorflow']"
+data scientist,senior,on-site,"Dublin, County Dublin, Ireland",22 days ago,Healthcare,Public,"37,990",NA,52987,59631.5698,"['sql', 'azure', 'python']"
+data scientist,lead,NA,"Alpharetta, GA",15 days ago,Technology,Public,"65,120",NA,115086,129517.78439999999,"['spark', 'aws', 'r', 'python', 'scala', 'java', 'sql', 'machine learning', 'hadoop', 'azure', 'tensorflow', 'tableau']"
+data scientist,senior,remote,United States,a month ago,Technology,Public,"55,070","55,070",100467,113065.5618,['machine learning']
+machine learning engineer,senior,hybrid,"San Jose, CA . Hybrid",15 days ago,Technology,Public,"34,690","34,690",125584 - 216003,141332.2336,"['pandas', 'numpy', 'pytorch', 'spark', 'aws', 'scikit-learn', 'python', 'java', 'sql', 'machine learning', 'tensorflow']"
+data scientist,senior,on-site,United States . On-site,8 days ago,Technology,Private,"2,540","2,540",137003 - 150703,154183.1762,"['sql', 'machine learning', 'r', 'python']"
+machine learning engineer,senior,NA,NA,2 years ago,Technology,Private,910,910,44207,49750.557799999995,[]
+data scientist,senior,remote,"Riverwoods, IL",10 days ago,Technology,Public,"14,460","14,460",118733 - 166226,133622.1182,"['sql', 'tableau']"
+data scientist,lead,on-site,"South San Francisco, CA",6 days ago,Technology,Private,"14,040","14,040",195911,220478.2394,['machine learning']
+data scientist,midlevel,remote,"Tallahassee, FL . Arlington, VA . Fully Remote",25 days ago,Finance,Public,"7,290",NA,131219 - 223067,147673.8626,"['r', 'python', 'sql', 'machine learning', 'database', 'deep learning']"
+data scientist,senior,remote,NA,a month ago,Technology,Private,960,960,164405 - 226054,185021.387,[]
+data scientist,senior,hybrid,"San Jose, CA . Hybrid",2 months ago,Technology,Private,750,750,112800 - 194405,126945.12,"['sql', 'machine learning', 'r', 'python']"
+data scientist,NA,on-site,NA,13 days ago,Technology,Private,600,600,127868 - 143851,143902.6472,[]
+data scientist,senior,NA,"Edinburgh, Scotland, United Kingdom",a day ago,Finance,Public,"60,010","60,010",59677,67160.4958,"['machine learning', 'python']"
+data scientist,senior,on-site,"Milwaukee, WI",8 days ago,Healthcare,Public,"48,050","48,050",102300 - 140660,115128.42,"['spark', 'python', 'scala', 'machine learning', 'database', 'azure', 'tableau']"
+data scientist,midlevel,on-site,"Pune, Maharashtra, India . On-site",3 months ago,Technology,Private,"12,090","12,090",13173,14824.894199999999,"['amazon', 'r', 'python', 'java', 'database', 'hadoop', 'machine learning']"
+data scientist,senior,remote,NA,2 months ago,Technology,Private,351,351,164400,185015.75999999998,[]
+data scientist,senior,on-site,"Seattle, WA",a month ago,Technology,Public,"65,870","65,870",125223 - 216007,140925.9642,"['sql', 'r', 'python']"
+data scientist,senior,on-site,"Johns Creek, GA",6 days ago,Retail,Public,"130,020","130,020",137000,154179.8,['machine learning']
+data scientist,senior,hybrid,"Basking Ridge, NJ . Irving, TX . Temple Terrace, FL . Boston, MA . Ashburn, VA + 1 More . Hybrid",8 days ago,Technology,Public,"132,060","132,060",92254,103822.6516,"['python', 'sql', 'machine learning', 'database', 'hadoop', 'deep learning']"
+data scientist,senior,NA,"Itanagar, Arunachal Pradesh, India",2 months ago,Finance,Private,"78,060","78,060",12924,14544.6696,"['pandas', 'numpy', 'pytorch', 'spark', 'aws', 'git', 'scikit-learn', 'python', 'docker', 'scipy', 'hadoop', 'machine learning', 'database', 'keras', 'deep learning', 'matplotlib', 'tensorflow']"
+data scientist,senior,remote,NA,16 days ago,Technology,Private,"1,890","1,890",198198 - 277565,223052.0292,[]
+data scientist,senior,on-site,"New Brunswick, NJ",a day ago,Healthcare,Public,"128,860","128,860",97046 - 131295,109215.56839999999,"['aws', 'powerbi', 'r', 'python', 'airflow', 'machine learning', 'azure', 'tableau']"
+data scientist,senior,on-site,"Bellevue, WA",23 days ago,Technology,Public,"24,320",NA,109328 - 203035,123037.7312,"['pytorch', 'scikit-learn', 'python', 'scala', 'java', 'machine learning', 'tensorflow']"
+data scientist,lead,on-site,"Phoenix, AZ",15 days ago,Finance,Private,"33,050","33,050",137000,154179.8,"['spark', 'r', 'python', 'sql', 'machine learning', 'hadoop', 'deep learning']"
+data scientist,senior,NA,"McLean, VA",2 months ago,Technology,Private,420,420,72666 - 159901,81778.3164,"['database', 'machine learning', 'python']"
+data scientist,lead,NA,"Columbia, MD",14 days ago,Technology,Private,180,180,100472 - 146138,113071.18879999999,"['pytorch', 'spark', 'aws', 'r', 'python', 'scikit-learn', 'scala', 'sql', 'machine learning', 'gcp', 'azure', 'tensorflow']"
+data scientist,senior,on-site,NA,a month ago,Technology,Private,420,420,144307 - 167140,162403.0978,[]
+data scientist,senior,NA,"Utah, United States",15 days ago,Technology,Public,"97,070","97,070",125495 - 188149,141232.073,"['aws', 'gcp', 'azure']"
+machine learning engineer,senior,NA,"South San Francisco, CA . South San Francisco, Kalifornia, Stany Zjednoczone",7 days ago,Healthcare,Private,250,250,190891 - 212811,214828.7314,"['pytorch', 'python', 'machine learning', 'deep learning', 'tensorflow']"
+data scientist,senior,hybrid,"Kitchener-Waterloo, ON . Toronto, ON . Hybrid",11 days ago,Finance,Private,780,780,153447 - 210986,172689.2538,[]
+machine learning engineer,senior,on-site,"Torrance, CA",15 days ago,Technology,Public,"10,100","10,100",63941,71959.20139999999,"['java', 'machine learning', 'r', 'python']"
+data scientist,NA,remote,NA,4 days ago,Technology,Private,420,420,213594,240378.6876,[]
+machine learning engineer,lead,NA,NA,a year ago,Technology,Private,910,910,44202,49744.930799999995,[]
+data scientist,senior,hybrid,Greater Chicago Area . Hybrid,a month ago,Finance,Private,660,660,73068 - 91335,82230.7272,"['aws', 'python', 'sql', 'machine learning', 'deep learning']"
+data scientist,NA,on-site,"Barcelona, Spain . On-site",2 months ago,Technology,Private,"3,800","3,800",46528 - 76222,52362.6112,[]
+data scientist,senior,on-site,"Cambridge, MA",5 days ago,Technology,Public,"9,020",NA,9140,10286.155999999999,"['r', 'python', 'sql', 'hadoop', 'machine learning']"
+data scientist,senior,on-site,"Normal, IL . Plymouth, MI . Palo Alto, CA . Irvine, CA . Atlanta, GA",15 days ago,Technology,Public,"3,780","3,780",147050 - 196370,165490.07,"['sql', 'r', 'python']"
+machine learning engineer,NA,hybrid,"Sunnyvale, CA . Hybrid",a day ago,Technology,Private,900,900,144491,162610.1714,[]
+data scientist,senior,remote,NA,11 days ago,Technology,Public,"2,780",NA,146050 - 230989,164364.66999999998,[]
+data scientist,senior,on-site,"Menlo Park, CA",3 months ago,Technology,Public,"3,760","3,760",181756 - 258932,204548.20239999998,['python']
+data scientist,senior,remote,NA,7 days ago,Technology,Private,270,270,132438 - 159838,149045.7252,[]
+data scientist,senior,on-site,"Cincinnati, OH",a month ago,Finance,Public,"62,010","62,010",157017 - 263794,176706.9318,"['spark', 'aws', 'python', 'sql', 'machine learning', 'gcp', 'azure']"
+data scientist,midlevel,on-site,"McLean, VA",6 days ago,Retail,Public,"55,120","55,120",121479 - 138650,136712.46659999999,"['spark', 'aws', 'r', 'python', 'scala', 'sql', 'database', 'machine learning']"
+data scientist,senior,on-site,"Dublin, County Dublin, Ireland",15 days ago,Healthcare,Public,"37,970",NA,57318,64505.6772,"['machine learning', 'r', 'python']"
+data scientist,senior,on-site,NA,a month ago,Technology,Private,420,420,216463 - 242949,243607.4602,[]
+data scientist,NA,hybrid,"Boston, MA . Hybrid",5 days ago,Retail,Public,"17,010",NA,130609 - 140656,146987.3686,[]
+data scientist,senior,NA,United States,10 days ago,Technology,Public,"8,270","8,270",87412 - 139463,98373.4648,"['aws', 'r', 'python', 'linux', 'sql', 'machine learning', 'deep learning', 'azure']"
+data scientist,senior,remote,"Arlington, VA",a month ago,Finance,Public,"7,290",NA,89623 - 152356,100861.7242,"['r', 'python', 'sql', 'machine learning', 'database', 'deep learning']"
+machine learning engineer,midlevel,on-site,"New York, NY",14 days ago,Technology,Private,"14,060","14,060",128871 - 239383,145031.4234,"['deep learning', 'machine learning', 'r', 'python']"
+data scientist,senior,on-site,NA,4 months ago,Technology,Private,320,320,28130,31657.502,[]
+data scientist,midlevel,on-site,"San Francisco, CA",15 days ago,Technology,Public,"9,770",NA,130667 - 241897,147052.64179999998,"['spark', 'aws', 'python', 'airflow', 'sql', 'gcp', 'machine learning']"
+data scientist,senior,on-site,"Atlanta, GA",a month ago,Finance,Private,"1,280","1,280",67682 - 101475,76169.3228,"['pandas', 'aws', 'scikit-learn', 'python', 'sql', 'machine learning', 'gcp', 'azure', 'matplotlib']"
+data scientist,senior,hybrid,"London, England, United Kingdom . Hybrid",15 days ago,Technology,Public,351,NA,91337 - 137003,102790.6598,"['sql', 'aws', 'r', 'python']"
+data scientist,senior,hybrid,"Bengaluru, Karnataka, India . Hybrid",a month ago,Technology,Public,"98,130","98,130",32665,36761.191,"['pandas', 'numpy', 'pytorch', 'aws', 'r', 'python', 'scikit-learn', 'scipy', 'sql', 'machine learning', 'deep learning', 'keras', 'azure', 'matplotlib', 'tensorflow', 'tableau']"
+data scientist,senior,remote,"Washington, United States . Idaho, United States . Arizona, United States . Georgia, United States . South Carolina, United States + 1 More . Fully Remote",7 days ago,Finance,NA,"2,810","2,810",88967 - 166051,100123.46179999999,"['tableau', 'sql', 'r', 'python']"
+data scientist,midlevel,remote,Mexico City Metropolitan Area . Fully Remote,15 days ago,Technology,NA,Private,NA,25212,28373.5848,"['sql', 'machine learning', 'python']"
+data scientist,senior,NA,"Englewood, CO",a month ago,Technology,Public,"2,520",NA,105439,118661.0506,"['sql', 'r', 'python']"
+data scientist,senior,hybrid,"New York, NY . Hybrid",a month ago,Technology,Private,500,500,118741 - 137008,133631.1214,[]
+data scientist,senior,remote,"Madrid, Community of Madrid, Spain",25 days ago,Technology,Private,"5,560","5,560",55995,63016.773,"['spark', 'aws', 'powerbi', 'r', 'python', 'docker', 'linux', 'sql', 'azure', 'tableau']"
+data scientist,lead,hybrid,"Palo Alto, CA . Hybrid",2 months ago,Technology,Private,126,126,186327 - 261220,209692.40579999998,[]
+data scientist,senior,hybrid,"Seattle, WA . Hybrid",4 days ago,Technology,Private,45,45,210073 - 251172,236416.1542,"['sql', 'python']"
+data scientist,NA,hybrid,NA,a month ago,Technology,Private,56,56,36542 - 54809,41124.366799999996,[]
+data scientist,senior,on-site,"Toronto, Ontario, Canada",5 days ago,Finance,Private,"45,050","45,050",94256 - 175359,106075.7024,"['machine learning', 'python']"
+data scientist,senior,NA,United States,5 days ago,Technology,Private,210,210,87407,98367.8378,"['spark', 'aws', 'python', 'sql', 'machine learning', 'gcp', 'azure']"
+data scientist,NA,on-site,"New York City, New York, United States . On-site",2 months ago,Technology,Private,150,150,154356,173712.2424,[]
+data scientist,senior,NA,"Lexington, MA . Massachusetts, United States",a month ago,Technology,Public,"1,800",NA,109604,123348.3416,"['aws', 'scikit-learn', 'python', 'sql', 'machine learning', 'deep learning', 'tensorflow']"
+data scientist,lead,NA,"New York, United States",6 days ago,Technology,Private,"1,020","1,020",141571 - 164405,159324.0034,"['tableau', 'sql', 'r', 'python']"
+data scientist,senior,on-site,"Fort George G Meade, Maryland, United States . On-site",3 months ago,Technology,Private,45,45,89511 - 196370,100735.6794,[]
+data scientist,midlevel,remote,"São Paulo, São Paulo, Brazil . Fully Remote",14 days ago,Technology,NA,Private,NA,25214,28375.8356,"['sql', 'machine learning', 'python']"
+data scientist,midlevel,on-site,"Sacramento, CA",19 days ago,Healthcare,NA,"55,010","55,010",115891 - 172882,130423.73139999999,[]
+data scientist,senior,NA,"New York, United States . Minneapolis, MN . Chicago, IL",5 days ago,Technology,Private,420,420,68504 - 84944,77094.4016,"['git', 'r', 'python', 'docker', 'sql', 'machine learning']"
+data scientist,midlevel,on-site,"Bellevue, WA",a month ago,Retail,Public,"7,100",NA,122847 - 196370,138252.0138,"['aws', 'git', 'python', 'sql', 'machine learning']"
+data scientist,senior,on-site,"Bengaluru, Karnataka, India . Bengaluru East, Karnataka, India",3 months ago,Healthcare,Public,"82,030",NA,27524,30975.509599999998,"['pytorch', 'python', 'docker', 'machine learning', 'kubernetes', 'deep learning', 'tensorflow']"
+data scientist,senior,on-site,"New York City, New York, United States . On-site",23 days ago,Technology,Private,150,150,151203,170163.85619999998,[]
+data scientist,lead,hybrid,"Bengaluru, Karnataka, India . Hybrid",a month ago,Finance,Private,"7,030","7,030",14064,15827.6256,"['aws', 'machine learning', 'gcp', 'azure', 'deep learning']"
+machine learning engineer,senior,on-site,"Washington, DC . On-site",14 days ago,Technology,Private,"3,570","3,570",120104 - 200112,135165.0416,"['deep learning', 'aws', 'machine learning', 'python']"
+machine learning engineer,midlevel,on-site,"Jersey City, NJ",12 days ago,Technology,Public,"309,170",NA,146134 - 164401,164459.2036,"['aws', 'gcp', 'azure']"
+data scientist,senior,NA,"Los Alamos, NM",14 days ago,Energy,NA,"12,802","12,802",114354 - 192992,128693.9916,"['git', 'r', 'python', 'sql', 'machine learning', 'database', 'deep learning']"
+NA,midlevel,NA,"Austin, TX",4 months ago,Education,NA,"16,011","16,011",68505,77095.527,"['linux', 'python']"
+data scientist,senior,on-site,"Irvine, CA",6 days ago,Technology,Private,"5,540","5,540",92252 - 170573,103820.4008,"['amazon', 'pytorch', 'aws', 'python', 'java', 'machine learning', 'deep learning', 'keras', 'azure', 'tensorflow']"
+data scientist,senior,remote,"Brisbane, CA",19 days ago,Healthcare,Public,660,NA,164408 - 211900,185024.7632,"['pandas', 'numpy', 'git', 'r', 'python', 'scikit-learn', 'machine learning', 'matplotlib']"
+data scientist,NA,on-site,"Mountain View, California, United States . On-site",5 months ago,Technology,Private,310,310,187241,210721.0214,[]
+machine learning engineer,senior,NA,"New York, NY . Boston, MA . Los Angeles, CA",a year ago,Technology,NA,Private,NA,146141 - 255740,164467.0814,"['pytorch', 'machine learning']"
+data scientist,midlevel,hybrid,"Kansas City, KS . Hybrid",a month ago,Healthcare,NA,"4,104","4,104",75814 - 119654,85321.0756,"['pytorch', 'r', 'python', 'machine learning', 'deep learning', 'tensorflow']"
+data scientist,senior,on-site,"Boston, MA . United States",22 days ago,Finance,Private,"45,070","45,070",109600,123343.84,"['deep learning', 'machine learning']"
+data scientist,senior,hybrid,"San Jose, CA . Hybrid",2 months ago,Technology,Private,750,750,112803 - 194408,126948.4962,"['sql', 'machine learning', 'r', 'python']"
+data scientist,junior,on-site,"San Diego, CA",7 days ago,Technology,Private,"1,050","1,050",81294 - 109607,91488.26759999999,"['sql', 'machine learning', 'tableau']"
+data scientist,senior,remote,United States . Fully Remote,14 days ago,Technology,Private,550,550,127869 - 164402,143903.7726,"['pytorch', 'scikit-learn', 'python', 'java', 'machine learning', 'tensorflow']"
+data scientist,senior,NA,"Bengaluru, Karnataka, India",a month ago,Technology,Private,"1,800","1,800",19988,22494.495199999998,"['pytorch', 'aws', 'python', 'docker', 'gcp', 'kubernetes', 'azure']"
+data scientist,senior,hybrid,"Toronto, Ontario, Canada . Hybrid",7 days ago,Finance,Public,"29,480",NA,73457,82668.50779999999,"['machine learning', 'python']"
+data scientist,senior,NA,"Boston, MA . บอสตัน, รัฐแมสซาชูเซตส์, สหรัฐ",25 days ago,Healthcare,NA,"4,310","4,310",138543 - 173111,155916.2922,"['r', 'python', 'sql', 'machine learning', 'tableau']"
+data scientist,junior,hybrid,"Overland Park, KS . Frisco, TX . Bellevue, WA . Hybrid",3 days ago,Technology,Public,"83,550",NA,78825 - 142210,88709.655,"['sql', 'machine learning', 'r', 'python']"
+data scientist,midlevel,NA,"Singapore, Singapore",2 days ago,Finance,Public,"30,830",NA,67044,75451.3176,"['spark', 'git', 'python', 'sql', 'hadoop']"
+data scientist,lead,hybrid,"Lake Mary, FL . Hybrid",4 days ago,Finance,Public,"51,750",NA,109606,123350.5924,"['sql', 'kubernetes', 'machine learning', 'python']"
+data scientist,senior,hybrid,"Vilniaus, Lithuania . Nzalae/ Nzawa locations, Kitui County, Kenya . Hybrid",5 months ago,Technology,Private,75,75,5940 - 8223,6684.875999999999,"['aws', 'database', 'sql', 'machine learning', 'gcp', 'kubernetes', 'deep learning', 'azure']"
+data scientist,midlevel,on-site,"Brazil, Sao Paulo . On-site",14 days ago,Technology,Private,"7,070","7,070",28878 - 39713,32499.301199999998,[]
+data scientist,senior,NA,"Washington, DC",2 days ago,Technology,Private,90,90,146134 - 182667,164459.2036,"['spark', 'r', 'python', 'sql', 'machine learning']"
+data scientist,NA,remote,NA,2 days ago,Technology,Private,126,126,127874 - 141573,143909.3996,[]
+data scientist,lead,remote,NA,7 days ago,Technology,Private,750,750,255738,287807.5452,[]
+data scientist,senior,NA,"San Francisco, CA . Chicago, IL . Seattle, WA . New York, NY",13 days ago,Technology,Private,524,524,114175 - 155274,128492.545,"['pandas', 'sql', 'python']"
+data scientist,senior,remote,"Alpharetta, GA",3 months ago,Healthcare,Public,"6,470",NA,82480 - 137371,92822.992,"['pandas', 'numpy', 'aws', 'scikit-learn', 'python', 'scipy', 'database', 'matplotlib']"
+data scientist,senior,on-site,"Orlando, FL",4 days ago,Technology,Private,"8,520","8,520",97168 - 107796,109352.8672,"['amazon', 'azure', 'machine learning']"
+data scientist,senior,NA,"Plainsboro, NJ",7 days ago,Healthcare,Public,"55,215",NA,131088,147526.4352,['deep learning']
+machine learning engineer,NA,hybrid,"New York, NY . Hybrid",23 days ago,Technology,Private,180,180,173536 - 228335,195297.41439999998,[]
+data scientist,senior,remote,NA,8 days ago,Technology,Private,45,45,118741,133631.1214,[]
+data scientist,lead,hybrid,"Tempe, AZ . Hybrid",20 days ago,Finance,Private,"55,070","55,070",100470 - 137003,113068.938,"['linux', 'aws', 'r', 'python']"
+data scientist,senior,on-site,"Indianapolis, IN",15 days ago,Healthcare,Public,"35,050",NA,138373 - 202945,155724.9742,['tableau']
+machine learning engineer,senior,hybrid,"Redwood City, CA . Hybrid",7 days ago,Retail,Public,"2,010",NA,172567 - 244914,194206.9018,"['pytorch', 'spark', 'python', 'scala', 'sql', 'machine learning', 'deep learning', 'tensorflow']"
+data scientist,senior,hybrid,"Santa Clara, CA . Hybrid",3 months ago,Technology,Private,600,600,205499 - 273999,231268.5746,"['pandas', 'numpy', 'pytorch', 'spark', 'aws', 'python', 'machine learning', 'gcp', 'deep learning', 'azure', 'matplotlib', 'tensorflow']"
+data scientist,senior,on-site,"Bengaluru, Karnataka, India",2 months ago,Technology,Private,"1,310","1,310",15667,17631.641799999998,"['powerbi', 'python', 'sql', 'machine learning', 'deep learning', 'matplotlib', 'tableau']"
+data scientist,NA,remote,NA,a month ago,Technology,Private,126,126,155272,174743.1088,[]
+data scientist,lead,on-site,"Boston, MA",7 days ago,Finance,Public,"3,040",NA,141571,159324.0034,"['sql', 'machine learning', 'r', 'python']"
+data scientist,senior,hybrid,"Boston, MA . Hybrid",16 hours ago,Finance,Private,"60,640","60,640",109605 - 159838,123349.46699999999,"['r', 'python', 'machine learning', 'keras', 'deep learning', 'tensorflow']"
+data scientist,lead,remote,"Raleigh, NC",18 days ago,Technology,Public,"2,570",NA,146135 - 182668,164460.329,"['aws', 'scikit-learn', 'python', 'sql', 'machine learning', 'tensorflow']"
+data scientist,senior,remote,NA,a month ago,Technology,Private,300,300,168061 - 192721,189135.8494,[]
+data scientist,senior,on-site,"Brooklyn, OH . Cleveland, OH . United States",a month ago,Finance,Public,"18,030",NA,115085 - 126958,129516.659,"['sql', 'r', 'python']"
+data scientist,senior,remote,NA,3 days ago,Technology,Private,45,45,155269 - 178102,174739.7326,[]
+data scientist,midlevel,on-site,"Chicago, IL",5 days ago,Technology,Private,"43,933","43,933",52518 - 97271,59103.7572,[]
+data scientist,senior,on-site,"South San Francisco, CA",4 days ago,Technology,Private,126,126,147049 - 185363,165488.9446,"['pytorch', 'aws', 'r', 'python', 'docker', 'scikit-learn', 'machine learning', 'gcp', 'deep learning', 'azure', 'matplotlib', 'tensorflow']"
+data scientist,midlevel,on-site,"Philadelphia, PA",10 months ago,Education,NA,"39,879","39,879",91339 - 109605,102792.9106,"['sql', 'machine learning', 'r', 'python']"
+data scientist,lead,on-site,"Minneapolis, MN",a month ago,Finance,Private,"1,320","1,320",112348 - 168609,126436.4392,"['pytorch', 'aws', 'python', 'sql', 'machine learning', 'gcp', 'azure', 'tensorflow']"
+data scientist,senior,hybrid,"Bucharest, Bucharest, Romania . Vilnius, Vilniaus, Lithuania . Estonia . Bulgaria . Poland + 11 More . Hybrid",2 months ago,Technology,Private,75,75,5939 - 8222,6683.750599999999,"['aws', 'database', 'sql', 'machine learning', 'gcp', 'kubernetes', 'deep learning', 'azure']"
+data scientist,senior,remote,United States . Fully Remote,14 days ago,Healthcare,Private,490,490,91336 - 109602,102789.53439999999,"['pandas', 'numpy', 'aws', 'git', 'scikit-learn', 'python', 'sql', 'gcp', 'database', 'machine learning']"
+machine learning engineer,senior,remote,NA,a month ago,Technology,Public,990,NA,197190 - 236660,221917.626,[]
+data scientist,senior,hybrid,"San Francisco, California, United States . San Francisco, California, USA . Hybrid",a month ago,Healthcare,Private,45,45,159834 - 205500,179877.1836,[]
+data scientist,senior,hybrid,"Chicago, IL . إلينوي شيكاغو الولايات المتحدة . Hybrid",2 months ago,Healthcare,Private,420,420,95901 - 123301,107926.98539999999,"['sql', 'machine learning', 'scikit-learn', 'python']"
+data scientist,senior,hybrid,"Austin, Texas . Hybrid",a day ago,Technology,Public,"2,760",NA,200937,226134.4998,[]
+data scientist,senior,on-site,"San Diego, CA",a month ago,Healthcare,Public,"4,040",NA,129513 - 215914,145753.9302,"['r', 'python', 'scala', 'sql', 'gcp']"
+data scientist,lead,NA,Salt Lake City Metropolitan Area,7 days ago,Education,NA,"9,030","9,030",182667,205573.4418,"['sql', 'machine learning', 'python']"
+data scientist,midlevel,NA,"Pune, Maharashtra, India",7 days ago,Finance,Public,"205,350",NA,30455,34274.057,"['scikit-learn', 'python', 'sql', 'database', 'machine learning']"
+data scientist,junior,NA,"Queenstown, Central Singapore Community Development Council, Singapore",3 months ago,Education,NA,210,210,54802,61674.1708,"['tableau', 'r', 'python']"
+data scientist,midlevel,remote,"Brookfield, WI . Fully Remote",7 days ago,Healthcare,Private,"3,810","3,810",59552 - 138317,67019.8208,"['aws', 'r', 'python', 'sql', 'machine learning']"
+data scientist,senior,hybrid,"Yonkers, New York, United States . Hybrid",17 hours ago,Healthcare,Private,683,683,120568 - 134268,135687.2272,[]
+data scientist,senior,hybrid,"Berlin, Berlin, Germany . Hybrid",a month ago,Technology,Private,"8,350","8,350",86270 - 119421,97088.258,"['scala', 'spark', 'machine learning', 'python']"
+data scientist,lead,hybrid,"Golden Valley, MN . Austin, TX . Hybrid",7 days ago,Technology,Public,"4,770",NA,119819 - 178753,134844.3026,"['pandas', 'numpy', 'pytorch', 'spark', 'aws', 'git', 'r', 'python', 'scikit-learn', 'sql', 'machine learning', 'keras', 'azure', 'tensorflow']"
+data scientist,senior,hybrid,"Chicago, IL . Hybrid",5 days ago,Technology,Private,"51,270","51,270",83821,94332.1534,"['git', 'r', 'python', 'sql', 'machine learning', 'deep learning']"
+data scientist,senior,remote,NA,22 days ago,Technology,Public,"2,540",NA,137006 - 200939,154186.5524,[]
+data scientist,senior,NA,Ukraine,14 days ago,Technology,Private,"10,270","10,270",65768,74015.3072,"['amazon', 'pytorch', 'python', 'machine learning', 'deep learning', 'tensorflow']"
+data scientist,lead,remote,NA,a month ago,Healthcare,Private,180,180,173536 - 200936,195297.41439999998,[]
+data scientist,NA,on-site,"Barcelona, Spain . On-site",a month ago,Technology,Private,"3,780","3,780",46527 - 76221,52361.485799999995,[]
+data scientist,NA,hybrid,NA,a month ago,Technology,Private,180,180,39254 - 58876,44176.4516,[]
+data scientist,senior,remote,NA,6 months ago,Energy,Private,90,90,141572 - 168972,159325.1288,[]
+data scientist,midlevel,on-site,"San Francisco, CA",21 days ago,Technology,Public,"9,300",NA,130666 - 241896,147051.5164,"['spark', 'aws', 'python', 'airflow', 'sql', 'gcp', 'machine learning']"
+data scientist,midlevel,on-site,"Rockville, MD",a month ago,Healthcare,Public,"106,370",NA,124333 - 207218,139924.3582,"['machine learning', 'r', 'python']"
+data scientist,senior,hybrid,"New York, NY . Hybrid",2 months ago,Technology,Private,500,500,109603 - 118736,123347.2162,[]
+data scientist,lead,on-site,"Seattle, WA",7 days ago,Retail,Public,"157,150",NA,120567,135686.1018,"['python', 'sql', 'machine learning', 'azure', 'tableau']"
+data scientist,senior,remote,United States,7 days ago,Technology,Private,960,960,109600 - 118733,123343.84,"['spark', 'aws', 'git', 'r', 'python', 'powerbi', 'scala', 'java', 'sql', 'machine learning', 'gcp', 'hadoop', 'azure', 'matplotlib', 'tableau']"
+data scientist,lead,on-site,United States,14 days ago,Retail,Public,"50,040",NA,86958,97862.53319999999,"['pytorch', 'spark', 'python', 'machine learning', 'deep learning', 'azure', 'tensorflow']"
+data scientist,senior,remote,NA,2 days ago,Healthcare,Private,360,360,109606 - 146139,123350.5924,[]
+data scientist,senior,hybrid,"Minneapolis, MN . Hybrid",7 days ago,Healthcare,Private,751,751,103871,116896.4234,"['sql', 'machine learning', 'r', 'python']"
+data scientist,NA,hybrid,NA,a year ago,Technology,Private,180,180,137003 - 173536,154183.1762,[]
+data scientist,senior,remote,"India, Bengaluru . Fully Remote",5 days ago,Technology,Private,900,900,39026,43919.8604,[]
+machine learning engineer,senior,on-site,"Colorado Springs, CO",14 days ago,Technology,Private,"1,040","1,040",109608 - 127875,123352.84319999999,"['pytorch', 'scikit-learn', 'machine learning', 'tensorflow']"
+data scientist,senior,hybrid,"San Francisco, CA . Hybrid",21 days ago,Technology,Private,780,780,146135 - 196368,164460.329,[]
+data scientist,senior,NA,"Chicago, IL",7 days ago,Healthcare,Public,"2,540",NA,63942 - 86775,71960.3268,"['powerbi', 'r', 'python', 'sql', 'database', 'hadoop', 'tableau']"
+data scientist,senior,on-site,NA,13 days ago,Technology,Private,600,600,147968,166523.1872,[]
+data scientist,NA,hybrid,NA,3 years ago,Technology,Private,180,180,137005 - 173538,154185.427,[]
+data scientist,NA,on-site,"South San Francisco, California, United States . On-site",2 months ago,Technology,Private,45,45,159835 - 182668,179878.30899999998,[]
+data scientist,senior,NA,"Singapore, Singapore",a month ago,Technology,NA,"6,040","6,040",80624,90734.2496,['database']
+data scientist,lead,on-site,"Sacramento, California, United States . Jacksonville, Florida, United States . Austin, Texas, United States . Mexico City, Mexico . Ottawa, Ontario, Canada + 17 More . On-site",2 months ago,Technology,Private,420,420,218288,245661.31519999998,[]
+data scientist,NA,on-site,"Annapolis Junction, Maryland, United States . On-site",7 days ago,Technology,Private,57,57,45667 - 264871,51393.6418,[]
+data scientist,senior,remote,NA,2 months ago,Technology,Private,45,45,141574 - 182674,159327.3796,[]
+data scientist,senior,hybrid,United States . Hybrid,4 days ago,Technology,Public,"3,050",NA,130609 - 209155,146987.3686,"['pytorch', 'aws', 'scikit-learn', 'python', 'sql', 'machine learning', 'deep learning', 'tensorflow']"
+data scientist,senior,NA,"Fort Huachuca, AZ . Fort Huachuca, Arizona, United States",22 days ago,Technology,Private,"5,060","5,060",60287 - 96820,67846.9898,[]
+data scientist,senior,on-site,"Richmond, VA",8 days ago,Technology,Private,"2,300","2,300",91334 - 109600,102787.2836,"['git', 'r', 'python', 'sql', 'machine learning']"
+data scientist,senior,NA,"Ashburn, VA",21 days ago,Technology,Private,"5,030","5,030",160753 - 257566,180911.4262,"['spark', 'aws', 'r', 'python', 'scala', 'java', 'sql', 'machine learning', 'hadoop', 'azure', 'tableau']"
+data scientist,lead,NA,"New York, NY",6 months ago,Technology,Private,"2,060","2,060",79654 - 125307,89642.61159999999,"['spark', 'aws', 'python', 'sql', 'machine learning']"
+data scientist,senior,on-site,Greater Milwaukee,8 days ago,Retail,Public,"4,760",NA,94111 - 161332,105912.51939999999,"['spark', 'aws', 'r', 'python', 'scala', 'sql', 'machine learning', 'gcp', 'deep learning', 'hadoop', 'azure', 'tableau']"
+data scientist,lead,NA,"Boston, MA",23 days ago,Healthcare,NA,"4,270","4,270",149604 - 182849,168364.34159999999,"['r', 'python', 'sql', 'machine learning', 'tableau']"
+data scientist,senior,hybrid,"Maplewood, MN . Hybrid",7 days ago,Healthcare,Public,"22,030",NA,146393 - 178925,164750.68219999998,"['machine learning', 'r', 'python']"
+data scientist,senior,NA,"San Francisco, CA",2 days ago,Finance,Private,90,90,200936 - 264868,226133.3744,"['amazon', 'machine learning']"
+data scientist,senior,hybrid,"Austin, TX . Hybrid",14 days ago,Technology,Private,330,330,109606 - 146139,123350.5924,"['pandas', 'numpy', 'aws', 'r', 'python', 'scikit-learn', 'airflow', 'sql', 'machine learning', 'gcp', 'azure', 'matplotlib', 'tableau']"
+data scientist,senior,hybrid,"San Francisco, CA . Hybrid",4 days ago,Technology,Private,524,524,164408 - 182674,185024.7632,"['sql', 'machine learning', 'python']"
+data scientist,junior,remote,"Dallas, TX",14 days ago,Healthcare,NA,"2,840","2,840",43700,49179.979999999996,"['machine learning', 'r', 'python']"
+data scientist,lead,NA,"Elsbethen, Salzburg, Austria",7 days ago,Energy,Private,"13,070","13,070",29498,33197.0492,"['sql', 'git', 'r', 'python']"
+data scientist,NA,on-site,"San Francisco, CA . On-site",13 days ago,Technology,Private,90,90,131528 - 175367,148021.61119999998,[]
+data scientist,lead,hybrid,"Los Angeles, CA . Hybrid",a month ago,Technology,Private,150,150,104128 - 192721,117185.6512,[]
+data scientist,NA,hybrid,NA,5 months ago,Technology,Private,45,45,118739 - 155272,133628.8706,[]
+data scientist,senior,hybrid,"Chicago, Illinois, United States . Hybrid",7 days ago,Manufacturing,Private,420,420,156187,175772.8498,[]
+data scientist,senior,remote,NA,20 days ago,Technology,Private,210,210,200936,226133.3744,[]
+data scientist,lead,remote,"Detroit, MI",a day ago,Finance,Public,"26,010",NA,90424,101763.1696,"['aws', 'r', 'python', 'scikit-learn', 'sql', 'machine learning', 'database', 'deep learning', 'tensorflow']"
+data scientist,junior,on-site,"Miami, FL",14 days ago,Finance,Private,"3,790","3,790",182667,205573.4418,"['pandas', 'spark', 'r', 'python', 'scikit-learn', 'sql', 'gcp', 'machine learning', 'tensorflow', 'tableau']"
+data scientist,lead,NA,"New York County, NY",14 days ago,Retail,Private,"14,460","14,460",100473,113072.3142,[]
+data scientist,lead,hybrid,"Los Angeles, CA . Hybrid",a month ago,Technology,Private,150,150,237468,267246.4872,[]
+data scientist,senior,on-site,United States,a month ago,Technology,Public,"1,780",NA,114170,128486.91799999999,"['pytorch', 'aws', 'r', 'python', 'sql', 'machine learning', 'database', 'deep learning', 'tensorflow']"
+data scientist,senior,NA,"Boston, MA",14 days ago,Finance,Private,700,700,189518 - 205501,213283.55719999998,"['amazon', 'spark', 'git', 'r', 'python', 'linux', 'java', 'sql', 'machine learning', 'database', 'azure']"
+data scientist,senior,hybrid,"New York, NY . Hybrid",15 days ago,Retail,Public,"1,800",NA,68501 - 73068,77091.0254,"['amazon', 'r', 'python', 'sql', 'machine learning']"
+data scientist,senior,on-site,"Lake Oswego, OR . Portland, OR . Hillsboro, OR",2 months ago,Finance,Public,"3,780",NA,81237 - 150867,91424.1198,"['aws', 'r', 'python', 'sql', 'machine learning', 'azure']"
+data scientist,midlevel,on-site,San Francisco Bay Area . On-site,5 days ago,Technology,Private,300,300,78551 - 139744,88401.2954,"['pandas', 'numpy', 'pytorch', 'aws', 'scikit-learn', 'python', 'tensorflow']"
+data scientist,senior,on-site,United States,25 days ago,Technology,Private,90,90,95906 - 114173,107932.6124,"['sql', 'machine learning', 'r', 'python']"
+data scientist,NA,NA,"Alameda, CA",2 months ago,Healthcare,Public,"2,320",NA,38730 - 61967,43586.742,[]
+data scientist,senior,remote,United States . Fully Remote,14 days ago,Finance,Private,226,226,150707 - 200940,169605.6578,"['sql', 'python']"
+data scientist,senior,on-site,United States,a month ago,Technology,Public,"34,020",NA,164406,185022.5124,"['pandas', 'pytorch', 'aws', 'r', 'python', 'linux', 'java', 'machine learning', 'gcp', 'deep learning', 'azure', 'tensorflow']"
+data scientist,senior,NA,"Grand Rapids, MI",a month ago,Retail,Private,"70,060","70,060",115541,130029.84139999999,"['pandas', 'numpy', 'pytorch', 'r', 'python', 'sql', 'machine learning', 'azure', 'tensorflow']"
+data scientist,senior,NA,"Ahmedabad, Gujarat, India . Bengaluru, Karnataka, India",7 days ago,Technology,Public,"26,670",NA,18675,21016.844999999998,"['pytorch', 'deep learning', 'machine learning', 'python']"
+data scientist,senior,on-site,"New York, NY",10 days ago,Finance,Public,"3,060",NA,141570,159322.878,"['kubernetes', 'machine learning', 'python']"
+machine learning engineer,NA,hybrid,NA,12 days ago,Energy,Private,"1,910","1,910",109607 - 137007,123351.7178,[]
+data scientist,senior,hybrid,"New York, New York . Hybrid",a day ago,Technology,Public,"2,760",NA,120566 - 231992,135684.97639999999,[]
+data scientist,senior,on-site,"Fredericksburg, VA . Richmond, VA . San Francisco, CA . Seattle, WA",4 days ago,Technology,Private,"25,090","25,090",100469 - 210068,113067.81259999999,"['powerbi', 'r', 'python', 'java', 'sql', 'machine learning', 'tableau']"
+data scientist,senior,NA,"Los Angeles, CA",5 days ago,Healthcare,Private,"5,674","5,674",95356 - 163460,107313.6424,"['pandas', 'git', 'r', 'python', 'keras', 'machine learning']"
+data scientist,senior,NA,"Charlotte, NC . Charlotte, North Carolina, United States",a month ago,Technology,Public,"96,050",NA,95902,107928.1108,"['machine learning', 'r', 'python']"
+data scientist,senior,hybrid,"Munich, Germany . Hybrid",7 months ago,Manufacturing,Private,300,300,62797 - 72216,70671.7438,[]
+data scientist,senior,hybrid,United States . Hybrid,14 days ago,Technology,Private,"5,780","5,780",112343 - 225595,126430.8122,"['pytorch', 'spark', 'scikit-learn', 'python', 'sql', 'machine learning', 'tensorflow']"
+data scientist,senior,hybrid,"Seattle, WA . Hybrid",18 days ago,Retail,Public,"74,020",NA,147962 - 271261,166516.4348,"['aws', 'python', 'scala', 'java', 'gcp', 'machine learning']"
+data scientist,senior,on-site,"Pittsburgh, PA",2 months ago,Education,NA,"12,609","12,609",74793,84172.0422,['machine learning']
+data scientist,senior,on-site,"Calgary, Alberta, Canada . Canada, Moyen-Chari, Chad . Greater Calgary Metropolitan Area",2 months ago,Technology,Private,"3,550","3,550",52067,58596.201799999995,"['scikit-learn', 'python']"
+data scientist,senior,on-site,"Augusta, GA",a month ago,Technology,Private,150,150,39797 - 87544,44787.5438,"['machine learning', 'python']"
+data scientist,senior,on-site,"Toronto, Ontario, Canada",a month ago,Retail,Public,"20,600",NA,59210,66634.934,"['git', 'python', 'airflow', 'sql', 'machine learning', 'hadoop', 'azure']"
+data scientist,senior,NA,"New York, United States",7 days ago,Technology,Public,"10,040",NA,77313 - 96639,87008.0502,"['spark', 'aws', 'git', 'python', 'docker', 'airflow', 'sql', 'machine learning', 'tableau']"
+data scientist,senior,NA,"Houston, TX . Houston, Texas, Statele Unite Ale Americii . Houston, Texas, USA",a month ago,Technology,Public,"2,550",NA,118733,133622.1182,"['deep learning', 'machine learning', 'python']"
+data scientist,senior,hybrid,"Chicago, IL . Hybrid",7 days ago,Healthcare,NA,"1,570","1,570",76471 - 101121,86060.4634,"['r', 'python', 'java', 'sql', 'machine learning', 'database', 'deep learning', 'tableau']"
+data scientist,senior,on-site,"Henrietta, NY",3 months ago,Education,NA,"9,260","9,260",64121 - 96177,72161.77339999999,['machine learning']
+data scientist,midlevel,on-site,"Denver, CO",a month ago,Technology,Private,150,150,55940 - 123063,62954.876,"['machine learning', 'python']"
+data scientist,senior,hybrid,NA,13 days ago,Technology,Private,600,600,195456,219966.1824,[]
+data scientist,NA,on-site,NA,14 days ago,Technology,Public,"2,270",NA,94264 - 172810,106084.7056,[]
+data scientist,lead,hybrid,"Chicago, IL . Hybrid",9 days ago,Logistics,Private,"1,260","1,260",182673 - 274006,205580.1942,[]
+data scientist,senior,on-site,"San Francisco, CA",4 days ago,Retail,Public,"117,030",NA,144893 - 161660,163062.5822,"['aws', 'python', 'machine learning', 'azure', 'deep learning', 'tableau']"
+data scientist,senior,hybrid,United States . Hybrid,7 days ago,Education,NA,"3,510","3,510",137003 - 148876,154183.1762,"['pandas', 'aws', 'r', 'python', 'scikit-learn', 'sql', 'machine learning', 'gcp', 'azure']"
+data scientist,junior,NA,"San Diego, CA",6 days ago,Finance,NA,600,600,86771 - 114171,97652.0834,"['pandas', 'numpy', 'pytorch', 'aws', 'r', 'python', 'scikit-learn', 'sql', 'machine learning', 'gcp', 'deep learning', 'azure', 'tensorflow', 'tableau']"
+data scientist,senior,hybrid,"Los Angeles, CA . Hybrid",a month ago,Technology,Private,150,150,121476 - 225595,136709.0904,[]
+data scientist,senior,NA,"Chicago, IL",14 days ago,Finance,Private,700,700,189520 - 205503,213285.808,"['amazon', 'spark', 'git', 'r', 'python', 'linux', 'java', 'sql', 'machine learning', 'database', 'azure']"
+data scientist,senior,remote,"Remote - US . San Diego, California, United States . Fully Remote",14 days ago,Technology,Private,210,210,144750 - 229724,162901.65,[]
+data scientist,senior,remote,"Torrance, CA",7 days ago,Healthcare,NA,"120,010","120,010",159835,179878.30899999998,"['r', 'python', 'scala', 'sql', 'machine learning', 'database', 'azure', 'tableau']"
+data scientist,lead,NA,"Visakhapatnam Rural mandal, India",7 days ago,Technology,Public,"222,040","222,040",10053,11313.6462,"['deep learning', 'machine learning']"
+data scientist,senior,hybrid,"Canada . Vancouver, BC, Canada . Hybrid",a month ago,Technology,Private,98,98,118741 - 155273,133631.1214,[]
+machine learning engineer,senior,on-site,"Toronto, Ontario, Canada",a month ago,Technology,Private,"26,030","26,030",137008 - 173541,154188.8032,"['pytorch', 'spark', 'aws', 'database', 'sql', 'machine learning', 'deep learning', 'azure', 'tensorflow']"
+machine learning engineer,senior,hybrid,"Dublin, Ireland . Hybrid",6 days ago,Technology,Private,630,630,98012,110302.70479999999,[]
+data scientist,senior,on-site,"Bengaluru, Karnataka, India",14 days ago,Healthcare,Public,"37,960",NA,29797 - 32901,33533.5438,"['spark', 'aws', 'python', 'sql', 'machine learning', 'deep learning', 'azure']"
+data scientist,senior,hybrid,"Redwood City, CA (Hybrid) . Hybrid",6 days ago,Technology,Private,600,600,220119,247721.9226,[]
+data scientist,senior,NA,"Waltham, MA",7 days ago,Energy,Public,"12,270","12,270",126957 - 149790,142877.4078,"['git', 'r', 'python', 'sql', 'azure']"
+machine learning engineer,senior,hybrid,"Pittsburgh, PA . Hybrid",7 days ago,Healthcare,Public,"22,060",NA,108761 - 132929,122399.62939999999,"['pytorch', 'aws', 'python', 'machine learning', 'deep learning']"
+data scientist,lead,on-site,"New York, NY",5 days ago,Retail,Public,"130,040","130,040",137000,154179.8,"['sql', 'machine learning', 'r', 'python']"
+data scientist,senior,on-site,"Los Angeles County, CA",7 days ago,Technology,Public,900,NA,121475 - 132435,136707.965,"['pandas', 'numpy', 'pytorch', 'aws', 'scikit-learn', 'python', 'scipy', 'sql', 'machine learning', 'gcp', 'azure', 'tensorflow']"
+data scientist,senior,on-site,"Arlington, VA . Bellevue, WA",a day ago,Retail,Public,"865,436","865,436",155268 - 177188,174738.6072,"['amazon', 'aws', 'r', 'python', 'sql', 'machine learning', 'tableau']"
+data scientist,senior,on-site,"Princeton, NJ . New York, NY",19 days ago,Technology,Public,"26,630",NA,118737 - 168970,133626.6198,"['pytorch', 'python', 'machine learning', 'keras', 'deep learning', 'tensorflow']"
+data scientist,midlevel,on-site,"Chennai, Tamil Nadu, India . Hyderabad, Telangana, India",a month ago,Finance,Public,"274,280","274,280",20926,23550.1204,"['hadoop', 'git', 'gcp', 'python']"
+data scientist,senior,remote,"Washington, United States",7 days ago,Healthcare,NA,"120,040","120,040",159834,179877.1836,"['r', 'python', 'scala', 'sql', 'machine learning', 'database', 'azure', 'tableau']"
+data scientist,senior,remote,"Fort Worth, TX",14 days ago,Technology,Public,"108,650","108,650",100474 - 132440,113073.4396,['machine learning']
+data scientist,senior,NA,"New York, NY . Chicago, IL",4 days ago,Healthcare,Private,"76,010","76,010",66119 - 99994,74410.3226,"['amazon', 'aws']"
+data scientist,senior,hybrid,"East Coast, United States . New York, United States . Hybrid",a month ago,Healthcare,Private,240,240,124220 - 168060,139797.188,[]
+data scientist,senior,NA,"Mountain View, CA",21 days ago,Technology,Public,"17,040","17,040",168973,190162.2142,"['r', 'python', 'sql', 'machine learning', 'tableau']"
+data scientist,NA,remote,NA,5 days ago,Finance,Private,457,457,115085 - 152531,129516.659,[]
+data scientist,lead,hybrid,"Greater Birmingham, Alabama Area . Hybrid",14 days ago,Energy,Private,240,240,118740 - 155273,133629.99599999998,[]
+data scientist,senior,hybrid,"Markham, Ontario, Canada . Toronto, Ontario, Canada . Hybrid",a month ago,Finance,Public,"29,490",NA,73454,82665.1316,"['machine learning', 'python']"
+data scientist,midlevel,NA,"Springfield, VA",a month ago,Technology,Public,"27,420",NA,81926 - 148097,92199.5204,"['git', 'r', 'python', 'docker', 'linux', 'java', 'sql', 'database', 'deep learning']"
+data scientist,senior,remote,NA,19 days ago,Technology,Private,45,45,155266 - 178099,174736.3564,[]
+data scientist,senior,on-site,"Bellevue, WA . San Francisco, CA . Seattle, WA . Palo Alto, CA",14 days ago,Technology,Public,"65,810","65,810",125226 - 216010,140929.3404,"['sql', 'r', 'python']"
+data scientist,senior,hybrid,"Cambridge, MA . Hybrid",16 days ago,Healthcare,Public,"107,710","107,710",79461,89425.40939999999,['python']
+data scientist,midlevel,on-site,"South San Francisco, CA . On-site",25 days ago,Healthcare,Public,"78,700","78,700",157737 - 248339,177517.2198,"['machine learning', 'r', 'python']"
+data scientist,senior,hybrid,"Navi Mumbai, Maharashtra, India . Hybrid",7 days ago,Finance,Public,"9,900",NA,15539,17487.5906,"['python', 'neural network', 'sql', 'machine learning', 'deep learning']"
+data scientist,midlevel,on-site,"Washington, DC . On-site",5 days ago,Technology,Public,"26,060","26,060",146141 - 182673,164467.0814,['python']
+data scientist,midlevel,hybrid,"Pittsburgh, PA . Hybrid",a month ago,Education,NA,"12,659","12,659",44521 - 59359,50103.933399999994,"['database', 'sql', 'r', 'python']"
+data scientist,senior,on-site,NA,2 days ago,Technology,Public,"2,300",NA,151799 - 278294,170834.59459999998,[]
+data scientist,NA,hybrid,"Bangalore, Karnataka, India . Hybrid",10 months ago,Technology,Private,"3,570","3,570",34569,38903.9526,[]
+data scientist,senior,NA,"Veldhoven, North Brabant, Netherlands",14 days ago,Technology,Public,"24,800","24,800",82367,92695.82179999999,[]
+data scientist,senior,NA,"San Antonio, TX",14 days ago,Retail,Private,"23,910","23,910",130610,146988.494,"['spark', 'r', 'python', 'docker', 'scala', 'java', 'sql', 'machine learning', 'kubernetes', 'deep learning', 'tensorflow']"
+data scientist,lead,on-site,"Bangkok, Bangkok, Thailand . On-site",a month ago,Technology,Private,"4,570","4,570",54267,61072.0818,[]
+data scientist,senior,NA,"Hyderabad, Telangana, India",4 days ago,Technology,Public,"182,288","182,288",48604,54698.9416,"['pytorch', 'spark', 'r', 'python', 'scikit-learn', 'scala', 'machine learning', 'deep learning', 'hadoop', 'azure', 'tensorflow']"
+data scientist,senior,remote,"Remote, United States . Fully Remote",14 days ago,Finance,Private,300,300,167139,188098.23059999998,[]
+data scientist,lead,hybrid,"Bangalore, Karnataka, India . Hybrid",a month ago,Technology,Private,"3,560","3,560",34568,38902.8272,[]
+data scientist,senior,NA,"San Francisco, CA",2 months ago,Finance,Private,90,90,200936 - 264868,226133.3744,"['amazon', 'machine learning']"
+data scientist,lead,remote,"Cardiff, London or Remote (UK) . Fully Remote",3 months ago,Technology,Private,"1,530","1,530",86767 - 105033,97647.5818,[]
+data scientist,senior,NA,"Louisville, KY",14 days ago,Technology,Public,"187,570","187,570",107773,121287.73419999999,"['pandas', 'numpy', 'pytorch', 'git', 'r', 'python', 'scikit-learn', 'sql', 'gcp', 'machine learning', 'tensorflow', 'tableau']"
+data scientist,senior,NA,"Oklahoma City, OK",7 days ago,Technology,Public,"4,780",NA,114172,128489.1688,['machine learning']
+data scientist,senior,on-site,"St Louis, MO",a month ago,Retail,Public,"11,020",NA,101079 - 157680,113754.3066,"['pandas', 'amazon', 'powerbi', 'git', 'r', 'python', 'scipy', 'sql', 'machine learning', 'database', 'azure', 'matplotlib', 'tableau']"
+data scientist,senior,on-site,"San Francisco, CA . On-site",4 months ago,Technology,Private,90,90,155269 - 189976,174739.7326,[]
+data scientist,senior,hybrid,"Mountain View, CA, US . San Francisco, CA, US . Hybrid",9 days ago,Technology,Private,"2,810","2,810",226506,254909.8524,[]
+data scientist,senior,hybrid,"Madrid, Community of Madrid, Spain . Hybrid",21 days ago,Technology,Private,"263,610","263,610",32158,36190.6132,"['pandas', 'numpy', 'aws', 'r', 'python', 'scikit-learn', 'machine learning', 'gcp', 'deep learning', 'azure', 'matplotlib']"
+data scientist,senior,hybrid,"Chicago, Illinois, United States . New York, New York, United States . Hybrid",13 days ago,Technology,Private,420,420,159841 - 205507,179885.0614,[]
+data scientist,lead,on-site,"San Antonio, TX",7 days ago,Finance,Private,"33,010","33,010",150499 - 287662,169371.5746,"['r', 'python', 'sql', 'database', 'machine learning']"
+data scientist,lead,on-site,"San Francisco, CA",7 days ago,Technology,Private,45,45,164407 - 191806,185023.6378,"['pytorch', 'aws', 'machine learning', 'azure', 'deep learning', 'tensorflow']"
+data scientist,senior,on-site,"Linthicum Heights, MD . On-site",7 days ago,Technology,Public,"97,070","97,070",158745 - 197653,178651.623,"['pandas', 'numpy', 'python', 'sql', 'database', 'matplotlib', 'tableau']"
+data scientist,junior,NA,"Atlanta, GA",11 days ago,Finance,Public,"53,700","53,700",125135,140826.929,"['sql', 'machine learning', 'r', 'python']"
+data scientist,senior,on-site,"Santa Clara, CA . On-site",15 days ago,Technology,Private,75,75,146140 - 219206,164465.956,[]
+data scientist,midlevel,NA,"Stamford, CT",21 days ago,Technology,Public,"96,040",NA,95906,107932.6124,"['spark', 'r', 'python', 'sql', 'machine learning']"
+data scientist,senior,on-site,"Englewood, CO . On-site",14 days ago,Technology,Public,"2,520",NA,75957 - 108508,85482.00779999999,"['amazon', 'r', 'python', 'sql', 'database', 'machine learning', 'tableau']"
+data scientist,midlevel,NA,"Princeton, NJ",15 days ago,Healthcare,Public,"3,570",NA,150270 - 224665,169113.858,"['sql', 'r', 'python']"
+data scientist,midlevel,on-site,"San Francisco, CA . San Jose, CA . Seattle, WA",2 days ago,Technology,Public,"21,310","21,310",99560 - 175732,112044.824,"['spark', 'python', 'sql', 'hadoop', 'machine learning']"
+data scientist,senior,NA,"Madrid, Community of Madrid, Spain",23 days ago,Finance,Public,"123,020",NA,41559,46770.4986,"['pandas', 'numpy', 'pytorch', 'aws', 'scikit-learn', 'python', 'docker', 'sql', 'machine learning', 'kubernetes', 'azure', 'tensorflow']"
+data scientist,senior,on-site,United States,a month ago,Retail,Public,"27,030",NA,94812 - 142214,106701.4248,"['aws', 'scikit-learn', 'python', 'sql', 'machine learning', 'gcp', 'azure']"
+data scientist,NA,hybrid,"Boston, MA . Hybrid",8 days ago,Retail,Public,"17,040",NA,110516 - 120563,124374.7064,[]
+data scientist,senior,NA,"Queenstown, Central Singapore Community Development Council, Singapore",a month ago,Education,NA,210,210,54804,61676.421599999994,"['neural network', 'machine learning', 'r', 'python']"
+machine learning engineer,senior,on-site,"Newport Beach, CA . Ньюпорт-Бич, Калифорния, Соединенные Штаты Америки",18 days ago,Technology,Public,"117,800","117,800",114167 - 127867,128483.54179999999,"['pytorch', 'machine learning', 'database', 'deep learning', 'tensorflow']"
+data scientist,lead,remote,Canada . Fully Remote,2 days ago,Technology,Private,30,30,200938 - 246604,226135.62519999998,"['sql', 'machine learning']"
+data scientist,senior,hybrid,"San Diego, CA . Hybrid",3 months ago,Technology,Public,"110,020","110,020",149700 - 224593,168472.38,"['pandas', 'numpy', 'scikit-learn', 'python', 'sql', 'machine learning', 'deep learning']"
+data scientist,midlevel,hybrid,"Manchester, England, United Kingdom . Hybrid",7 days ago,Technology,Public,"1,310",NA,36538 - 54805,41119.8652,"['airflow', 'spark', 'machine learning', 'python']"
+data scientist,senior,NA,"Columbia, MD",4 days ago,Technology,Private,180,180,73072,82235.2288,"['spark', 'aws', 'python', 'sql', 'machine learning', 'gcp', 'azure']"
+data scientist,senior,NA,"Bengaluru East, Karnataka, India",4 days ago,Technology,Public,"261,040","261,040",9585,10786.958999999999,"['aws', 'r', 'python', 'sql', 'neural network', 'gcp', 'azure']"
+data scientist,senior,hybrid,"New York, United States . Hybrid",5 days ago,Technology,Private,"3,510","3,510",137008 - 150708,154188.8032,"['pandas', 'pytorch', 'aws', 'r', 'python', 'sql', 'machine learning', 'deep learning']"
+data scientist,senior,hybrid,"Bethesda, MD . Hybrid",14 days ago,Technology,NA,"1,060","1,060",130245 - 203539,146577.723,"['sql', 'r', 'python']"
+machine learning engineer,senior,NA,"Brooklyn, NY",3 months ago,Energy,Public,"6,160",NA,187238 - 216464,210717.6452,"['spark', 'python', 'scala', 'java', 'airflow', 'gcp', 'machine learning', 'tensorflow']"
+machine learning engineer,NA,on-site,"San Francisco, CA . Seattle, WA . New York, NY . On-site",6 days ago,Technology,Private,31,31,200936 - 296835,226133.3744,[]
+data scientist,senior,on-site,"Hillsboro, OR . Portland, OR . Lake Oswego, OR",14 days ago,Finance,Public,"3,790",NA,81245 - 150875,91433.12299999999,"['aws', 'r', 'python', 'sql', 'machine learning', 'azure']"
+data scientist,senior,NA,"Fort Worth, TX",7 days ago,Technology,Private,510,510,100473,113072.3142,['machine learning']
+data scientist,senior,NA,"Annapolis Junction, MD",3 months ago,Technology,Public,"16,070",NA,110337 - 198564,124173.2598,"['sql', 'machine learning', 'r', 'python']"
+data scientist,senior,NA,"Dallas, TX",14 days ago,Finance,Public,"100,050",NA,75815,85322.201,"['sql', 'machine learning', 'python']"
+machine learning engineer,senior,NA,"South San Francisco, CA",7 days ago,Healthcare,Private,250,250,155270 - 212810,174740.858,"['pytorch', 'deep learning', 'machine learning', 'python']"
+data scientist,senior,hybrid,"Bengaluru, Karnataka, India . Hybrid",7 days ago,Finance,Public,"68,440",NA,24203,27238.0562,"['pytorch', 'aws', 'python', 'sql', 'gcp', 'azure', 'tensorflow']"
+data scientist,senior,on-site,"Alpharetta, GA",14 days ago,Technology,Public,"65,130",NA,58368 - 156350,65687.3472,"['aws', 'powerbi', 'r', 'python', 'sql', 'machine learning', 'tableau']"
+data scientist,NA,on-site,"New York, New York, United States . On-site",a month ago,Finance,Private,950,950,138834 - 173541,156243.7836,[]
+data scientist,senior,hybrid,"Toronto, ON . Hybrid",12 days ago,Finance,Private,780,780,179015 - 246144,201463.481,[]
+data scientist,NA,hybrid,"Toronto, Canada . Hybrid",7 days ago,Technology,Public,"5,010","5,010",98647,111017.3338,[]
+data scientist,senior,NA,"Bengaluru, Karnataka, India",5 months ago,Technology,Private,"15,470","15,470",36101,40628.0654,"['deep learning', 'machine learning', 'python']"
+data scientist,senior,on-site,"Vancouver, British Columbia, Canada . Marina del Rey, CA . Los Angeles Metropolitan Area . Kirkland, WA . Redwood City, CA",7 days ago,Technology,Public,"25,920","25,920",121844 - 176460,137123.2376,"['git', 'python', 'docker', 'sql', 'machine learning', 'kubernetes', 'deep learning']"
+machine learning engineer,senior,on-site,"Taipei, Taiwan . On-site",2 months ago,Technology,Private,530,530,36342,40899.2868,[]
+data scientist,lead,hybrid,United States . Hybrid,3 months ago,Finance,Public,"16,880",NA,105680 - 176131,118932.272,"['python', 'neural network', 'sql', 'database', 'machine learning', 'tableau']"
+data scientist,senior,on-site,United States,a month ago,Finance,Public,"62,070","62,070",157013 - 263790,176702.4302,"['spark', 'aws', 'python', 'sql', 'machine learning', 'gcp', 'azure']"
+data scientist,senior,NA,"Gurugram, Haryana, India",7 days ago,Technology,Public,"222,030","222,030",10048,11308.019199999999,"['aws', 'machine learning']"
+data scientist,lead,on-site,"New York, NY",a month ago,Finance,Private,"32,340","32,340",129722 - 230343,145989.1388,"['spark', 'r', 'python', 'java', 'sql', 'machine learning']"
+data scientist,lead,remote,"Atlanta, GA",3 days ago,Technology,Public,"103,070","103,070",96818,108958.9772,"['pytorch', 'spark', 'aws', 'python', 'machine learning', 'gcp', 'deep learning', 'keras', 'azure', 'tensorflow']"
+data scientist,senior,NA,"Bengaluru East, Karnataka, India",7 days ago,Technology,Private,"3,980","3,980",35019,39410.3826,"['pandas', 'numpy', 'pytorch', 'spark', 'git', 'python', 'docker', 'database', 'deep learning', 'sql', 'machine learning', 'gcp', 'kubernetes', 'keras', 'azure', 'matplotlib', 'tensorflow']"
+data scientist,senior,on-site,NA,a month ago,Technology,Private,420,420,192721 - 216467,216888.21339999998,[]
+data scientist,midlevel,on-site,"McLean, VA",18 days ago,Retail,Public,"55,090","55,090",144860 - 165319,163025.444,"['spark', 'aws', 'r', 'python', 'scala', 'sql', 'machine learning', 'database', 'deep learning']"
+data scientist,midlevel,on-site,Los Angeles Metropolitan Area . On-site,14 days ago,Technology,Public,510,NA,100470 - 114170,113068.938,"['machine learning', 'python']"
+data scientist,senior,remote,"Maryland, United States",14 days ago,Technology,Public,"9,200",NA,85856 - 167004,96622.3424,"['pytorch', 'aws', 'r', 'python', 'machine learning', 'gcp', 'azure', 'tensorflow']"
+data scientist,lead,on-site,United States,a month ago,Technology,Public,"1,300",NA,138102 - 172625,155419.9908,"['sql', 'machine learning', 'r', 'python']"
+data scientist,senior,NA,"Bengaluru, Karnataka, India",10 days ago,Technology,Public,"258,790","258,790",42493,47821.6222,"['pandas', 'r', 'python', 'sql', 'database']"
+data scientist,senior,NA,"Hyderabad, Telangana, India",15 days ago,Technology,Public,"524,608","524,608",27276 - 52697,30696.410399999997,"['database', 'machine learning', 'java']"
+data scientist,senior,on-site,"Doral, FL",3 months ago,Technology,Public,"20,050",NA,104676 - 230258,117802.3704,"['r', 'python', 'linux', 'java', 'sql', 'machine learning', 'database', 'deep learning']"
+data scientist,midlevel,hybrid,"Vancouver, British Columbia, Canada . Hybrid",5 days ago,Finance,Public,"26,050",NA,109786 - 164585,123553.1644,"['pytorch', 'aws', 'scikit-learn', 'python', 'machine learning']"
+data scientist,senior,remote,United States,14 days ago,Technology,Private,90,90,114973 - 141567,129390.6142,"['sql', 'machine learning', 'python']"
+data scientist,senior,hybrid,"Columbus, OH . Hybrid",10 days ago,Finance,Public,"18,200","18,200",100036 - 150050,112580.5144,['machine learning']
+data scientist,senior,remote,Washington DC-Baltimore Area . Fully Remote,a month ago,Technology,Private,360,360,164407 - 182673,185023.6378,"['aws', 'python', 'machine learning', 'gcp', 'kubernetes', 'azure']"
+data scientist,senior,on-site,"United States, Denver . On-site",22 days ago,Technology,Private,900,900,172624,194271.0496,[]
+data scientist,senior,on-site,"Lexington, MA",8 days ago,Technology,NA,Private,NA,117553 - 159840,132294.1462,"['aws', 'git', 'r', 'python', 'docker']"
+data scientist,NA,on-site,"New York, New York, United States . On-site",a month ago,Finance,Private,950,950,138826 - 173533,156234.7804,[]
+data scientist,midlevel,remote,"Charlotte, AR . Fully Remote",14 days ago,Technology,NA,Private,NA,25211,28372.4594,"['sql', 'machine learning', 'python']"
+data scientist,NA,hybrid,"Toronto, Canada . Hybrid",7 days ago,Technology,Public,"5,010","5,010",98642 - 123302,111011.7068,[]
+data scientist,senior,NA,"Gainesville, FL",3 months ago,Education,NA,"19,503","19,503",55715 - 58455,62701.661,"['pandas', 'numpy', 'pytorch', 'r', 'python', 'scikit-learn', 'scipy', 'machine learning', 'keras', 'deep learning', 'tensorflow']"
+data scientist,senior,hybrid,San Francisco Bay Area . Hybrid,a month ago,Technology,Private,150,150,164401 - 214633,185016.8854,"['pandas', 'spark', 'aws', 'r', 'python', 'scikit-learn', 'opencv', 'sql', 'machine learning', 'gcp', 'deep learning']"
+data scientist,senior,NA,"Barcelona, Catalonia, Spain",12 days ago,Technology,Private,"4,770","4,770",53099,59757.6146,"['deep learning', 'aws', 'machine learning', 'python']"
+data scientist,senior,on-site,"San Diego, CA",21 days ago,Healthcare,Private,"1,530","1,530",167749 - 215676,188784.7246,"['pytorch', 'python', 'java', 'sql', 'machine learning', 'deep learning', 'tensorflow']"
+data scientist,senior,on-site,"Palo Alto, CA . Vancouver, WA . Spring, TX",25 days ago,Technology,Public,"51,070",NA,140657 - 216600,158295.3878,"['sql', 'powerbi', 'machine learning', 'python']"
+data scientist,senior,NA,"Atlanta, GA",6 months ago,Retail,Public,"500,010",NA,111435,125408.949,"['sql', 'tableau', 'python']"
+data scientist,senior,hybrid,"San Jose, CA . Hybrid",3 months ago,Technology,Public,"34,660","34,660",139285 - 239614,156751.339,"['sql', 'machine learning', 'python']"
+machine learning engineer,senior,remote,"Maplewood, MN",a day ago,Healthcare,Public,"22,020",NA,125529 - 153424,141270.33659999998,"['machine learning', 'python']"
+data scientist,senior,remote,NA,4 days ago,Technology,Public,"4,110","4,110",184866 - 207973,208048.1964,[]
+machine learning engineer,junior,NA,"Bengaluru, Karnataka, India",14 days ago,Technology,Public,"492,245","492,245",10527 - 26188,11847.085799999999,['machine learning']
+data scientist,senior,remote,"Denver, CO - Remote . Fully Remote",22 days ago,Technology,Public,"2,540",NA,137006 - 200939,154186.5524,[]
+data scientist,senior,hybrid,"Washington, DC . Hybrid",a month ago,Technology,Public,"57,290","57,290",105769,119032.4326,"['r', 'python', 'sql', 'machine learning', 'matplotlib', 'tableau']"
+NA,lead,hybrid,"New York, NY . Hybrid",5 days ago,Technology,Private,"52,380","52,380",200935 - 296834,226132.24899999998,"['aws', 'gcp', 'azure']"
+data scientist,lead,hybrid,"San Francisco, CA . Hybrid",a month ago,Technology,Private,150,150,258479,290892.2666,[]
+data scientist,senior,NA,"London, England, United Kingdom",2 months ago,Technology,Public,"10,060",NA,76371,85947.9234,"['powerbi', 'python', 'sql', 'machine learning', 'tableau']"
+data scientist,lead,hybrid,NA,a month ago,Technology,Private,"2,020","2,020",109604 - 200937,123348.3416,[]
+machine learning engineer,senior,on-site,"Mountain View, California (HQ) . On-site",16 days ago,Technology,Private,900,900,184816 - 276788,207991.9264,[]
+data scientist,senior,on-site,"London, England, United Kingdom",6 months ago,Technology,Public,"94,530","94,530",103877 - 144998,116903.1758,"['sql', 'r', 'python']"
+machine learning engineer,senior,remote,United States . Fully Remote,21 days ago,Technology,Private,150,150,155272 - 200939,174743.1088,"['pytorch', 'aws', 'r', 'python', 'machine learning', 'gcp', 'deep learning']"
+data scientist,senior,remote,United States . Fully Remote,14 days ago,Technology,Private,30,30,109601 - 173534,123344.9654,"['sql', 'tableau', 'python']"
+data scientist,lead,remote,"New York, NY",7 days ago,Finance,Private,"8,010","8,010",136032 - 223478,153090.4128,"['pytorch', 'python', 'machine learning', 'deep learning', 'tensorflow']"
+data scientist,senior,NA,"Amsterdam, North Holland, Netherlands",a month ago,Technology,Public,"26,910","26,910",72513,81606.1302,"['tableau', 'sql', 'r', 'python']"
+data scientist,NA,hybrid,NA,6 days ago,Education,Private,390,390,109600 - 137000,123343.84,[]
+data scientist,senior,hybrid,"New York City, NY . San Francisco, CA . Hybrid",12 days ago,Finance,Private,780,780,175364 - 241124,197354.6456,[]
+data scientist,midlevel,on-site,"Gurgaon, Haryana, India",15 days ago,Technology,Private,"30,060","30,060",24227,27265.0658,"['aws', 'python', 'docker', 'machine learning', 'gcp', 'kubernetes', 'azure']"
+data scientist,senior,NA,"Palo Alto, CA",14 days ago,Technology,Private,15,15,137004 - 228336,154184.3016,[]
+data scientist,NA,remote,"Remote, United States . Fully Remote",6 days ago,Technology,Private,45,45,118741 - 182674,133631.1214,[]
+data scientist,senior,NA,"Dallas, TX",7 days ago,Healthcare,Public,"300,070","300,070",76206 - 203204,85762.2324,"['git', 'python', 'docker', 'sql', 'machine learning', 'kubernetes', 'azure']"
+data scientist,senior,hybrid,"Bengaluru, Karnataka, India . Hybrid",a day ago,Finance,Public,"68,430",NA,24205,27240.307,"['pytorch', 'aws', 'python', 'sql', 'gcp', 'azure', 'tensorflow']"
+data scientist,lead,NA,"Bengaluru, Karnataka, India",5 days ago,Finance,Public,"290,770","290,770",42738,48097.345199999996,"['sql', 'machine learning', 'tableau', 'python']"
+data scientist,senior,NA,"San Diego, CA",4 days ago,Technology,Public,"27,440",NA,95583 - 172782,107569.1082,"['machine learning', 'python']"
+data scientist,lead,on-site,"Stamford, CT",a month ago,Technology,Public,"3,305",NA,138011 - 166416,155317.5794,['python']
+data scientist,senior,on-site,"Menlo Park, CA . On-site",a month ago,Finance,Public,"3,790","3,790",184499 - 217378,207635.1746,[]
+data scientist,senior,remote,"Stockholm, Stockholm County, Sweden",7 days ago,Technology,Public,"131,970","131,970",52510,59094.754,"['spark', 'scikit-learn', 'python', 'scala', 'java', 'machine learning', 'keras', 'deep learning', 'tensorflow']"
+data scientist,senior,remote,"Herndon, VA",a day ago,Technology,Public,"2,870",NA,123307 - 168973,138769.6978,"['pandas', 'numpy', 'aws', 'git', 'python', 'docker', 'linux', 'sklearn', 'machine learning', 'kubernetes', 'deep learning', 'azure', 'matplotlib']"
+data scientist,senior,NA,"Chicago, IL",25 days ago,Technology,Private,"51,230","51,230",104727,117859.7658,"['java', 'machine learning', 'r', 'python']"
+data scientist,NA,remote,NA,13 days ago,Technology,Private,330,330,87643,98633.4322,[]
+data scientist,lead,hybrid,NA,9 days ago,Technology,Private,180,180,178100 - 205500,200433.74,[]
+data scientist,senior,remote,"California, United States, Colorado, United States, Florida, United States, Georgia, United States, Illinois, United States, Massachusetts, United States, Nevada, United States, New Jersey, United States, New York, United States, North Carolina, United States, Oregon, United States, Pennsylvania, United States, South Carolina, United States, Texas, United States, Virginia, United States, Washington, United States . Fully Remote",14 days ago,Finance,Private,240,240,173535,195296.289,[]
+data scientist,senior,hybrid,Greater Bengaluru Area . Hybrid,15 days ago,Technology,Private,950,950,2739979,3083572.3666,"['spark', 'aws', 'r', 'python', 'sql', 'machine learning', 'gcp', 'hadoop', 'azure']"
+data scientist,midlevel,hybrid,"Bengaluru, Karnataka, India . Hybrid",2 days ago,Technology,Public,"195,020","195,020",34805,39169.547,"['numpy', 'spark', 'aws', 'python', 'neural network', 'database', 'machine learning', 'tensorflow']"
+data scientist,senior,remote,"San Jose, California, United States . Fully Remote",8 days ago,Healthcare,Public,"4,570",NA,155272 - 182672,174743.1088,[]
+data scientist,junior,NA,"London, England, United Kingdom",2 days ago,Finance,Public,"60,020","60,020",59680,67163.872,"['aws', 'machine learning', 'linux', 'python']"
+data scientist,senior,remote,"Reston, VA",7 days ago,Finance,Public,"7,290",NA,108442 - 184349,122040.6268,"['r', 'python', 'sql', 'machine learning', 'database', 'azure']"
+data scientist,senior,NA,"Cincinnati, OH",22 days ago,Technology,Public,"222,490",NA,135178,152129.3212,"['aws', 'python', 'machine learning', 'azure', 'deep learning']"
+data scientist,senior,NA,United States,2 months ago,Technology,Public,"55,030","55,030",100472,113071.18879999999,"['sql', 'machine learning', 'r', 'python']"
+data scientist,midlevel,remote,Brazil . Fully Remote,14 days ago,Technology,NA,Private,NA,25211,28372.4594,"['sql', 'machine learning', 'python']"
+data scientist,midlevel,NA,"Singapore, Singapore",7 days ago,Technology,Private,"3,682","3,682",83973,94503.2142,['machine learning']
+machine learning engineer,NA,on-site,"Boston, MA . On-site",6 days ago,Retail,Public,"17,030",NA,160750 - 170797,180908.05,[]
+data scientist,senior,remote,"San Francisco, CA, US . Remote, US . Fully Remote",21 days ago,Technology,Public,"5,260","5,260",306626,345076.9004,[]
+data scientist,senior,remote,"Toronto, Ontario, Canada",4 days ago,Technology,Public,"2,280",NA,45064 - 105142,50715.0256,"['sql', 'machine learning', 'python']"
+data scientist,senior,hybrid,"San Francisco, California, United States . Hybrid",12 days ago,Technology,Private,15,15,173539 - 210072,195300.79059999998,[]
+data scientist,senior,NA,"Colorado Springs, CO",2 months ago,Technology,Public,"16,060",NA,79192 - 138558,89122.6768,"['pandas', 'numpy', 'pytorch', 'spark', 'aws', 'amazon', 'r', 'python', 'scikit-learn', 'scipy', 'linux', 'java', 'machine learning', 'keras', 'deep learning', 'matplotlib', 'tensorflow']"
+data scientist,senior,on-site,"Bengaluru, Karnataka, India",2 months ago,Technology,Public,"125,010",NA,23903,26900.4362,"['spark', 'aws', 'r', 'python', 'sql', 'machine learning', 'database', 'hadoop', 'azure']"
+machine learning engineer,NA,on-site,"Mountain View, California (HQ) . On-site",16 days ago,Technology,Private,900,900,126250 - 189589,142081.75,[]
+data scientist,senior,hybrid,"Bentonville, AR . Hybrid",18 days ago,Retail,Public,NA,NA,82200 - 164400,92507.87999999999,"['spark', 'r', 'python', 'scala', 'machine learning', 'tensorflow']"
+data scientist,lead,NA,"Bengaluru, Karnataka, India",a month ago,Retail,Public,"409,060","409,060",31966 - 58197,35974.5364,"['spark', 'r', 'python', 'scala', 'java', 'sql', 'hadoop', 'machine learning']"
+data scientist,midlevel,hybrid,"Annapolis Junction, MD . Fort Meade, MD . Hybrid",17 days ago,Technology,Public,"27,060",NA,70878 - 160749,79766.10119999999,"['linux', 'machine learning', 'r', 'python']"
+data scientist,senior,hybrid,"Hyderabad, Telangana, India . Chennai, Tamil Nadu, India . Hybrid",14 days ago,Technology,Public,"132,070","132,070",22839,25703.010599999998,"['aws', 'r', 'python', 'sql', 'gcp', 'machine learning', 'tableau']"
+data scientist,junior,NA,"Berkeley, CA",2 months ago,Education,NA,"17,441","17,441",99741 - 189795,112248.5214,['machine learning']
+data scientist,midlevel,remote,"Santo Domingo, Dominican Republic . Fully Remote",14 days ago,Technology,NA,Private,NA,25216,28378.0864,"['sql', 'machine learning', 'python']"
+data scientist,junior,NA,"Madrid, Community of Madrid, Spain",5 days ago,Finance,Private,"312,040","312,040",28045,31561.842999999997,"['python', 'docker', 'kubernetes', 'machine learning', 'azure', 'deep learning']"
+data scientist,senior,remote,"India, Hyderabad . Fully Remote",20 days ago,Technology,Private,900,900,39023,43916.4842,[]
+data scientist,senior,on-site,"Gurgaon, Haryana, India",8 days ago,Healthcare,Public,"37,950",NA,29801 - 32905,33538.045399999995,"['python', 'machine learning', 'gcp', 'azure', 'deep learning', 'tensorflow']"
+data scientist,lead,on-site,"San Diego, CA",3 days ago,Technology,Public,"17,070","17,070",145221,163431.7134,"['r', 'python', 'sql', 'machine learning', 'tableau']"
+data scientist,lead,remote,"Cambridge, MA",7 days ago,Healthcare,Public,"75,470","75,470",149787,168570.2898,"['pytorch', 'r', 'python', 'machine learning', 'tensorflow']"
+data scientist,senior,on-site,"San Francisco, CA",2 months ago,Retail,Public,"117,010",NA,159293 - 211170,179268.34219999998,"['spark', 'sql', 'azure', 'python']"
+data scientist,senior,on-site,"New York, New York, United States . On-site",23 days ago,Finance,Private,950,950,175364 - 219204,197354.6456,[]
+data scientist,senior,on-site,"Mountain View, CA . San Bruno, CA",4 days ago,Technology,Public,"258,760","258,760",151616 - 222855,170628.6464,"['sql', 'r', 'python']"
+data scientist,senior,on-site,"Bellevue, WA",16 days ago,Retail,Public,NA,NA,142483 - 284961,160350.3682,"['pytorch', 'spark', 'r', 'python', 'scala', 'machine learning', 'azure', 'tensorflow']"
+data scientist,senior,on-site,"Whitehouse Station, NJ . Philadelphia, PA . Jersey City, NJ . Philadelphia, Pennsylvania, Amerika Serikat . Whitehouse Station, New Jersey, Amerika Serikat",3 months ago,Finance,Public,"29,400",NA,96818 - 165318,108958.9772,"['database', 'sql', 'machine learning', 'python']"
+data scientist,midlevel,NA,"Cary, NC",19 days ago,Technology,Public,"97,300","97,300",37995 - 64591,42759.573,[]
+machine learning engineer,NA,hybrid,"Boston, MA . Hybrid",22 days ago,Retail,Public,"17,020",NA,160748 - 170795,180905.79919999998,[]
+data scientist,lead,NA,"Hyderabad, Telangana, India",7 days ago,Technology,Private,180,180,19780,22260.412,"['aws', 'r', 'python', 'sql', 'machine learning', 'azure', 'tableau']"
+machine learning engineer,senior,NA,"Bengaluru, Karnataka, India",14 days ago,Technology,Public,"492,235","492,235",10524 - 26185,11843.7096,"['sql', 'python']"
+data scientist,NA,hybrid,"Toronto, Canada . Hybrid",7 days ago,Technology,Public,"5,010","5,010",98640 - 123300,111009.45599999999,[]
+data scientist,senior,NA,"Plano, TX",8 days ago,Technology,Public,"17,020","17,020",168969,190157.7126,"['spark', 'r', 'python', 'sql', 'tableau']"
+data scientist,senior,on-site,"Mountain View, CA",5 days ago,Technology,Public,"258,800","258,800",128780 - 184493,144929.012,"['sql', 'r', 'python']"
+data scientist,lead,hybrid,"Mountain View, CA, US . San Francisco, CA, US . Hybrid",9 days ago,Technology,Private,"2,760","2,760",251171,282667.8434,[]
+data scientist,senior,remote,"Lima, Peru",5 days ago,Technology,NA,Private,NA,7679,8641.9466,"['pandas', 'numpy', 'python', 'sklearn', 'machine learning', 'matplotlib']"
+data scientist,senior,remote,"East Hanover, NJ",14 days ago,Healthcare,Public,"107,690","107,690",104122 - 192715,117178.8988,"['gcp', 'database']"
+data scientist,senior,NA,"Mountain View, CA",a month ago,Technology,Public,"17,020","17,020",173539,195300.79059999998,"['sql', 'machine learning', 'r', 'python']"
+data scientist,lead,on-site,"Colorado Springs, CO",8 days ago,Finance,Private,"33,020","33,020",150503 - 287666,169376.07619999998,"['r', 'python', 'sql', 'database', 'machine learning']"
+data scientist,senior,NA,"Albany, NY",2 months ago,Healthcare,Public,"300,060","300,060",131709 - 263411,148225.3086,"['aws', 'python', 'sql', 'machine learning', 'gcp', 'azure']"
+data scientist,senior,NA,"McLean, VA",2 months ago,Technology,Public,"27,450",NA,115177 - 208199,129620.1958,"['pandas', 'numpy', 'r', 'python', 'sql', 'tableau']"
+data scientist,lead,NA,"Boise, ID",a month ago,Finance,Public,"11,060","11,060",100474,113073.4396,"['pandas', 'numpy', 'pytorch', 'spark', 'r', 'python', 'scikit-learn', 'machine learning', 'deep learning', 'tensorflow']"
+data scientist,senior,hybrid,"Bengaluru, Karnataka, India . Hybrid",7 days ago,Finance,Public,"68,420",NA,24200,27234.68,"['pytorch', 'aws', 'python', 'sql', 'gcp', 'azure', 'tensorflow']"
+data scientist,senior,hybrid,"Dublin, County Dublin, Ireland . Hybrid",14 days ago,Healthcare,Public,"37,950",NA,67973 - 93598,76496.8142,"['git', 'r', 'python', 'hadoop', 'deep learning', 'keras', 'azure', 'tensorflow']"
+data scientist,senior,on-site,"Mountain View, CA",a month ago,Technology,Public,"258,810","258,810",207333 - 292272,233332.5582,"['sql', 'r', 'python']"
+data scientist,senior,remote,"Gurugram, Haryana, India . Madurai, Tamil Nadu, India . Jaipur, Rajasthan, India . Chandigarh, India . Mumbai, Maharashtra, India + 34 More",7 days ago,Technology,Private,950,950,24358,27412.493199999997,"['scikit-learn', 'python', 'airflow', 'sql', 'machine learning']"
+data scientist,senior,NA,"Fort Meade, MD",8 days ago,Technology,Private,"5,010","5,010",133347 - 213720,150068.7138,['tableau']
+data scientist,senior,NA,"Hyderabad, Telangana, India",a month ago,Technology,Private,180,180,19777,22257.035799999998,"['pytorch', 'aws', 'python', 'docker', 'gcp', 'kubernetes', 'azure', 'tensorflow']"
+machine learning engineer,senior,on-site,"Mountain View, California (HQ) . On-site",7 days ago,Technology,Private,900,900,203472 - 304988,228987.3888,[]
+data scientist,senior,hybrid,"Redmond, WA . Hybrid",2 days ago,Technology,Public,"182,328","182,328",136788,153941.2152,"['sql', 'azure', 'machine learning', 'python']"
+data scientist,senior,hybrid,"Brooklyn Park, MN . Hybrid",7 days ago,Retail,Public,"409,050","409,050",86770 - 156183,97650.958,"['spark', 'r', 'python', 'scala', 'java', 'sql', 'hadoop', 'machine learning']"
+data scientist,senior,hybrid,"Alpharetta, GA . Hybrid",7 days ago,Technology,Public,"261,040","261,040",85855 - 150244,96621.21699999999,"['pytorch', 'spark', 'aws', 'r', 'python', 'scala', 'java', 'sql', 'machine learning', 'gcp', 'deep learning', 'azure', 'tensorflow', 'tableau']"
+data scientist,senior,NA,"Bengaluru, Karnataka, India",7 days ago,Technology,Public,"524,568","524,568",33043 - 52693,37186.5922,"['pandas', 'pytorch', 'r', 'python', 'java', 'database', 'keras', 'machine learning', 'matplotlib', 'tensorflow']"
+machine learning engineer,senior,NA,"College Park, MD",21 days ago,Technology,Private,"5,060","5,060",73068 - 116908,82230.7272,"['pytorch', 'python', 'java', 'keras', 'machine learning', 'tensorflow']"
+data scientist,senior,on-site,"New York, NY",18 days ago,Retail,Public,"55,100","55,100",158013 - 180298,177827.8302,"['pytorch', 'aws', 'database', 'machine learning', 'tensorflow']"
+data scientist,senior,hybrid,"Mountain View, California, USA . Hybrid",9 days ago,Technology,Private,"2,810","2,810",236556,266220.1224,[]
+data scientist,senior,NA,"Tallinn, Harjumaa, Estonia",7 days ago,Technology,Private,"3,760","3,760",61775,69521.58499999999,"['pandas', 'numpy', 'spark', 'aws', 'scikit-learn', 'python', 'airflow', 'machine learning']"
+data scientist,senior,NA,"Bengaluru, Karnataka, India",a month ago,Retail,Public,"409,040","409,040",31971 - 58202,35980.1634,"['pytorch', 'python', 'docker', 'sql', 'machine learning', 'kubernetes', 'hadoop', 'deep learning', 'tensorflow']"
+data scientist,senior,on-site,"Washington, DC . On-site",7 days ago,Technology,Public,"26,010","26,010",109604 - 146136,123348.3416,['machine learning']
+data scientist,senior,hybrid,"Fort Belvoir, VA . Reston, VA . Hybrid",20 days ago,Technology,Public,"27,010",NA,90421 - 205500,101759.7934,"['spark', 'r', 'python', 'sql', 'hadoop', 'machine learning']"
+data scientist,senior,hybrid,"San Francisco, CA, US . Seattle, WA, US . Palo Alto, CA, US . Hybrid",19 hours ago,Technology,Public,"5,300","5,300",306623,345073.5242,[]
+data scientist,lead,on-site,"New York, NY",16 days ago,Retail,Public,"55,110","55,110",262862 - 300034,295824.8948,"['aws', 'r', 'python', 'scala', 'machine learning', 'database', 'deep learning']"
+data scientist,senior,on-site,"San Jose, CA",6 days ago,Retail,Public,"55,130","55,130",132526 - 151250,149144.7604,"['pytorch', 'aws', 'r', 'python', 'scala', 'sql', 'database', 'machine learning']"
+data scientist,senior,hybrid,"Alpharetta, GA . Hybrid",7 days ago,Technology,Public,"261,010","261,010",85862 - 150251,96629.09479999999,"['pytorch', 'spark', 'aws', 'r', 'python', 'scala', 'java', 'sql', 'machine learning', 'gcp', 'deep learning', 'azure', 'tensorflow', 'tableau']"
+data scientist,senior,on-site,"Sunnyvale, CA",21 days ago,Retail,Public,NA,NA,106860 - 213719,120260.24399999999,"['pytorch', 'spark', 'r', 'python', 'scala', 'machine learning', 'tensorflow']"
+data scientist,senior,NA,"Bengaluru East, Karnataka, India",6 days ago,Technology,Public,"261,040","261,040",9582,10783.5828,"['aws', 'r', 'python', 'sql', 'neural network', 'gcp', 'azure']"
+data scientist,senior,hybrid,"Hartford, CT . Chicago, IL . Charlotte, NC . Columbus, OH . Hybrid",7 days ago,Finance,Public,"18,190","18,190",100028 - 150042,112571.5112,['machine learning']
+data scientist,NA,hybrid,"Toronto, Canada . Hybrid",7 days ago,Technology,Public,"5,040","5,040",98648 - 123308,111018.4592,[]
+data scientist,senior,on-site,"Linthicum Heights, MD . On-site",14 days ago,Technology,Public,"97,050","97,050",164039 - 246056,184609.4906,['r']
+data scientist,lead,on-site,"North Chicago, IL",a month ago,Healthcare,Public,"49,360","49,360",137007,154187.6778,[]
+data scientist,midlevel,remote,"San Juan, Puerto Rico . Fully Remote",14 days ago,Technology,NA,Private,NA,25214,28375.8356,"['sql', 'machine learning', 'python']"
+data scientist,senior,on-site,"Overland Park, KS . Bellevue, WA . Frisco, TX",3 months ago,Technology,Public,"83,560",NA,116363 - 209887,130954.9202,"['aws', 'r', 'python', 'sql', 'machine learning', 'deep learning', 'azure']"
+data scientist,senior,NA,"San Francisco, CA",21 days ago,Technology,Public,"17,070","17,070",168968,190156.58719999998,"['r', 'python', 'sql', 'machine learning', 'tableau']"
+data scientist,senior,NA,"Hyderabad, Telangana, India",14 days ago,Technology,Public,"524,608","524,608",27279 - 52700,30699.7866,"['database', 'machine learning', 'java']"
+data scientist,senior,hybrid,"Tallinn, Harjumaa, Estonia . Hybrid",a month ago,Technology,Private,"3,760","3,760",61778,69524.96119999999,"['pandas', 'numpy', 'pytorch', 'spark', 'aws', 'scikit-learn', 'python', 'docker', 'airflow', 'machine learning', 'deep learning']"
+data scientist,senior,NA,"Mountain View, CA",7 days ago,Technology,Public,"17,050","17,050",168967,190155.4618,"['sql', 'machine learning', 'tableau', 'python']"
+machine learning engineer,senior,on-site,"Taipei, Taiwan . On-site",a month ago,Technology,Private,530,530,36345,40902.663,[]
+data scientist,senior,NA,"Brooklyn, NY",14 days ago,Energy,Public,"6,190",NA,127871 - 166230,143906.0234,"['sql', 'python']"
+data scientist,midlevel,NA,"Mumbai, Maharashtra, India",7 days ago,Finance,Public,"290,800","290,800",33751,37983.3754,"['spark', 'sql', 'machine learning', 'python']"
+data scientist,midlevel,NA,"Amsterdam, North Holland, Netherlands",a month ago,Technology,Private,900,900,49109,55267.268599999996,"['machine learning', 'python']"
+data scientist,senior,remote,Mumbai Metropolitan Region . Fully Remote,2 months ago,Technology,Private,"263,610","263,610",4055 - 10055,4563.496999999999,"['pandas', 'numpy', 'pytorch', 'scipy', 'opencv', 'hadoop', 'machine learning', 'keras', 'deep learning', 'tensorflow']"
+data scientist,lead,on-site,"Plano, TX . On-site",5 days ago,Finance,Public,"290,750","290,750",137008,154188.8032,"['amazon', 'spark', 'aws', 'r', 'python', 'scala', 'sql', 'machine learning', 'gcp', 'hadoop', 'azure']"
+data scientist,junior,on-site,"Jersey City, NJ . Whitehouse Station, NJ . Simsbury, CT . Philadelphia, PA",a month ago,Finance,Public,"29,410",NA,79463 - 135176,89427.6602,"['pandas', 'numpy', 'pytorch', 'spark', 'scikit-learn', 'python', 'linux', 'airflow', 'sql', 'machine learning', 'database', 'azure', 'tensorflow']"
+data scientist,senior,on-site,"Mountain View, CA",4 days ago,Technology,Public,"17,020","17,020",163490 - 170340,183991.64599999998,"['sql', 'machine learning', 'r', 'python']"
+data scientist,lead,on-site,"San Francisco, CA",14 days ago,Technology,Public,"94,560","94,560",231078 - 286791,260055.1812,['machine learning']
+data scientist,senior,hybrid,"San Francisco, CA . Hybrid",12 days ago,Finance,Private,780,780,204593 - 281312,230248.96219999998,[]
+data scientist,senior,NA,"Raleigh, NC",6 days ago,Technology,Public,"10,040",NA,99557,112041.4478,"['spark', 'aws', 'r', 'python', 'machine learning', 'hadoop', 'deep learning']"
+data scientist,senior,NA,"Bengaluru, Karnataka, India",21 days ago,Technology,Private,"3,550","3,550",19234,21645.9436,"['pytorch', 'aws', 'git', 'python', 'docker', 'sql', 'machine learning', 'gcp', 'deep learning', 'keras', 'azure', 'tensorflow', 'tableau']"
+data scientist,lead,on-site,"McLean, VA",18 days ago,Retail,Public,"55,100","55,100",262864 - 300036,295827.1456,"['aws', 'r', 'python', 'scala', 'machine learning', 'database', 'deep learning']"
+data scientist,senior,on-site,"San Jose, CA . Austin, TX",7 days ago,Technology,Public,"21,260","21,260",117457 - 213904,132186.1078,"['sql', 'python']"
+data scientist,senior,hybrid,"San Francisco, CA . Hybrid",12 days ago,Finance,Private,780,780,204590 - 281309,230245.58599999998,[]
+data scientist,lead,on-site,"McLean, VA",21 days ago,Retail,Public,"55,100","55,100",262861 - 300033,295823.7694,"['aws', 'r', 'python', 'scala', 'machine learning', 'database', 'deep learning']"
+machine learning engineer,senior,on-site,"South San Francisco, CA . New York, NY",4 days ago,Technology,Private,"14,060","14,060",177193,199413.0022,"['pytorch', 'r', 'python', 'scala', 'java', 'machine learning', 'deep learning', 'tensorflow']"
+data scientist,senior,hybrid,"San Francisco, CA . Hybrid",7 days ago,Technology,Public,"5,020","5,020",135174 - 168967,152124.8196,[]
+data scientist,senior,remote,"Bogota, D.C., Capital District, Colombia",5 days ago,Technology,NA,Private,NA,7680,8643.072,"['pandas', 'numpy', 'python', 'sklearn', 'machine learning', 'matplotlib']"
+data scientist,midlevel,remote,"San Francisco, CA . Atlanta, GA . Portland, OR . Seattle, WA . Pittsburgh, PA + 2 More",11 days ago,Technology,Public,"55,040","55,040",118739,133628.8706,['machine learning']
+data scientist,midlevel,on-site,"San Francisco, CA",a month ago,Technology,Public,"94,540","94,540",132439 - 186325,149046.8506,"['sql', 'machine learning', 'r', 'python']"
+data scientist,senior,on-site,"Sunnyvale, CA",12 days ago,Retail,Public,NA,NA,118736 - 237469,133625.4944,"['pytorch', 'spark', 'r', 'python', 'scala', 'java', 'sql', 'machine learning', 'deep learning', 'keras', 'azure', 'tensorflow']"
+data scientist,senior,hybrid,"Dublin, County Dublin, Ireland . Hybrid",3 days ago,Healthcare,Public,"37,990",NA,52987,59631.5698,"['aws', 'r', 'python', 'airflow', 'sql', 'machine learning', 'azure', 'tableau']"
+data scientist,senior,remote,NA,6 days ago,Technology,Private,45,45,146136 - 159836,164461.4544,[]
+data scientist,senior,NA,"South San Francisco, CA",a month ago,Healthcare,Private,250,250,109602 - 168968,123346.09079999999,"['r', 'python']"
+data scientist,senior,NA,"Singapore, Singapore",3 days ago,Technology,Public,"40,040","40,040",85616,96352.24639999999,"['git', 'python', 'java', 'sql', 'machine learning']"
+data scientist,senior,on-site,"Bentonville, AR",14 days ago,Retail,Public,NA,NA,100468 - 200934,113066.6872,"['spark', 'r', 'python', 'scala', 'sql', 'machine learning', 'tensorflow']"
+data scientist,midlevel,hybrid,"Arlington, VA . Hybrid",6 days ago,Technology,Public,"27,030",NA,70880 - 160751,79768.352,"['spark', 'r', 'python', 'sql', 'hadoop', 'machine learning']"
+data scientist,midlevel,NA,"Kochi, Kerala, India",14 days ago,Technology,Public,"492,195","492,195",12728 - 26188,14324.091199999999,"['aws', 'r', 'python', 'scala', 'java', 'sql', 'machine learning', 'hadoop', 'azure', 'tableau']"
+data scientist,senior,hybrid,"New York, NY . Hybrid",2 months ago,Healthcare,Public,"300,010","300,010",101605 - 203204,114346.26699999999,"['pytorch', 'aws', 'python', 'sql', 'machine learning', 'gcp', 'deep learning', 'azure']"
+data scientist,senior,NA,"Bengaluru East, Karnataka, India",5 days ago,Technology,Public,"261,060","261,060",9587,10789.209799999999,['machine learning']
+data scientist,midlevel,hybrid,"Washington, DC . Hybrid",14 days ago,Technology,Public,"27,070",NA,70883 - 160754,79771.7282,"['machine learning', 'tableau', 'python']"
+data scientist,senior,hybrid,"Sevilla La Nueva, Community of Madrid, Spain . Hybrid",14 days ago,Technology,Private,"263,590","263,590",32155,36187.237,"['pytorch', 'aws', 'r', 'python', 'docker', 'opencv', 'machine learning', 'gcp', 'kubernetes', 'deep learning', 'azure', 'tensorflow']"
+data scientist,senior,hybrid,"Chantilly, VA . Hybrid",7 days ago,Technology,Public,"27,050",NA,90426 - 205505,101765.4204,"['r', 'python', 'java', 'sql', 'database', 'tableau']"
+data scientist,midlevel,on-site,"Riverside, CA . On-site",a month ago,Technology,Public,"20,010",NA,82476,92818.4904,"['pytorch', 'aws', 'scikit-learn', 'python', 'machine learning', 'azure', 'tensorflow']"
+data scientist,lead,on-site,"Colorado Springs, CO",14 days ago,Finance,Private,"33,010","33,010",137005,154185.427,"['spark', 'r', 'python', 'sql', 'machine learning', 'hadoop', 'deep learning']"
+data scientist,midlevel,on-site,"Los Angeles, CA",18 days ago,Technology,Public,"94,590","94,590",158014 - 221034,177828.9556,"['sql', 'machine learning', 'r', 'python']"
+data scientist,senior,NA,"Fort Meade, MD",7 days ago,Technology,Private,"5,060","5,060",102293 - 163486,115120.5422,['tableau']
+data scientist,senior,on-site,"Bengaluru, Karnataka, India",2 months ago,Retail,Public,"409,050","409,050",31210 - 58197,35123.734,"['spark', 'machine learning', 'git', 'python']"
+data scientist,lead,on-site,"Mumbai, Maharashtra, India",14 days ago,Healthcare,Public,"37,950",NA,29799 - 32903,33535.7946,"['git', 'r', 'python', 'airflow', 'sql', 'machine learning']"
+data scientist,midlevel,on-site,"Sunnyvale, CA",a month ago,Technology,Public,"94,590","94,590",132433 - 186319,149040.0982,"['sql', 'machine learning', 'r', 'python']"
+data scientist,senior,NA,"San Francisco, CA",25 days ago,Technology,Public,"17,020","17,020",173540,195301.916,"['sql', 'machine learning', 'r', 'python']"
+data scientist,lead,on-site,"Sunnyvale, CA",14 days ago,Retail,Public,NA,NA,182672,205579.06879999998,"['spark', 'r', 'python', 'scala', 'machine learning', 'tensorflow']"
+machine learning engineer,senior,hybrid,"Noida, Uttar Pradesh, India . Ahmedabad, Gujarat, India . Trivandrum, Kerala, India . Bengaluru, Karnataka, India . Hyderabad, Telangana, India + 2 More . Hybrid",a month ago,Technology,Public,"212,630","212,630",41974,47237.5396,"['pytorch', 'spark', 'aws', 'scikit-learn', 'python', 'docker', 'deep learning', 'sql', 'machine learning', 'gcp', 'kubernetes', 'hadoop', 'azure', 'tensorflow']"
+data scientist,senior,on-site,"San Francisco, CA . Seattle, WA . Atlanta, GA",5 days ago,Technology,Public,"65,820","65,820",183405 - 252178,206403.987,"['spark', 'r', 'python', 'airflow', 'hadoop']"
+data scientist,senior,hybrid,"Bengaluru, Karnataka, India . Hybrid",14 days ago,Technology,Public,"34,660","34,660",32875 - 47285,36997.525,"['sql', 'machine learning', 'python']"
+data scientist,NA,on-site,NA,14 days ago,Technology,Public,"2,270",NA,155610 - 207329,175123.494,[]
+data scientist,senior,NA,"London, England, United Kingdom",14 days ago,Technology,Public,"26,090",NA,78110,87904.99399999999,"['r', 'python', 'sql', 'hadoop', 'machine learning', 'tableau']"
+data scientist,senior,on-site,"Chantilly, VA . On-site",8 days ago,Technology,Public,"26,020","26,020",114169,128485.7926,"['amazon', 'aws', 'python']"
+data scientist,midlevel,hybrid,"Washington, DC . Hybrid",14 days ago,Finance,Public,"21,030","21,030",106410 - 164863,119753.814,"['spark', 'hadoop', 'sql', 'python']"
+data scientist,senior,on-site,"Bellevue, WA",6 days ago,Retail,Public,"865,416","865,416",117828 - 219207,132603.6312,"['amazon', 'r', 'python', 'sql', 'machine learning']"
+data scientist,senior,NA,"Jacksonville, FL",6 days ago,Technology,Public,"5,010",NA,38945,43828.703,"['pytorch', 'spark', 'python', 'sql', 'machine learning']"
+data scientist,senior,on-site,"Bengaluru East, Karnataka, India",14 days ago,Technology,Public,"261,060","261,060",9586,10788.0844,"['sql', 'machine learning', 'r', 'python']"
+data scientist,senior,NA,Spain,7 days ago,Technology,Public,990,NA,54805,61677.547,"['pandas', 'python', 'docker', 'airflow', 'sql', 'gcp', 'machine learning']"
+data scientist,lead,NA,"Albany, NY",a month ago,Healthcare,Public,"300,010","300,010",131704 - 263406,148219.68159999998,"['sql', 'machine learning', 'python']"
+data scientist,senior,on-site,"Mason, OH",7 days ago,Manufacturing,Public,"101,040","101,040",77642 - 105041,87378.30679999999,"['aws', 'machine learning', 'r', 'azure']"
+data scientist,junior,NA,"Bengaluru, Karnataka, India",a month ago,Technology,Public,"222,050","222,050",10049,11309.1446,"['deep learning', 'machine learning']"
+data scientist,senior,on-site,"Overland Park, KS . Bellevue, WA",3 months ago,Technology,Public,"83,550",NA,116364 - 209888,130956.0456,"['spark', 'r', 'python', 'sql', 'machine learning', 'database', 'hadoop', 'deep learning']"
+data scientist,senior,on-site,"Homestead, FL",a month ago,Technology,Public,"20,010",NA,63118 - 129242,71032.9972,"['sql', 'machine learning', 'r', 'python']"
+data scientist,senior,remote,"Raleigh, NC",a month ago,Technology,Public,"10,070",NA,99560,112044.824,"['pandas', 'numpy', 'pytorch', 'spark', 'scikit-learn', 'python', 'scala', 'java', 'sql', 'machine learning', 'keras', 'deep learning', 'tensorflow']"
+data scientist,midlevel,NA,"McLean, VA",a month ago,Technology,Public,"27,390",NA,95585 - 172784,107571.359,"['aws', 'git', 'python', 'sql', 'database', 'machine learning', 'matplotlib', 'tensorflow', 'tableau']"
+data scientist,senior,remote,"Raleigh, NC . Fully Remote",a month ago,Technology,Public,"10,020",NA,99554,112038.0716,"['spark', 'python', 'machine learning', 'hadoop', 'deep learning']"
+data scientist,senior,remote,Mexico City Metropolitan Area,5 days ago,Technology,NA,Private,NA,7678,8640.8212,"['pandas', 'numpy', 'python', 'sklearn', 'machine learning', 'matplotlib']"
+data scientist,senior,on-site,"Bethesda, MD . On-site",a month ago,Technology,Public,"27,400",NA,77773 - 140587,87525.73419999999,"['amazon', 'aws', 'git', 'r', 'python', 'docker', 'sql', 'kubernetes', 'hadoop']"
+data scientist,senior,on-site,United States,7 days ago,Technology,Public,"1,300",NA,115088 - 143858,129520.0352,"['aws', 'git', 'r', 'python', 'sql', 'machine learning']"
+data scientist,senior,on-site,"Cincinnati, OH",a month ago,Finance,Public,"62,040","62,040",161759 - 271723,182043.57859999998,"['spark', 'sql', 'machine learning', 'python']"
+data scientist,midlevel,NA,"Pune, Maharashtra, India",14 days ago,Technology,Public,"492,235","492,235",12730 - 26190,14326.341999999999,"['r', 'python', 'java', 'sql', 'database', 'machine learning']"
+data scientist,senior,remote,NA,6 months ago,Energy,Private,90,90,168968 - 210068,190156.58719999998,[]
+machine learning engineer,senior,NA,"Bengaluru, Karnataka, India",14 days ago,Technology,Public,"492,235","492,235",10525 - 26186,11844.835,"['sql', 'python']"
+data scientist,NA,on-site,"San Francisco, California, United States . On-site",a month ago,Finance,Private,950,950,138831 - 173538,156240.4074,[]
+data scientist,senior,NA,"Singapore, Singapore",5 days ago,Technology,Public,"36,130",NA,104657 - 128182,117780.9878,"['spark', 'aws', 'git', 'python', 'sql', 'gcp', 'deep learning', 'azure', 'tensorflow']"
+data scientist,senior,NA,"Madrid, Community of Madrid, Spain",13 days ago,Finance,Private,"312,010","312,010",28046,31562.968399999998,[]
+data scientist,senior,on-site,"Augusta, GA",14 days ago,Technology,Public,"65,140",NA,58366 - 156348,65685.0964,"['aws', 'powerbi', 'r', 'python', 'sql', 'machine learning', 'tableau']"
+data scientist,senior,on-site,"Redmond, WA",16 days ago,Technology,Public,"94,580","94,580",132436 - 186322,149043.4744,"['sql', 'machine learning', 'r', 'python']"
+data scientist,senior,remote,"San Jose, California, United States . Fully Remote",15 days ago,Healthcare,Public,"4,560",NA,155267 - 182667,174737.48179999998,[]
+data scientist,senior,on-site,"Sunnyvale, CA",16 days ago,Retail,Public,NA,NA,130608 - 261214,146986.2432,"['spark', 'r', 'python', 'scala', 'sql', 'machine learning', 'tensorflow']"
+data scientist,senior,on-site,"Noida, Uttar Pradesh, India",21 days ago,Healthcare,Public,"37,990",NA,29800 - 32904,33536.92,"['pytorch', 'aws', 'git', 'r', 'python', 'docker', 'scikit-learn', 'deep learning', 'machine learning', 'gcp', 'kubernetes', 'keras', 'azure', 'tensorflow']"
+data scientist,lead,NA,"Bengaluru, Karnataka, India",15 days ago,Finance,Public,"290,740","290,740",27555 - 43659,31010.396999999997,"['sql', 'aws', 'tableau']"
+data scientist,senior,NA,"Mountain View, CA",a month ago,Technology,Public,"17,050","17,050",173536,195297.41439999998,"['sql', 'machine learning', 'tableau', 'python']"
+data scientist,senior,on-site,Antwerp Metropolitan Area,2 days ago,Technology,Public,"20,020",NA,99006,111421.35239999999,"['machine learning', 'database']"
+data scientist,senior,on-site,"San Francisco, CA",14 days ago,Technology,Public,"6,030","6,030",211535 - 282044,238061.489,"['tableau', 'sql', 'r', 'python']"
+data scientist,senior,on-site,"Mountain View, California . On-site",18 hours ago,Technology,Private,"2,270","2,270",209476,235744.2904,[]
+data scientist,junior,hybrid,"Valladolid, Castilla and Leon, Spain . Sevilla La Nueva, Community of Madrid, Spain . Hybrid",15 days ago,Technology,Private,"263,590","263,590",32159,36191.7386,"['pandas', 'numpy', 'aws', 'r', 'python', 'scikit-learn', 'machine learning', 'gcp', 'deep learning', 'azure', 'matplotlib']"
+machine learning engineer,lead,on-site,"New York, NY . On-site",a month ago,Finance,Public,"290,790","290,790",200933,226129.9982,"['pandas', 'numpy', 'pytorch', 'scikit-learn', 'machine learning', 'deep learning', 'tensorflow']"
+data scientist,senior,NA,"San Diego, CA",14 days ago,Technology,Public,"17,040","17,040",168966,190154.3364,"['pandas', 'numpy', 'git', 'scikit-learn', 'python', 'linux', 'sql', 'machine learning', 'tableau']"
+data scientist,senior,NA,Greater Hyderabad Area,10 days ago,Technology,Private,950,950,2283322,2569650.5788,"['azure', 'python']"
+data engineer,senior,on-site,"North Reading, MA",2 days ago,Retail,Public,"865,456","865,456",117826 - 219205,132601.3804,"['amazon', 'spark', 'python', 'scala', 'sql', 'hadoop', 'machine learning']"
+data scientist,lead,on-site,"Menlo Park, CA",18 days ago,Technology,Public,"94,590","94,590",231077 - 286790,260054.0558,['machine learning']
+data scientist,midlevel,remote,"Belize City, Belize, Belize . Fully Remote",14 days ago,Technology,NA,Private,NA,25214,28375.8356,"['sql', 'machine learning', 'python']"
+data scientist,senior,hybrid,"Chicago, IL . Hybrid",2 months ago,Technology,Public,"34,630","34,630",112801 - 194406,126946.2454,"['sql', 'machine learning', 'tableau', 'python']"
+data scientist,senior,hybrid,"Norco, CA . Hybrid",7 days ago,Technology,Public,"27,040",NA,90420 - 205499,101758.66799999999,"['pytorch', 'aws', 'scikit-learn', 'python', 'machine learning', 'azure', 'tensorflow']"
+machine learning engineer,junior,NA,"Bengaluru, Karnataka, India",17 days ago,Technology,Public,"492,225","492,225",10524 - 26185,11843.7096,['machine learning']
+data scientist,lead,NA,"Bengaluru, Karnataka, India",7 days ago,Retail,Public,"409,030","409,030",31966 - 58197,35974.5364,"['spark', 'machine learning', 'git', 'python']"
+data scientist,senior,on-site,"North Las Vegas, NV . On-site",7 days ago,Technology,Public,"26,050","26,050",114170,128486.91799999999,['machine learning']
+data scientist,senior,on-site,"Denver, CO",a month ago,Technology,Public,"65,860","65,860",183400 - 252173,206398.36,"['spark', 'r', 'python', 'airflow', 'hadoop']"
+data scientist,senior,on-site,"Boston, MA",4 days ago,Finance,Public,"3,070",NA,141567,159319.5018,"['kubernetes', 'machine learning', 'python']"
+data scientist,senior,NA,"Bengaluru, Karnataka, India",11 days ago,Technology,Private,590,590,23243,26157.672199999997,"['aws', 'machine learning', 'python']"
+data scientist,senior,on-site,"McLean, VA . 미국 버지니아 McLean",a month ago,Technology,Private,"21,640","21,640",147509 - 199569,166006.6286,"['python', 'database', 'linux', 'sql', 'kubernetes', 'keras', 'machine learning', 'tensorflow']"
+data scientist,midlevel,NA,"Brooklyn, NY",6 days ago,Energy,Public,"6,190",NA,108695 - 141574,122325.35299999999,"['tableau', 'sql', 'r', 'python']"
+machine learning engineer,midlevel,NA,"Bengaluru, Karnataka, India",14 days ago,Technology,Public,"492,255","492,255",10524 - 26185,11843.7096,"['azure', 'machine learning', 'python']"
+data scientist,senior,on-site,NA,4 months ago,Technology,Private,320,320,28127,31654.125799999998,[]
+data scientist,senior,on-site,"Dublin, County Dublin, Ireland",14 days ago,Healthcare,Public,"37,950",NA,67978 - 93603,76502.4412,"['sql', 'azure', 'machine learning', 'python']"
+data scientist,senior,on-site,"Washington, DC",18 days ago,Technology,Public,"94,570","94,570",132441 - 186327,149049.10139999999,"['sql', 'machine learning', 'r', 'python']"
+data scientist,senior,on-site,"Austin, TX",18 days ago,Technology,Public,"94,530","94,530",132434 - 186320,149041.2236,"['sql', 'machine learning', 'r', 'python']"
+data engineer,senior,on-site,"Seattle, WA",21 days ago,Retail,Public,"865,456","865,456",109603 - 219202,123347.2162,"['amazon', 'aws']"
+data scientist,senior,NA,"Singapore, Singapore . シンガポール シンガポール",a month ago,Technology,Public,"40,060","40,060",43549 - 48973,49010.0446,"['java', 'sql', 'git', 'python']"
+data scientist,senior,NA,"Bengaluru, Karnataka, India . Gurugram, Haryana, India . Hyderabad, Telangana, India",a month ago,Retail,Public,"865,446","865,446",68388 - 109537,76963.85519999999,"['amazon', 'spark', 'r', 'python', 'sql', 'machine learning', 'hadoop', 'deep learning']"
+data scientist,senior,on-site,"New York, NY",a month ago,Retail,Public,"865,416","865,416",146134 - 164401,164459.2036,"['amazon', 'r', 'python', 'neural network', 'sql', 'machine learning', 'deep learning']"
+machine learning engineer,senior,NA,"Bengaluru East, Karnataka, India",21 days ago,Technology,Public,"261,050","261,050",9584,10785.8336,"['deep learning', 'aws', 'machine learning', 'azure']"
+machine learning engineer,senior,on-site,"Bengaluru, Karnataka, India",10 days ago,Technology,Public,"117,790","117,790",19599,22056.7146,"['git', 'docker', 'java', 'sql', 'database']"
+data scientist,senior,hybrid,"Washington, DC . Hybrid",14 days ago,Technology,Public,"57,270","57,270",105769,119032.4326,"['r', 'python', 'sql', 'machine learning', 'matplotlib', 'tableau']"
+data scientist,senior,NA,"Bengaluru, Karnataka, India",21 days ago,Retail,Public,"409,070","409,070",31967 - 58198,35975.6618,"['spark', 'python', 'sql', 'machine learning', 'deep learning']"
+data scientist,lead,on-site,"Chicago, IL",21 days ago,Retail,Public,"55,150","55,150",262859 - 300031,295821.5186,"['aws', 'r', 'python', 'scala', 'machine learning', 'database', 'deep learning']"
+data scientist,junior,hybrid,"Austin, TX . Chicago, IL . Hybrid",a month ago,Technology,Public,"34,690","34,690",112804 - 194409,126949.6216,"['sql', 'database']"
+data scientist,midlevel,hybrid,"Washington, DC . Hybrid",14 days ago,Technology,Public,"27,040",NA,70880 - 160751,79768.352,"['sql', 'machine learning', 'python']"
+data scientist,senior,on-site,"Toronto, Ontario, Canada",14 days ago,Manufacturing,Public,"18,900",NA,91610 - 114535,103097.894,"['spark', 'machine learning', 'r', 'python']"
+data scientist,lead,on-site,"Columbus, OH . On-site",a month ago,Finance,Public,"290,750","290,750",155271,174741.9834,"['sql', 'machine learning', 'tableau', 'python']"
+data scientist,senior,on-site,NA,20 hours ago,Technology,Public,"2,270",NA,94259 - 172805,106079.0786,[]
+data scientist,lead,NA,"Wellesley Hills, MA",14 days ago,Healthcare,Public,"300,020","300,020",131704 - 263406,148219.68159999998,"['sql', 'r', 'python']"
+data scientist,midlevel,on-site,"Noida, Uttar Pradesh, India",6 days ago,Healthcare,Public,"37,940",NA,18195,20476.653,"['r', 'python', 'sql', 'hadoop', 'machine learning']"
+data scientist,senior,NA,"Birmingham, MI",a month ago,Healthcare,Private,"76,060","76,060",69597 - 86951,78324.4638,"['pandas', 'aws', 'scikit-learn', 'python', 'sql', 'machine learning', 'gcp', 'azure']"
+machine learning engineer,senior,NA,"Bengaluru, Karnataka, India",14 days ago,Technology,Public,"492,225","492,225",10525 - 26186,11844.835,"['azure', 'machine learning', 'python']"
+data scientist,senior,on-site,"Doral, FL",2 days ago,Technology,Public,"20,010",NA,63112 - 129236,71026.2448,"['r', 'python', 'sql', 'machine learning', 'tableau']"
+data scientist,senior,NA,"Gurugram, Haryana, India . Hyderabad, Telangana, India",6 days ago,Technology,Public,"26,640",NA,18678,21020.2212,"['pytorch', 'aws', 'git', 'python', 'java', 'gcp', 'azure', 'tensorflow']"
+data scientist,lead,NA,"Bengaluru, Karnataka, India",7 days ago,Technology,Private,590,590,23240,26154.296,"['pytorch', 'aws', 'python', 'docker', 'machine learning', 'gcp', 'deep learning', 'azure', 'tensorflow']"
+data scientist,junior,hybrid,"Toronto, Ontario, Canada . Markham, Ontario, Canada . Hybrid",14 days ago,Finance,Public,"29,530",NA,73455,82666.257,['python']
+machine learning engineer,senior,hybrid,"San Diego, CA . Hybrid",a month ago,Technology,Public,"27,390",NA,115179 - 208201,129622.4466,['r']
+data scientist,senior,NA,"London, England, United Kingdom",a month ago,Technology,Public,"10,030",NA,76372,85949.04879999999,"['powerbi', 'python', 'sql', 'machine learning', 'tableau']"
+machine learning engineer,senior,NA,"Pune, Maharashtra, India",4 days ago,Logistics,Private,"38,120","38,120",26752,30106.7008,"['spark', 'aws', 'powerbi', 'python', 'docker', 'sql', 'machine learning', 'gcp', 'kubernetes', 'deep learning', 'azure']"
+data scientist,NA,on-site,NA,5 days ago,Technology,Private,600,600,112341,126428.56139999999,[]
+data scientist,senior,on-site,"Mountain View, CA . New York, NY . San Bruno, CA",14 days ago,Technology,Public,"258,800","258,800",179934 - 265787,202497.7236,"['sql', 'r', 'python']"
+data scientist,lead,on-site,"Richmond, VA",a month ago,Retail,Public,"55,140","55,140",192716 - 219933,216882.5864,"['spark', 'aws', 'r', 'python', 'scala', 'database', 'sql', 'machine learning', 'kubernetes', 'deep learning']"
+data scientist,senior,hybrid,"Fort Meade, MD . Hybrid",23 days ago,Technology,Public,"27,070",NA,90424 - 205503,101763.1696,"['machine learning', 'python']"
+data scientist,senior,on-site,"Sunnyvale, CA",18 days ago,Retail,Public,NA,NA,130611 - 261217,146989.6194,"['pytorch', 'spark', 'r', 'python', 'scala', 'java', 'machine learning', 'deep learning', 'tensorflow']"
+data scientist,senior,NA,"Bengaluru, Karnataka, India",a month ago,Technology,Public,"222,500",NA,17919,20166.0426,"['pytorch', 'spark', 'aws', 'python', 'sql', 'machine learning', 'gcp', 'hadoop', 'azure', 'tensorflow']"
+data scientist,senior,NA,"Gurugram, Haryana, India . Bengaluru, Karnataka, India . Hyderabad, Telangana, India . Gurgaon, Haryana, India . Gurgaon, Haryana, Inde + 1 More",a month ago,Retail,Public,"865,476","865,476",51263 - 109545,57691.3802,"['amazon', 'spark', 'r', 'python', 'sql', 'machine learning', 'hadoop', 'deep learning']"
+data scientist,senior,hybrid,"Tallinn, Harjumaa, Estonia . Hybrid",a month ago,Technology,Private,"3,790","3,790",61775,69521.58499999999,"['pandas', 'numpy', 'spark', 'aws', 'scikit-learn', 'python', 'docker', 'airflow', 'machine learning', 'deep learning']"
+data scientist,senior,NA,"Bengaluru, Karnataka, India",a month ago,Technology,Private,590,590,23238,26152.0452,"['pytorch', 'aws', 'python', 'docker', 'machine learning', 'gcp', 'deep learning', 'azure', 'tensorflow']"
+machine learning engineer,lead,on-site,"Seattle, WA . On-site",22 days ago,Finance,Public,"290,760","290,760",196372,220997.0488,"['pandas', 'numpy', 'pytorch', 'scikit-learn', 'machine learning', 'deep learning', 'tensorflow']"
+data scientist,senior,NA,Ukraine,7 days ago,Technology,Private,"10,210","10,210",65766,74013.0564,"['amazon', 'deep learning', 'machine learning', 'python']"
+data scientist,senior,NA,"Bengaluru, Karnataka, India",20 days ago,Technology,Public,"524,588","524,588",33047 - 52697,37191.093799999995,"['database', 'machine learning', 'java']"
+data scientist,midlevel,hybrid,"Irving, TX . Basking Ridge, NJ . Ashburn, VA . Hybrid",14 days ago,Technology,Public,"132,030","132,030",115081,129512.1574,[]
+machine learning engineer,midlevel,NA,"Bengaluru, Karnataka, India",14 days ago,Technology,Public,"492,205","492,205",10526 - 26187,11845.9604,"['sql', 'python']"
+data scientist,NA,hybrid,"Chicago, Illinois, United States . Hybrid",2 months ago,Technology,Private,"3,560","3,560",127872 - 137005,143907.1488,[]
+data scientist,senior,on-site,"San Jose, CA",15 days ago,Retail,Public,"55,140","55,140",158011 - 180296,177825.5794,"['pytorch', 'aws', 'database', 'machine learning', 'tensorflow']"
+data scientist,NA,remote,NA,5 days ago,Technology,Private,900,900,164405,185021.387,[]
+data scientist,senior,NA,"Tampa, FL",7 days ago,Technology,Public,"27,420",NA,77776 - 140590,87529.11039999999,"['pytorch', 'aws', 'r', 'python', 'docker', 'scikit-learn', 'sql', 'machine learning', 'gcp', 'kubernetes', 'deep learning', 'azure', 'matplotlib', 'tensorflow', 'tableau']"
+data scientist,senior,on-site,"Annapolis Junction, MD",a month ago,Technology,Public,"20,030",NA,66405 - 136274,74732.18699999999,"['sql', 'machine learning', 'r', 'python']"
+data scientist,lead,NA,"Bengaluru, Karnataka, India",7 days ago,Finance,Public,"290,770","290,770",27553 - 43657,31008.1462,"['machine learning', 'python']"
+data scientist,senior,NA,"Zurich, Zurich, Switzerland",5 days ago,Technology,Public,"258,810","258,810",148524 - 185955,167148.90959999998,[]
+data scientist,lead,on-site,"South San Francisco, CA",16 days ago,Healthcare,Public,"93,570","93,570",159837,179880.5598,"['pytorch', 'aws', 'machine learning', 'gcp', 'azure', 'tensorflow']"
+data scientist,midlevel,remote,"San Salvador, San Salvador, El Salvador . Fully Remote",14 days ago,Technology,NA,Private,NA,25213,28374.710199999998,"['sql', 'machine learning', 'python']"
+data scientist,lead,NA,"Columbia, MD",a month ago,Technology,Private,180,180,100474 - 146140,113073.4396,"['pytorch', 'spark', 'aws', 'r', 'python', 'scikit-learn', 'scala', 'sql', 'machine learning', 'gcp', 'azure', 'tensorflow']"
+data scientist,senior,on-site,"Atlanta, GA",2 months ago,Retail,Public,"500,010",NA,116908,131568.2632,"['sql', 'tableau', 'python']"
+data scientist,senior,hybrid,"Cambridge, MA . Hybrid",14 days ago,Healthcare,Public,"107,730","107,730",120837 - 224408,135989.95979999998,"['r', 'python']"
+data scientist,senior,hybrid,"Brooklyn Park, MN . Hybrid",21 days ago,Retail,Public,"409,060","409,060",86769 - 156182,97649.8326,"['python', 'scala', 'sql', 'machine learning', 'hadoop', 'deep learning']"
+data scientist,NA,hybrid,"Chennai, Tamil Nadu, India . Hybrid",2 months ago,Technology,Private,"3,520","3,520",34569,38903.9526,[]
+data scientist,senior,on-site,"Bentonville, AR",16 days ago,Retail,Public,NA,NA,98645 - 197284,111015.083,"['spark', 'r', 'python', 'scala', 'sql', 'machine learning', 'tensorflow']"
+data scientist,senior,on-site,"Málaga, Andalusia, Spain",7 days ago,Finance,Private,"312,060","312,060",28046,31562.968399999998,"['pandas', 'numpy', 'python', 'machine learning', 'azure']"
+data scientist,senior,hybrid,"Malvern, PA . Hybrid",4 days ago,Finance,Private,"20,600","20,600",115087 - 127874,129518.9098,['machine learning']
+machine learning engineer,lead,on-site,"New York, NY . On-site",a month ago,Finance,Public,"290,740","290,740",164408,185024.7632,"['pandas', 'numpy', 'pytorch', 'scikit-learn', 'machine learning', 'deep learning', 'tensorflow']"
+machine learning engineer,junior,on-site,"San Jose, CA",8 months ago,Technology,Private,"110,010","110,010",132436 - 228335,149043.4744,"['pytorch', 'python', 'neural network', 'machine learning', 'deep learning', 'tensorflow']"
+data scientist,senior,on-site,"Sunnyvale, CA",14 days ago,Technology,Public,"258,790","258,790",207334 - 292273,233333.6836,"['sql', 'r', 'python']"
+data scientist,senior,on-site,"Massachusetts, United States . Massachusetts, Amerika Syarikat",a month ago,Finance,Public,"62,030","62,030",157012 - 263789,176701.30479999998,"['spark', 'aws', 'python', 'sql', 'machine learning', 'gcp', 'azure']"
+data scientist,senior,hybrid,"Alpharetta, GA . Hybrid",7 days ago,Finance,Public,"11,060","11,060",94080,105877.632,['machine learning']
+machine learning engineer,midlevel,NA,"Bengaluru, Karnataka, India",14 days ago,Technology,Public,"492,205","492,205",10529 - 26190,11849.336599999999,"['pytorch', 'aws', 'python', 'docker', 'machine learning', 'azure', 'tensorflow']"
+data scientist,senior,hybrid,"Hartford, CT . Chicago, IL . Columbus, OH . Charlotte, NC . Columbus, Ohio, United States + 1 More . Hybrid",2 months ago,Finance,Public,"18,170","18,170",101126 - 151688,113807.2004,"['pandas', 'git', 'python', 'sql', 'matplotlib']"
+machine learning engineer,senior,on-site,"Seattle, WA",14 days ago,Technology,Public,"26,050",NA,252999,284725.0746,"['scala', 'machine learning', 'python']"
+data scientist,senior,remote,"California, United States",8 days ago,Healthcare,NA,"120,050","120,050",159841,179885.0614,"['r', 'python', 'scala', 'sql', 'machine learning', 'database', 'azure', 'tableau']"
+data scientist,senior,hybrid,"New York, NY . Hybrid",7 days ago,Technology,Public,"5,030","5,030",135178 - 168971,152129.3212,[]
+data scientist,senior,hybrid,"Alpharetta, GA . Hybrid",7 days ago,Technology,Public,"261,070","261,070",85860 - 150249,96626.844,"['pytorch', 'spark', 'aws', 'r', 'python', 'scala', 'java', 'sql', 'machine learning', 'gcp', 'deep learning', 'azure', 'tensorflow', 'tableau']"
+data scientist,lead,NA,"Singapore, Singapore",20 days ago,Finance,Public,"30,840",NA,67039,75445.6906,"['spark', 'git', 'python', 'sql', 'machine learning', 'hadoop', 'deep learning']"
+machine learning engineer,senior,on-site,"Newport Beach, CA",19 days ago,Technology,Public,"117,760","117,760",114169 - 127869,128485.7926,"['pytorch', 'machine learning', 'database', 'deep learning', 'tensorflow']"
+data scientist,senior,on-site,"Seattle, WA . Santa Clara, CA",11 days ago,Retail,Public,"865,476","865,476",149803 - 168061,168588.29619999998,"['amazon', 'aws', 'r', 'python', 'sql', 'machine learning', 'tableau']"
+data scientist,senior,hybrid,"Irving, TX . Lake Mary, FL . Basking Ridge, NJ . Boston, MA . Hybrid",6 days ago,Technology,Public,"132,040","132,040",73984,83261.5936,"['pandas', 'numpy', 'pytorch', 'spark', 'r', 'python', 'java', 'sklearn', 'sql', 'machine learning', 'keras', 'deep learning', 'matplotlib', 'tensorflow', 'tableau']"
+data scientist,senior,NA,"Bengaluru, Karnataka, India",13 days ago,Technology,Public,"26,090",NA,32733,36837.718199999996,"['sql', 'tableau', 'python']"
+data scientist,senior,remote,Canada . Fully Remote,14 days ago,Technology,Private,30,30,137004 - 155270,154184.3016,"['sql', 'machine learning', 'tableau', 'python']"
+data scientist,senior,on-site,"Bethesda, MD . On-site",a month ago,Technology,Public,"27,410",NA,95587 - 172786,107573.60979999999,"['amazon', 'aws', 'git', 'r', 'python', 'docker', 'sql', 'kubernetes', 'hadoop']"
+data scientist,midlevel,on-site,"Noida, Uttar Pradesh, India",7 days ago,Healthcare,Public,"37,950",NA,18199,20481.154599999998,"['spark', 'python', 'sql', 'machine learning', 'deep learning']"
+data scientist,senior,NA,"Noida, Uttar Pradesh, India . Bengaluru, Karnataka, India",16 days ago,Technology,Public,"21,300","21,300",29932 - 37411,33685.472799999996,"['pandas', 'numpy', 'pytorch', 'spark', 'aws', 'python', 'scala', 'sql', 'hadoop', 'machine learning', 'keras', 'azure']"
+data scientist,senior,hybrid,"Greenwood Village, CO . Hybrid",9 days ago,Technology,Public,"96,040",NA,80559,90661.0986,"['pytorch', 'aws', 'python', 'sql', 'machine learning', 'hadoop', 'azure', 'tensorflow']"
+data scientist,senior,on-site,NA,2 days ago,Technology,Public,"5,570","5,570",189974,213796.7396,[]
+data scientist,senior,on-site,"Chantilly, VA . On-site",a month ago,Technology,Public,"26,040","26,040",114169,128485.7926,"['aws', 'azure']"
+data scientist,midlevel,remote,"Quito, Pichincha, Ecuador . Fully Remote",14 days ago,Technology,NA,Private,NA,25216,28378.0864,"['sql', 'machine learning', 'python']"
+data scientist,midlevel,remote,"Podgorica, Montenegro . Fully Remote",14 days ago,Technology,NA,Private,NA,25212,28373.5848,"['sql', 'machine learning', 'python']"
+data scientist,senior,hybrid,"Hickam Village, HI . Hybrid",14 days ago,Technology,Public,"27,020",NA,90425 - 205504,101764.295,"['pandas', 'numpy', 'pytorch', 'spark', 'aws', 'scikit-learn', 'python', 'docker', 'java', 'machine learning', 'gcp', 'kubernetes', 'hadoop', 'azure', 'matplotlib', 'tensorflow']"
+data scientist,lead,NA,"Hyderabad, Telangana, India",6 days ago,Technology,Private,180,180,19776,22255.9104,"['pandas', 'numpy', 'aws', 'r', 'python', 'machine learning', 'gcp', 'azure']"
+data scientist,senior,on-site,"San Francisco, CA",7 days ago,Technology,Public,"6,040","6,040",184128 - 240389,207217.6512,"['tableau', 'sql', 'r', 'python']"
+data scientist,senior,on-site,"Mountain View, CA",14 days ago,Technology,Public,"258,800","258,800",167139 - 247512,188098.23059999998,"['sql', 'r', 'python']"
+data scientist,senior,hybrid,"Chennai, Tamil Nadu, India . Hybrid",21 days ago,Technology,Public,"34,640","34,640",33313 - 42993,37490.4502,"['r', 'python', 'sql', 'gcp', 'machine learning']"
+data scientist,senior,NA,"Singapore, Singapore",2 months ago,Technology,Public,"36,090",NA,104650 - 128175,117773.11,"['pytorch', 'python', 'scala', 'machine learning', 'deep learning', 'tensorflow']"
+data scientist,senior,on-site,"Hyderabad, Telangana, India",4 days ago,Technology,Private,180,180,19777,22257.035799999998,"['pandas', 'numpy', 'aws', 'r', 'python', 'machine learning', 'gcp', 'azure']"
+data scientist,junior,NA,"Charlotte, NC . New York, NY",23 days ago,Finance,Public,"274,250","274,250",132436 - 146136,149043.4744,"['machine learning', 'matplotlib', 'python']"
+data scientist,senior,NA,"New York, NY",3 months ago,Healthcare,Private,"76,030","76,030",66122 - 99997,74413.6988,"['pandas', 'numpy', 'aws', 'scikit-learn', 'python', 'machine learning', 'azure']"
+data scientist,senior,on-site,"Reston, VA . On-site",a month ago,Technology,Public,"26,030","26,030",114169,128485.7926,"['pytorch', 'aws', 'r', 'python', 'scikit-learn', 'sql', 'machine learning', 'tensorflow', 'tableau']"
+data scientist,senior,hybrid,"New York, NY . Hybrid",7 days ago,Technology,Public,"5,030","5,030",135177 - 168970,152128.1958,[]
+data scientist,midlevel,hybrid,"Tondiarpet, Tamil Nadu, India . Bengaluru, Karnataka, India . Hybrid",7 days ago,Technology,Public,"34,640","34,640",24064 - 45170,27081.6256,"['pytorch', 'scikit-learn', 'python', 'machine learning', 'tensorflow']"
+machine learning engineer,senior,on-site,"Mountain View, California (HQ) . On-site",7 days ago,Technology,Private,900,900,167893 - 252056,188946.7822,[]
+data scientist,senior,on-site,"Bengaluru, Karnataka, India",2 months ago,Retail,Public,"409,050","409,050",31213 - 58200,35127.110199999996,"['spark', 'machine learning', 'python']"
+machine learning engineer,junior,on-site,"San Jose, CA",14 days ago,Technology,Private,"110,010","110,010",132436 - 216919,149043.4744,"['pytorch', 'python', 'machine learning', 'deep learning', 'tensorflow']"
+data scientist,senior,hybrid,"London, England, United Kingdom . Londýn, Anglie, Spojené království . Hybrid",3 months ago,Technology,Private,"263,560","263,560",73983,83260.4682,"['pytorch', 'aws', 'scikit-learn', 'docker', 'deep learning', 'machine learning', 'kubernetes', 'keras', 'azure', 'tensorflow']"
+data scientist,senior,NA,"North Reading, MA",a month ago,Retail,Public,"865,456","865,456",155274 - 182674,174745.3596,"['amazon', 'r', 'python', 'sql', 'machine learning']"
+data scientist,senior,hybrid,"Berlin, Berlin, Germany . Hybrid",7 days ago,Technology,Private,"3,800","3,800",98643,111012.83219999999,"['sql', 'r', 'python']"
+data scientist,senior,on-site,"Atlanta, GA",16 days ago,Technology,Public,"261,010","261,010",85861 - 150250,96627.9694,"['pytorch', 'spark', 'aws', 'r', 'python', 'scala', 'java', 'sql', 'machine learning', 'gcp', 'deep learning', 'azure', 'tensorflow', 'tableau']"
+data scientist,senior,on-site,"Mountain View, CA",14 days ago,Technology,Public,"182,308","182,308",144680 - 235647,162822.872,"['sql', 'python']"
+data scientist,senior,NA,"Boston, MA . บอสตัน, รัฐแมสซาชูเซตส์, สหรัฐ",2 months ago,Healthcare,Public,"300,050","300,050",131703 - 263405,148218.5562,"['aws', 'python', 'sql', 'machine learning', 'gcp', 'azure']"
+data scientist,senior,remote,"Stockholm, Stockholm County, Sweden",7 days ago,Technology,Public,"132,000","132,000",52506,59090.2524,"['spark', 'scikit-learn', 'python', 'scala', 'java', 'machine learning', 'keras', 'deep learning', 'tensorflow']"
+data scientist,senior,NA,"Chennai, Tamil Nadu, India",11 days ago,Technology,Private,590,590,23239,26153.170599999998,"['aws', 'scikit-learn', 'python', 'machine learning', 'gcp', 'keras', 'deep learning', 'tensorflow']"
+data scientist,NA,remote,NA,2 days ago,Technology,Public,"4,110","4,110",158829 - 178648,178746.1566,[]
+data scientist,senior,hybrid,"Bengaluru, Karnataka, India . Hybrid",8 days ago,Technology,Public,"34,680","34,680",33111 - 47625,37263.119399999996,[]
+data scientist,midlevel,hybrid,"Herndon, VA . Hybrid",8 days ago,Technology,Public,"27,010",NA,71394 - 161915,80346.8076,"['aws', 'machine learning', 'python']"
+data scientist,midlevel,on-site,"McLean, VA . McLean, Virgínia, Estados Unidos",a month ago,Retail,Public,"55,090","55,090",159156 - 181602,179114.1624,"['spark', 'aws', 'r', 'python', 'scala', 'sql', 'machine learning', 'database', 'deep learning']"
+data scientist,senior,on-site,"Bentonville, AR . On-site",18 days ago,Retail,Public,NA,NA,82797 - 165590,93179.7438,"['spark', 'r', 'python', 'scala', 'sql', 'machine learning', 'tensorflow']"
+machine learning engineer,senior,NA,"Bengaluru, Karnataka, India",8 days ago,Technology,Public,"492,205","492,205",20441,23004.3014,"['aws', 'gcp', 'azure']"
+data scientist,senior,hybrid,"Scottsdale, AZ . Chicago, IL . Austin, TX . Scottsdale, Arizona, United States . Hybrid",3 months ago,Technology,Public,"34,690","34,690",113614 - 195810,127861.19559999999,"['hadoop', 'sql']"
+data scientist,midlevel,hybrid,"Annapolis Junction, MD . Fort Meade, MD . Hybrid",6 days ago,Technology,Public,"27,030",NA,71396 - 161917,80349.0584,"['linux', 'machine learning', 'r', 'python']"
+data scientist,senior,on-site,"Sunnyvale, CA",17 days ago,Retail,Public,NA,NA,107637 - 215269,121134.6798,"['numpy', 'pytorch', 'spark', 'r', 'python', 'scikit-learn', 'scala', 'bash', 'java', 'sql', 'machine learning', 'gcp', 'deep learning', 'matplotlib', 'tensorflow']"
+data scientist,senior,on-site,"Sunnyvale, CA",17 days ago,Retail,Public,NA,NA,131555 - 263105,148051.997,"['numpy', 'pytorch', 'spark', 'r', 'python', 'scikit-learn', 'scala', 'bash', 'java', 'sql', 'machine learning', 'gcp', 'deep learning', 'matplotlib', 'tensorflow']"
+data scientist,midlevel,on-site,"Boulder, CO",5 days ago,Technology,Public,"258,780","258,780",152711 - 224466,171860.9594,"['sql', 'r', 'python']"
+data scientist,senior,on-site,"Santa Barbara, CA . Bellevue, WA",18 days ago,Retail,Public,"865,436","865,436",160991,181179.2714,"['amazon', 'r', 'python', 'sql', 'tableau']"
+data scientist,senior,on-site,"Bellevue, WA . New York, United States . Santa Monica, CA",a month ago,Retail,Public,"865,466","865,466",150883 - 178472,169803.72819999998,"['amazon', 'aws', 'r', 'python', 'sql', 'machine learning', 'tableau']"
+machine learning engineer,midlevel,NA,"Bengaluru, Karnataka, India",15 days ago,Technology,Public,"492,195","492,195",10605 - 26380,11934.867,"['sql', 'python']"
+data scientist,senior,on-site,"Sunnyvale, CA",7 days ago,Retail,Public,NA,NA,107641 - 215273,121139.1814,"['pytorch', 'spark', 'r', 'python', 'scala', 'machine learning', 'tensorflow']"
+data scientist,senior,hybrid,"McLean, VA . Hybrid",a day ago,Technology,Public,"27,060",NA,91081 - 206992,102502.55739999999,"['spark', 'python', 'sql', 'hadoop', 'machine learning']"
+data scientist,midlevel,hybrid,"Richmond, VA . Hybrid",14 days ago,Retail,Public,"55,110","55,110",145905 - 166511,164201.487,"['spark', 'aws', 'r', 'python', 'scala', 'sql', 'machine learning', 'database', 'deep learning']"
+data scientist,senior,hybrid,"San Jose, CA . Hybrid",a month ago,Technology,Public,"34,670","34,670",140294 - 241349,157886.8676,[]
+data scientist,senior,on-site,"New York, NY . Sunnyvale, CA",15 days ago,Technology,Public,"258,790","258,790",208832 - 294386,235019.5328,"['sql', 'r', 'python']"
+data scientist,lead,on-site,"Plano, TX . Plano, Texas, Spojené státy . On-site",a month ago,Finance,Public,"290,790","290,790",137997,155301.82379999998,"['spark', 'aws', 'r', 'python', 'scikit-learn', 'sql', 'machine learning']"
+data scientist,senior,NA,"Bengaluru, Karnataka, India",21 days ago,Retail,Public,"865,416","865,416",29758 - 110330,33489.6532,"['amazon', 'r', 'python', 'sql', 'machine learning']"
+data scientist,midlevel,on-site,"New York, NY . New York, New York, Statele Unite Ale Americii",a month ago,Retail,Public,"55,130","55,130",159150 - 181596,179107.41,"['spark', 'aws', 'r', 'python', 'scala', 'sql', 'machine learning', 'database', 'deep learning']"
+data scientist,senior,NA,"Atlanta, GA",a month ago,Technology,Public,"17,050","17,050",174789,196707.54059999998,"['tableau', 'sql', 'r', 'python']"
+data scientist,senior,NA,"Noida, Uttar Pradesh, India",a month ago,Technology,Private,"263,610","263,610",4082 - 10125,4593.882799999999,"['git', 'r', 'python', 'linux', 'sql', 'tableau']"
+data scientist,senior,on-site,"Annapolis Junction, MD",25 days ago,Technology,Public,"492,255","492,255",129163 - 244062,145360.0402,"['machine learning', 'python']"
+data scientist,lead,on-site,"Bellevue, WA",12 days ago,Technology,Public,"94,570","94,570",189513 - 258507,213277.9302,"['sql', 'machine learning', 'r', 'python']"
+data scientist,lead,NA,"London, England, United Kingdom",8 days ago,Finance,Public,"290,800","290,800",116803,131450.0962,"['deep learning', 'python']"
+data scientist,senior,on-site,"Bentonville, AR",15 days ago,Retail,Public,NA,NA,101194 - 202387,113883.7276,"['pytorch', 'spark', 'r', 'python', 'scala', 'opencv', 'machine learning', 'deep learning', 'tensorflow']"
+data scientist,senior,NA,"Mountain View, CA",15 days ago,Technology,Public,"17,030","17,030",170195,191537.45299999998,"['pandas', 'numpy', 'git', 'scikit-learn', 'python', 'linux', 'sql', 'machine learning', 'tableau']"
+data scientist,senior,NA,"Hyderabad, Telangana, India",a month ago,Retail,Public,"865,476","865,476",44815 - 99272,50434.801,"['amazon', 'aws', 'r', 'python', 'scala', 'sql', 'machine learning', 'tableau']"
+data scientist,lead,on-site,United States,5 days ago,Technology,Public,"94,580","94,580",232749 - 288865,261935.7246,['machine learning']
+machine learning engineer,senior,NA,"Bengaluru, Karnataka, India",8 days ago,Technology,Public,"492,215","492,215",20445,23008.803,"['aws', 'gcp', 'azure']"
+data scientist,senior,hybrid,"Bellevue, WA . Hybrid",15 days ago,Retail,Public,NA,NA,143514 - 287023,161510.6556,"['pytorch', 'aws', 'python', 'docker', 'machine learning', 'gcp', 'kubernetes', 'azure', 'tensorflow']"
+machine learning engineer,junior,on-site,"San Jose, CA",14 days ago,Technology,Private,"110,050","110,050",126724 - 218487,142615.18959999998,"['pytorch', 'python', 'neural network', 'machine learning', 'deep learning', 'tensorflow']"
+data scientist,senior,on-site,"Arlington, VA . West Hollywood, CA . New York, United States . Austin, TX . Palo Alto, CA + 2 More",25 days ago,Retail,Public,"865,466","865,466",160994 - 178472,181182.6476,"['amazon', 'aws', 'r', 'python', 'scala', 'sql', 'machine learning', 'tableau']"
+data scientist,midlevel,on-site,"New York, NY",a month ago,Retail,Public,"55,090","55,090",159157 - 181603,179115.2878,"['spark', 'aws', 'r', 'python', 'scala', 'sql', 'machine learning', 'database', 'deep learning']"
+data scientist,midlevel,on-site,"Burlingame, CA",19 days ago,Technology,Public,"94,570","94,570",159153 - 222628,179110.7862,"['sql', 'machine learning', 'r', 'python']"
+data scientist,senior,on-site,"Seattle, WA",a month ago,Retail,Public,"865,476","865,476",119600 - 220792,134597.84,"['amazon', 'aws', 'r', 'python', 'sql', 'machine learning']"
+data scientist,senior,on-site,"Nashville, TN . Bellevue, WA . Austin, TX . Arlington, VA . Bellevue, Washington, United States",11 days ago,Retail,Public,"865,446","865,446",118676 - 220788,133557.9704,"['amazon', 'spark', 'r', 'python', 'sql', 'hadoop']"
+machine learning engineer,midlevel,NA,"Bengaluru, Karnataka, India",15 days ago,Technology,Public,"492,255","492,255",10605 - 26380,11934.867,"['sql', 'python']"
+data scientist,senior,hybrid,"Bengaluru, Karnataka, India . Hybrid",8 days ago,Technology,Public,"34,670","34,670",33117 - 47631,37269.8718,[]
+machine learning engineer,midlevel,NA,"Bengaluru, Karnataka, India",15 days ago,Technology,Public,"492,215","492,215",10602 - 26377,11931.4908,"['pytorch', 'aws', 'python', 'docker', 'machine learning', 'azure', 'tensorflow']"
+data scientist,midlevel,on-site,"Seattle, WA",24 days ago,Retail,Public,"865,436","865,436",110400 - 220791,124244.15999999999,"['amazon', 'r', 'python', 'sql', 'machine learning']"
+data scientist,senior,hybrid,"Scottsdale, AZ . Hybrid",2 months ago,Technology,Public,"34,660","34,660",104879 - 211591,118030.8266,"['sql', 'powerbi', 'tableau', 'python']"
+data scientist,senior,on-site,"Mountain View, CA",5 days ago,Technology,Public,"258,770","258,770",129716 - 185832,145982.3864,"['sql', 'r', 'python']"
+machine learning engineer,midlevel,on-site,"Palo Alto, CA . Palo Alto, California, United States . On-site",a month ago,Finance,Public,"290,770","290,770",131552,148048.6208,"['pandas', 'numpy', 'pytorch', 'scikit-learn', 'machine learning', 'deep learning', 'tensorflow']"
+data scientist,lead,NA,"Hyderabad, Telangana, India . Haidarábád, Telangána, Indie",a month ago,Finance,Public,"290,770","290,770",54950,61840.729999999996,"['pytorch', 'machine learning', 'tensorflow', 'python']"
+data scientist,senior,NA,"Bengaluru, Karnataka, India . Bangalore, Karnataka, India",22 days ago,Technology,Public,"524,628","524,628",33283 - 53075,37456.6882,"['docker', 'kubernetes', 'java']"
+machine learning engineer,senior,NA,"Bengaluru, Karnataka, India",8 days ago,Technology,Public,"492,225","492,225",20445,23008.803,"['aws', 'gcp', 'azure']"
+data scientist,lead,on-site,"New York, NY . On-site",21 days ago,Finance,Public,"290,760","290,760",165589,186353.86059999999,"['machine learning', 'r', 'python']"
+data scientist,senior,hybrid,"Sunnyvale, CA . Hybrid",15 days ago,Retail,Public,NA,NA,183991,207063.47139999998,"['spark', 'r', 'python', 'scala', 'sql', 'machine learning', 'tensorflow']"
+data scientist,midlevel,on-site,"North Reading, MA . North Reading, Massachusetts, USA",a month ago,Retail,Public,"865,416","865,416",122355 - 220787,137698.31699999998,"['amazon', 'python', 'sql', 'hadoop', 'machine learning']"
+machine learning engineer,midlevel,NA,"Bengaluru, Karnataka, India",19 days ago,Technology,Public,"492,235","492,235",10604 - 26379,11933.7416,['machine learning']
+data scientist,senior,on-site,"Dublin, County Dublin, Ireland",8 days ago,Technology,Public,"258,760","258,760",112544,126657.01759999999,"['sql', 'r', 'python']"
+data scientist,senior,on-site,"Sunnyvale, CA",17 days ago,Retail,Public,NA,NA,131557 - 263107,148054.24779999998,"['spark', 'r', 'python', 'scala', 'sql', 'machine learning', 'tensorflow']"
+data scientist,midlevel,on-site,"Mountain View, CA",7 days ago,Technology,Public,"258,810","258,810",129712 - 185828,145977.8848,"['sql', 'r', 'python']"
+data engineer,senior,on-site,"Seattle, WA",3 months ago,Retail,Public,"865,476","865,476",119600 - 220792,134597.84,"['amazon', 'aws']"
+data scientist,lead,NA,"London, England, United Kingdom",19 days ago,Finance,Public,"290,750","290,750",92773 - 146026,104406.73419999999,[]
+data scientist,lead,on-site,"Menlo Park, CA",12 days ago,Technology,Public,"94,580","94,580",189510 - 258504,213274.554,"['sql', 'machine learning', 'r', 'python']"
+data scientist,midlevel,on-site,"McLean, VA",17 days ago,Retail,Public,"55,090","55,090",159154 - 181600,179111.9116,"['spark', 'aws', 'r', 'python', 'scala', 'sql', 'machine learning', 'database', 'deep learning']"
+data scientist,lead,on-site,"New York, NY",21 days ago,Retail,Public,"55,150","55,150",264761 - 302202,297962.0294,"['aws', 'r', 'python', 'scala', 'machine learning', 'database', 'deep learning']"
+data scientist,senior,on-site,"Burlingame, CA",a month ago,Technology,Public,"94,560","94,560",159157 - 222632,179115.2878,"['sql', 'machine learning', 'r', 'python']"
+data scientist,senior,NA,"San Diego, CA",22 days ago,Technology,Public,"17,030","17,030",163752,184286.50079999998,"['r', 'python', 'sql', 'machine learning', 'tableau']"
+data scientist,senior,on-site,"Austin, TX . Bellevue, WA . New York, United States",a month ago,Retail,Public,"865,416","865,416",156391,176002.4314,"['amazon', 'r', 'python', 'sql', 'machine learning']"
+data scientist,lead,on-site,"New York, NY",a month ago,Retail,Public,"55,140","55,140",194110 - 221524,218451.394,"['spark', 'aws', 'r', 'python', 'scala', 'sql', 'machine learning', 'database', 'deep learning']"
+data scientist,senior,NA,"Hyderabad, Telangana, India",15 days ago,Technology,Public,"524,568","524,568",27474 - 53079,30919.239599999997,"['database', 'machine learning', 'java']"
+data scientist,senior,hybrid,"Arlington, VA . Hybrid",4 days ago,Technology,Public,"27,010",NA,91075 - 206986,102495.805,"['spark', 'r', 'python', 'sql', 'hadoop', 'machine learning']"
+data scientist,senior,NA,"San Diego, CA",9 days ago,Technology,Public,"17,050","17,050",163754,184288.7516,"['r', 'python', 'sql', 'machine learning', 'tableau']"
+data scientist,senior,on-site,"Seattle, WA . Cupertino, CA",a month ago,Retail,Public,"865,416","865,416",110396 - 220787,124239.6584,"['amazon', 'aws', 'r', 'python', 'sql', 'machine learning']"
+data scientist,lead,on-site,"Columbus, OH . On-site",11 days ago,Finance,Public,"290,780","290,780",137996,155300.6984,"['pandas', 'numpy', 'pytorch', 'spark', 'aws', 'scikit-learn', 'python', 'sql', 'keras', 'machine learning', 'tensorflow']"
+data scientist,midlevel,on-site,"New York, NY",a month ago,Technology,Public,"94,560","94,560",133392 - 187668,150119.3568,"['sql', 'machine learning', 'r', 'python']"
+machine learning engineer,senior,NA,"Bengaluru, Karnataka, India",8 days ago,Technology,Public,"492,215","492,215",20440,23003.176,"['aws', 'gcp', 'azure']"
+data scientist,senior,on-site,"Seattle, WA . Arlington, VA",8 days ago,Retail,Public,"865,466","865,466",110393 - 220784,124236.2822,"['amazon', 'spark', 'r', 'python', 'sql', 'hadoop', 'machine learning']"
+data scientist,senior,on-site,"Mountain View, CA",5 days ago,Technology,Public,"258,810","258,810",208825 - 294379,235011.655,"['sql', 'r', 'python']"
+data scientist,senior,on-site,"San Jose, CA",13 days ago,Retail,Public,"55,110","55,110",133489 - 152347,150228.5206,"['pytorch', 'aws', 'r', 'python', 'scala', 'sql', 'database', 'machine learning']"
+data scientist,midlevel,hybrid,"Chicago, IL . Hybrid",2 months ago,Technology,Public,"34,650","34,650",113614 - 195810,127861.19559999999,"['r', 'python', 'sql', 'machine learning', 'tableau']"
+data scientist,senior,on-site,"Palo Alto, CA . Austin, TX . West Hollywood, CA . Arlington, VA . Seattle, WA + 1 More",8 days ago,Retail,Public,"865,466","865,466",118677 - 220789,133559.09579999998,"['amazon', 'r', 'python', 'scala', 'sql', 'machine learning']"
+data scientist,senior,on-site,"Bellevue, WA",7 days ago,Technology,Public,"94,590","94,590",133394 - 187670,150121.6076,"['spark', 'powerbi', 'r', 'python', 'sql', 'machine learning', 'tableau']"
+data scientist,senior,NA,"Bengaluru, Karnataka, India",23 days ago,Technology,Public,"258,810","258,810",42805,48172.746999999996,"['sql', 'r', 'python']"
+data scientist,midlevel,NA,"London, England, United Kingdom",7 days ago,Finance,Public,"290,800","290,800",97625,109867.175,"['sql', 'machine learning', 'python']"
+data scientist,senior,NA,"New York, NY",8 days ago,Technology,Public,"17,030","17,030",170193,191535.2022,"['tableau', 'sql', 'r', 'python']"
+data scientist,senior,on-site,"Bentonville, AR",17 days ago,Retail,Public,NA,NA,131559 - 263109,148056.4986,"['pytorch', 'spark', 'r', 'python', 'scala', 'machine learning', 'azure', 'tensorflow']"
+data scientist,senior,on-site,"Sunnyvale, CA",19 days ago,Retail,Public,NA,NA,107640 - 215272,121138.056,"['numpy', 'pytorch', 'spark', 'r', 'python', 'scikit-learn', 'scala', 'bash', 'java', 'sql', 'machine learning', 'gcp', 'deep learning', 'matplotlib', 'tensorflow']"
+data scientist,junior,on-site,Belarus,6 days ago,Technology,Public,"49,540",NA,22087,24856.7098,"['spark', 'aws', 'python', 'sql', 'machine learning', 'gcp', 'azure']"
+data scientist,lead,on-site,"San Bruno, CA",8 days ago,Technology,Public,"258,770","258,770",181232 - 267706,203958.49279999998,"['sql', 'r', 'python']"
+machine learning engineer,senior,hybrid,"San Jose, CA . Hybrid",a month ago,Technology,Public,"34,630","34,630",172950 - 298014,194637.93,"['pytorch', 'python', 'sql', 'machine learning', 'gcp', 'hadoop', 'deep learning', 'tensorflow']"
+data scientist,senior,on-site,"Bentonville, AR",18 days ago,Retail,Public,NA,NA,101193 - 202386,113882.6022,"['pytorch', 'spark', 'r', 'python', 'scala', 'neural network', 'machine learning', 'deep learning', 'tensorflow']"
+data scientist,lead,on-site,"Bellevue, WA",19 days ago,Technology,Public,"94,590","94,590",232745 - 288861,261931.223,['machine learning']
+data scientist,senior,on-site,"Mountain View, CA",15 days ago,Technology,Public,"258,810","258,810",181229 - 267703,203955.11659999998,"['sql', 'r', 'python']"
+data scientist,midlevel,on-site,"Seattle, WA",2 days ago,Retail,Public,"865,446","865,446",110401 - 220792,124245.2854,"['amazon', 'r', 'python', 'sql', 'machine learning']"
+data scientist,senior,on-site,"Mountain View, CA",5 days ago,Technology,Public,"258,820","258,820",168348 - 249302,189458.8392,"['sql', 'r', 'python']"
+machine learning engineer,midlevel,NA,"Bengaluru, Karnataka, India",22 days ago,Technology,Public,"492,205","492,205",10603 - 26378,11932.6162,['machine learning']
+data scientist,senior,remote,"Gothenburg, Västra Götaland County, Sweden . Fully Remote",5 days ago,Technology,Private,"263,570","263,570",60795,68418.693,"['pandas', 'amazon', 'pytorch', 'aws', 'git', 'python', 'docker', 'sql', 'kubernetes', 'azure']"
+data scientist,senior,on-site,"San Jose, CA",16 days ago,Retail,Public,"55,130","55,130",159156 - 181602,179114.1624,"['pytorch', 'aws', 'r', 'python', 'scala', 'sql', 'database', 'machine learning']"
+data scientist,lead,NA,"Delhi Cantonment, Delhi, India",4 days ago,Technology,Public,"261,030","261,030",9657,10867.987799999999,[]
+data scientist,senior,on-site,"San Bruno, CA",17 days ago,Retail,Public,NA,NA,131556 - 263106,148053.1224,"['spark', 'r', 'python', 'scala', 'sql', 'machine learning', 'tensorflow']"
+data scientist,senior,on-site,"Bellevue, WA . Austin, TX . Nashville, TN . Tempe, AZ",16 days ago,Retail,Public,"865,476","865,476",156392 - 178470,176003.5568,"['amazon', 'aws', 'r', 'python', 'sql', 'tableau']"
+data scientist,senior,NA,"Camden, NJ",4 months ago,Technology,Private,"263,580","263,580",80371 - 124381,90449.52339999999,"['r', 'python', 'sql', 'machine learning', 'azure']"
+data scientist,senior,hybrid,"San Jose, CA . Hybrid",a month ago,Technology,Public,"34,670","34,670",113612 - 195808,127858.9448,"['tableau', 'sql', 'r', 'python']"
+data scientist,senior,on-site,"Chicago, IL . Sunnyvale, CA",20 days ago,Technology,Public,"258,790","258,790",181235 - 267709,203961.869,"['sql', 'machine learning', 'r', 'python']"
+data scientist,senior,on-site,"New York, United States . Los Angeles Metropolitan Area . Seattle, WA . Austin, TX . Arlington, VA + 2 More",7 days ago,Retail,Public,"865,426","865,426",137999 - 165596,155304.0746,"['amazon', 'r', 'python', 'scala', 'sql', 'machine learning']"
+data scientist,senior,on-site,"San Francisco, CA",5 days ago,Technology,Public,"17,020","17,020",164672 - 171572,185321.8688,"['sql', 'machine learning', 'r', 'python']"
+data scientist,senior,on-site,"New York, NY . On-site",6 days ago,Finance,Public,"290,780","290,780",133114 - 193194,149806.4956,"['pandas', 'numpy', 'python', 'sql', 'machine learning', 'tableau']"
+data scientist,midlevel,on-site,"Plano, TX . On-site",6 days ago,Finance,Public,"290,800","290,800",124196 - 197790,139770.1784,"['pytorch', 'spark', 'python', 'sql', 'keras', 'machine learning', 'tensorflow']"
+data engineer,senior,NA,"Vancouver, British Columbia, Canada",21 days ago,Retail,Public,"865,426","865,426",95034 - 158785,106951.26359999999,"['amazon', 'aws', 'python', 'scala', 'java', 'airflow', 'sql']"
+data scientist,midlevel,on-site,"Bellevue, WA",19 days ago,Technology,Public,"94,580","94,580",159150 - 222625,179107.41,"['sql', 'machine learning', 'r', 'python']"
+data scientist,senior,on-site,"Sunnyvale, CA",17 days ago,Retail,Public,NA,NA,131554 - 263104,148050.87159999998,"['spark', 'r', 'python', 'scala', 'sql', 'machine learning', 'tensorflow']"
+machine learning engineer,senior,on-site,"Seattle, WA",6 days ago,Retail,Public,"865,436","865,436",110395 - 220786,124238.533,"['amazon', 'machine learning']"
+machine learning engineer,midlevel,NA,"Bengaluru, Karnataka, India . Bangalore, Karnataka, India",21 days ago,Technology,Public,"492,245","492,245",10601 - 26376,11930.365399999999,['machine learning']
+data scientist,midlevel,NA,"Singapore, Singapore",a month ago,Technology,Private,"110,010","110,010",57958 - 103129,65225.9332,"['sql', 'machine learning', 'r', 'python']"
+data scientist,senior,hybrid,"Bentonville, AR . Hybrid",18 days ago,Retail,Public,NA,NA,131552 - 263102,148048.6208,"['pytorch', 'spark', 'r', 'python', 'scala', 'java', 'airflow', 'sql', 'machine learning', 'deep learning', 'keras', 'azure', 'tensorflow']"
+data scientist,senior,NA,"Mountain View, CA",8 days ago,Technology,Public,"17,050","17,050",170195,191537.45299999998,"['spark', 'r', 'python', 'sql', 'tableau']"
+data scientist,senior,on-site,"Los Angeles, CA . Mountain View, CA",15 days ago,Technology,Public,"258,790","258,790",129711 - 185827,145976.75939999998,"['spark', 'r', 'python', 'sql', 'hadoop', 'machine learning']"
+data scientist,senior,hybrid,"Bengaluru, Karnataka, India . Hybrid",8 days ago,Technology,Public,"34,650","34,650",24239 - 47626,27278.5706,"['sql', 'machine learning', 'python']"
+data scientist,senior,NA,"Bengaluru, Karnataka, India",a day ago,Technology,Public,"524,598","524,598",33288 - 53080,37462.3152,"['pytorch', 'python', 'sql', 'machine learning', 'deep learning', 'tensorflow']"
+machine learning engineer,senior,NA,"Melbourne, Victoria, Australia",a month ago,Retail,Public,"865,456","865,456",64290,72351.966,"['amazon', 'machine learning']"
+data scientist,midlevel,on-site,"McLean, VA",11 days ago,Retail,Public,"55,150","55,150",145904 - 166510,164200.3616,"['spark', 'aws', 'r', 'python', 'scala', 'sql', 'database', 'machine learning']"
+data scientist,midlevel,on-site,"New York, NY",17 days ago,Retail,Public,"55,110","55,110",159149 - 181595,179106.28459999998,"['spark', 'aws', 'r', 'python', 'scala', 'sql', 'machine learning', 'database', 'deep learning']"
+data scientist,senior,on-site,"San Diego, CA",8 days ago,Technology,Public,"17,040","17,040",195486 - 201926,219999.94439999998,"['r', 'python', 'scala', 'sql', 'machine learning', 'deep learning']"
