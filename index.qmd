@@ -55,6 +55,10 @@ After visualizations, we performed Machine Learning specifically doing simple li
 ![](/assets/collage_of_plots.png)
 Fig 5. Collage of Plots showing different plots of different variables
 
+>Video Presentation
+
+![](/assets/Presentation.mp4)
+
 >Conclusions / Big Picture
 
 In conclusion, the insights does answer the research question on predicting the salary of different job postings with good accuracy which is represented by the Linear Regression Model. Additionally the visualizations demonstrate  the factors affecting the salary level such as skills, industry and locations (here we narrowed down to the United States). The major insights in a glimpse is : Apart from the linear regression predicting the salary, the most important factors affecting salary are skills such as Python, Machine Learning. Similarly, the retail industry has huge influence on the salaries as it requires many data scientists due to the nature of retail and immense data they receive not on day to day basis but on hour-to-hour basis compared to other industries. Likely, the locations ( we looked at the US here) were more skewed for some states like Nebraska but in-general gave a good picture of job postings based on State size or data needs.
