@@ -2,6 +2,7 @@
 title: "SKM"
 ---
 
+Work area to try code
 
 ## Building and fitting ML Models to predict salary for data science postings
 ```{r}
@@ -9,7 +10,7 @@ title: "SKM"
 library(tidyverse)
 library(tidymodels)
 library(VIM)
-library(glmnet)
+
 
 ```
 
@@ -36,8 +37,7 @@ imputed_df<- imputed_df |>
   select(job_title, seniority_level, status, location, post_date, industry, ownership, company_size, revenue, avg_salary_usd, skills)
 
 #imputed_df
-
-#view(imputed_df)
+#head(imputed_df)
 
 
 
@@ -45,137 +45,7 @@ imputed_df<- imputed_df |>
 ```
 
 ### Model Buildinhg
-```{r}
-# Step 1. Implementing the Lasso algorithm to penalize predictors which might add complexity
-lasso_spec <- linear_reg() %>%
-set_mode("regression") %>%
-set_engine("glmnet") %>%
-set_args(mixture = 1, penalty = tune())
 
-reg_spec <- linear_reg() %>%
-set_mode("regression") %>%
-set_engine("glmnet")
-
-
-
-
-
-
-# Step 2. Variable recipe
-variable_recipe <- recipe(avg_salary_usd ~ ., data = imputed_df) %>%
-  step_novel(all_nominal_predictors()) %>%        # handle unseen levels
-  step_dummy(all_nominal_predictors()) %>%        # create dummies (including *_new)
-  step_zv(all_predictors()) %>%                   # drop any zero-variance columns
-  step_normalize(all_numeric_predictors())        # then scale
-
-
-
-# Variable recipe for regression
-variable_rec<-recipe(avg_salary_usd ~ .,data= imputed_df)
-
-
-# STEP 3: workflow specification (model + recipe)
-lasso_workflow <- workflow() %>%
-add_recipe(variable_recipe) %>%
-add_model(lasso_spec)
-
-reg_workflow <- workflow() |>
-  add_recipe(variable_rec) |>
-  add_model(reg_spec)
-
-# STEP 4:Estimate 20 Models w/10 folds each using Cross Validation Algorithm
-set.seed(212)
-lasso_models <- lasso_workflow %>%
-tune_grid(
-grid = grid_regular(penalty(range = c(-5, 1)), levels = 10),
-resamples = vfold_cv(imputed_df, v = 10),
-metrics = metric_set(mae)
-)
-
-
-```
-
-```{r}
-autoplot(lasso_models) +
-scale_x_continuous() +
-xlab(expression(lambda)) # Shows on linear pattern as mae stays constant as we tune the parameter
-```
-```{r}
-
-# Data Prep and splits
-set.seed(212)
-
-salary_df <- imputed_df |>
-  mutate(
-    across(c(job_title, seniority_level, status, location,
-             industry, ownership, company_size, revenue, skills),
-           as.factor)
-  )
-
-data_split  <- initial_split(salary_df, prop = 0.8, strata = avg_salary_usd)
-train_data  <- training(data_split)
-test_data   <- testing(data_split)
-
-
-# recipe and model specification
-salary_recipe <- recipe(avg_salary_usd ~ ., data = train_data) |>
-  step_novel(all_nominal_predictors()) |>        # handle unseen levels
-  step_dummy(all_nominal_predictors()) |>        # create dummies
-  step_zv(all_predictors()) |>                   # drop zero-variance columns
-  step_normalize(all_numeric_predictors())
-
-rf_spec <- rand_forest(
-  mtry  = tune(),
-  trees = 500,
-  min_n = tune()
-) |>
-  set_mode("regression") |>
-  set_engine("ranger", importance = "impurity")
-
-```
-
-```{r}
-# Workflow, tuning, and evaluation
-rf_workflow <- workflow() |>
-  add_model(rf_spec) |>
-  add_recipe(salary_recipe)
-
-set.seed(253)
-rf_grid <- grid_regular(
-  mtry(range = c(3, 20)),
-  min_n(range = c(2, 20)),
-  levels = 5
-)
-
-set.seed(253)
-cv_folds <- vfold_cv(train_data, v = 5, strata = avg_salary_usd)
-
-rf_tuned <- tune_grid(
-  rf_workflow,
-  resamples = cv_folds,
-  grid = rf_grid,
-  metrics = metric_set(mae, rmse, rsq)
-)
-
-show_best(rf_tuned, metric = "mae")
-best_rf <- select_best(rf_tuned, metric = "mae")
-
-final_rf <- finalize_workflow(rf_workflow, best_rf) |>
-  fit(data = train_data)
-
-salary_metrics <- final_rf |>
-  predict(test_data) |>
-  bind_cols(test_data) |>
-  metrics(truth = avg_salary_usd, estimate = .pred)
-
-salary_metrics
-
-```
-
-
-```{r}
-autoplot(rf_tuned, metric = "mae") # reasonable baseline: tuning changed MAE by ~10k across the full mtry range, so the model is learning something, but the remaining error is still very high, which points more to limited or noisy features than to the wrong algorithm.
-```
 
 ```{r}
 # Fitting Linear Reg'
@@ -205,6 +75,55 @@ model_estimate %>%
 
 ```{r}
 model_estimate %>%
-  glance() #
+  glance() # off by 28k
 ```
 
+```{r}
+# check existing levels
+# assume your training data is called df
+
+library(yardstick)
+library(dplyr)
+
+aug_df <- model_estimate %>%
+  augment(new_data = imputed_df)
+
+# Overall MAE
+aug_df %>%
+  mae(truth = avg_salary_usd, estimate = .pred)
+
+
+```
+
+
+```{r}
+
+# Predicted salaries and absolute errors
+
+library(ggplot2)
+library(scales)   # for label_comma()
+
+aug_df <- aug_df %>%
+  mutate(abs_error = abs(avg_salary_usd - .pred))
+
+ggplot(aug_df, aes(x = .pred, y = abs_error)) +
+  geom_point(aes(color = abs_error),
+             alpha = 0.6, size = 2) +
+  geom_smooth(se = FALSE, color = "black", linewidth = 0.8) +
+  scale_color_viridis_c(option = "plasma", name = "Abs. error") +
+  scale_x_continuous(labels = label_comma()) +
+  scale_y_continuous(labels = label_comma()) +
+  labs(
+    x = "Predicted avg salary (USD)",
+    y = "Absolute error",
+    title = "Absolute errors vs predictions",
+    subtitle = "Higher errors highlighted by color"
+  ) +
+  theme_minimal(base_size = 13) +
+  theme(
+    plot.title = element_text(face = "bold"),
+    panel.grid.minor = element_blank()
+  )
+
+
+```
