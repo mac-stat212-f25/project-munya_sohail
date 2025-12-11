@@ -2,9 +2,68 @@
 title: "Report"
 ---
 
-Your report goes here.
 
-```{r}
-# a test code chunk
-```
+>PROJECT DESCRIPTION
 
+The project aims to explore and statistically predict the relationship between salaries and other variables through data science approaches such as data cleaning, wrangling, visualizing, mapping and Stats/ ML algorithms.
+
+>RESEARCH QUESTION(S)
+
+1. “Exploring the relationship between salaries for data science job postings based on  factors such as seniority, job title, company type, employment location, and industry, and how they  relate to salary levels?”
+2. Predicting the salary of the population of Data Science job postings in the world based on   factors such as seniority, job title, company type, employment location, and industry and how it affects salary levels?
+
+>MOTIVATION AND INSPIRATION
+
+As potential/aspiring data scientists, we want to have a better understanding of the job market and build awareness of factors affecting salaries especially in the United States considering the current transformations and fast-changing job market.
+
+>Data Set
+
+[Data Science Careers & Salaries 2025](https://www.kaggle.com/datasets/nalisha/data-science-careers-and-salaries-2025){target="_blank"}
+
+This dataset contains job postings related to Data Science roles in 2025, collected from publicly available sources. The data set was posted on Kaggle by Aleesha Nadeem. It includes essential details such as job titles, seniority levels, company information, locations, salaries, industries, company size, and required skills.This Data Set was collected as it may help analyze hiring trends, salary ranges, and in-demand skills in the Data Science job market. This dataset can also support projects in machine learning, career prediction, salary forecasting, and workforce analytics.
+
+>Data Processing
+
+We cleaned the data before performing  and building visualizations and Machine learning Models. We populated missing values with NA , removed and corrected any mismatches from columns, converted Euro to US dollar in revenue and salary, and imputed values for NA values using KNN to Linear Regression algorithm.
+
+
+>Data Insights
+
+![](/assets/salary_industries.png)
+Fig 1. A bar chart showing average salaries across eight different industries
+
+The horizontal bar chart projects the average salaries for data science jobs across eight different industries for the year 2025. The data indicates a significant salary spread, with the Retail sector offering the highest projected average salary at $143K, closely followed by Energy ($132K) and Technology ($130K). In contrast, the Logistics industry is projected to offer the lowest average salary at $74K, creating a salary difference of $69K between the highest and lowest paying sectors shown. The other industries listed are Finance ($124K), Healthcare ($119K), Manufacturing ($101K), and Education ($98K), all falling within this range.
+
+
+![](/assets/Map_DataSciencePostings.png)
+
+Fig 2. US Map showing different salaries across different states for Data Science Jobs
+
+The choropleth map displays the projected average salaries for data science professionals across different U.S. states in 2025, using percentile bins to represent relative position within all states. A key insight is the significant geographical disparity in compensation. States on the coasts and in major tech hubs, such as California ($139K), Washington ($135K), and New York ($136K), are projected to have the highest average salaries, falling into the 80-100% percentile bin. In contrast, many states in the Southeast and Midwest, such as Alabama, Tennessee, and Mississippi, are in the lowest percentile bins (0-20%), indicating substantially lower average pay. The concentration of the highest salaries in states with established technology and finance sectors highlights the influence of regional job markets and cost of living on data science compensation.
+
+![](/assets/predicted_mae.png)
+Fig 3. Plot showing predicted salaries vs absolute errors for different Data Science Jobs
+
+![](/assets/mae.png)
+Fig 4. Plot showing mae of predicted salaries for this data sample
+
+
+After visualizations, we performed Machine Learning specifically doing simple linear regression. After building and running the model, we were able to predict salaries with approximately 1.2K off ( We got better than what is in our presentation). So for any cases/rows, we can predict their salaries and will be off by +- 1.2K which is highly accurate with regards to the scale of our salaries which are ranging from 70K to 600K depending upon the position. Although, we definitely acknowledge that this model is very overfit to this data (more on this in the limitations section).
+
+
+
+![](/assets/collage_of_plots.png)
+Fig 5. Collage of Plots showing different plots of different variables
+
+>Video Presentation
+
+![](/assets/Presentation.mp4)
+
+>Conclusions / Big Picture
+
+In conclusion, the insights does answer the research question on predicting the salary of different job postings with good accuracy which is represented by the Linear Regression Model. Additionally the visualizations demonstrate  the factors affecting the salary level such as skills, industry and locations (here we narrowed down to the United States). The major insights in a glimpse is : Apart from the linear regression predicting the salary, the most important factors affecting salary are skills such as Python, Machine Learning. Similarly, the retail industry has huge influence on the salaries as it requires many data scientists due to the nature of retail and immense data they receive not on day to day basis but on hour-to-hour basis compared to other industries. Likely, the locations ( we looked at the US here) were more skewed for some states like Nebraska but in-general gave a good picture of job postings based on State size or data needs.
+
+>Limitations and Future Work
+
+In terms of limitations and weakness, there was some weakness in the data we got from Kaggle because as we looked into it or deep-dived into it we figured out that the values of salaries from especially Non-United States countries were incorrect. For example, it showed that in Hyderabad, India people are earning $200K which is not true as that's an incredible amount of money in India and I can confirm it as I live there. Similarly, the Regression Model built and ran in the project is heavily overfit due to the fact that we fit it with every variable and did not to cross-validation and lasso — so it was just trained on in-sample data and never tested on in-sample data or out-of-sample data. Additionally, since this is just one sample, it does not reflect the salary ranges for the population — so a better thing that’s lacking is Confidence Interval which provides confidence with 99% or generally 95%.
+With regards to improvement, the improvements that someone can make is first remove the rows which show incorrect salaries, then conduct Linear regression with cross validation and test in on out of sample data to prevent overfitting and perform confidence intervals to be 95% confident. 

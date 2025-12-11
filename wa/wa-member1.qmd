@@ -1,5 +1,129 @@
 ---
-title: "Member 1 First Name & Last Name Initial"
+title: "SKM"
 ---
 
 Work area to try code
+
+## Building and fitting ML Models to predict salary for data science postings
+```{r}
+# loading the necessary packages
+library(tidyverse)
+library(tidymodels)
+library(VIM)
+
+
+```
+
+```{r}
+# loading the cleaned/processed data
+dsPostings_2025 <- read_csv("../data/processed/cleaned_data.csv")
+dim(dsPostings_2025)
+head(dsPostings_2025)
+
+dsPostings_2025 |>
+  countNA()# 699 na values
+
+
+```
+
+```{r}
+# Imputing NA values to estimate NA Values -- Using KNN
+# Tuning  K = 10 as choosing small K (2-5) follows local pattern and can be overfit (high variance, low biad) and
+# choosing large K (30+) oversmoothens leading to underfitting which is high bias and low variance
+dsPostings_2025
+imputed_df <- kNN(dsPostings_2025, k = 10)
+
+imputed_df<- imputed_df |>
+  select(job_title, seniority_level, status, location, post_date, industry, ownership, company_size, revenue, avg_salary_usd, skills)
+
+#imputed_df
+#head(imputed_df)
+
+
+
+
+```
+
+### Model Buildinhg
+
+
+```{r}
+# Fitting Linear Reg'
+
+
+# STEP 1: specify the type of model to build
+lm_spec <- linear_reg() %>% # we want a linear regression model
+  set_mode("regression") %>%  # this is a regression task (y is quantitative)
+  set_engine("lm") # we'll estimate the model using the lm function
+
+# STEP 2: estimate the specified model using sample data
+model_estimate <- lm_spec %>%
+  fit(avg_salary_usd ~.,   data = imputed_df )
+
+# Get the model coefficients
+model_estimate %>%
+  tidy()
+
+
+model_estimate %>%
+  augment(new_data = imputed_df)
+
+
+
+
+```
+
+```{r}
+model_estimate %>%
+  glance() # off by 28k
+```
+
+```{r}
+# check existing levels
+# assume your training data is called df
+
+library(yardstick)
+library(dplyr)
+
+aug_df <- model_estimate %>%
+  augment(new_data = imputed_df)
+
+# Overall MAE
+aug_df %>%
+  mae(truth = avg_salary_usd, estimate = .pred)
+
+
+```
+
+
+```{r}
+
+# Predicted salaries and absolute errors
+
+library(ggplot2)
+library(scales)   # for label_comma()
+
+aug_df <- aug_df %>%
+  mutate(abs_error = abs(avg_salary_usd - .pred))
+
+ggplot(aug_df, aes(x = .pred, y = abs_error)) +
+  geom_point(aes(color = abs_error),
+             alpha = 0.6, size = 2) +
+  geom_smooth(se = FALSE, color = "black", linewidth = 0.8) +
+  scale_color_viridis_c(option = "plasma", name = "Abs. error") +
+  scale_x_continuous(labels = label_comma()) +
+  scale_y_continuous(labels = label_comma()) +
+  labs(
+    x = "Predicted avg salary (USD)",
+    y = "Absolute error",
+    title = "Absolute errors vs predictions",
+    subtitle = "Higher errors highlighted by color"
+  ) +
+  theme_minimal(base_size = 13) +
+  theme(
+    plot.title = element_text(face = "bold"),
+    panel.grid.minor = element_blank()
+  )
+
+
+```

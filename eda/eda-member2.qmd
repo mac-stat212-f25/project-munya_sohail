@@ -1,5 +1,342 @@
 ---
-title: "Member 2 First Name & Last Name Initial"
+title: "Munyaradzi Masvaure"
 ---
 
 Your exploratory data analysis of the team datasets go here.
+
+```{r}
+dsPosting_2025 <- read.csv("../data/processed/dsPosting_2025.csv")
+```
+
+
+```{r}
+library(tidyverse)
+library(janitor)
+library(rlang)
+library(ggplot2)
+library(reshape2)
+library(viridisLite)
+library(stringr)
+library(extrafont)
+library(showtext)
+
+
+# VisualCapitalist-like 8-shade blue palette
+pal9 <- c(
+  "#E8F0FB",
+  "#C6D9F6",
+  "#A3C2F0",
+  "#7FA9E3",
+  "#5B8ED4",
+  "#3A6FBE",
+  "#1D4E9A",
+  "#0A2F68"
+)
+
+
+# Clean and prepare skills list
+ds_skills <- dsPosting_2025 %>%
+  mutate(
+    skills_clean = skills %>%
+      str_to_lower() %>%
+      str_replace_all("\\[|\\]|'", "") %>%
+      str_split(",\\s*") %>%
+      map(~ .x[.x != "" & !is.na(.x)])        
+  )
+
+
+#  top 8 most common skills
+top_skills <- ds_skills %>%
+  unnest(skills_clean) %>%
+  count(skills_clean, sort = TRUE) %>%
+  slice_head(n = 8) %>%
+  pull(skills_clean)
+
+#top_skills
+
+
+# Build skill presence matrix (rows = jobs, cols = skills)
+skill_presence <- map_dfc(top_skills, function(skill) {
+  tibble(!!skill := map_lgl(ds_skills$skills_clean, ~ skill %in% .x))
+})
+
+
+# correlation matrix of co-occurrences
+corr_mat <- cor(skill_presence)
+
+# Melt for ggplot
+corr_long <- reshape2::melt(corr_mat, varnames = c("skill1", "skill2"), value.name = "correlation")
+
+# Mask upper triangular for aesthetics
+corr_long <- corr_long %>%
+  filter(as.numeric(factor(skill1)) > as.numeric(factor(skill2)))
+
+
+#Heatmap visualization 
+ggplot(corr_long, aes(x = skill1, y = skill2, fill = correlation)) +
+  geom_tile(color = "white", linewidth = 0.5) +
+  geom_text(aes(label = sprintf("%.2f", correlation)), color = "black", size = 4) +
+  scale_fill_gradientn(colors = pal9, limits = c(-.1, .75)) +
+  labs(
+    title = "Skills Co-Occurrence Heatmap",
+    subtitle = "Correlation between top 8 most frequent skills",
+    fill = "Correlation"
+  ) +
+  theme_minimal(base_size = 14) +
+  theme(
+    axis.title = element_blank(),
+    axis.text.x = element_text(angle = 50, hjust = 1),
+    panel.grid = element_blank(),
+    plot.title = element_text(face = "bold", size = 18),
+    plot.subtitle = element_text(size = 12)
+  )
+
+```
+
+
+
+
+```{r}
+# --- VisualCapitalist-like blue palette (8 shades)
+vc_blue <- colorRampPalette(
+  c("#DCE6F2", "#A9C5E8", "#6A97CC", "#3366A8", "#1C3E73")
+)
+pal8 <- vc_blue(8)
+
+# Prepare dataset
+industry_salary <- dsPosting_2025 |>
+  group_by(industry) |>
+  summarise(avg_salary = mean(salary_usd)) |>
+  arrange(desc(avg_salary)) |>
+  mutate(
+    avg_salary_label = paste0("$", round(avg_salary/1000), "K"),
+    label_pos = avg_salary * 1.02
+  )
+
+# Plot
+ggplot(industry_salary, aes(
+  x = reorder(industry, avg_salary),
+  y = avg_salary,
+  fill = avg_salary
+)) +
+  
+  geom_col(width = 0.65) +
+
+  # Salary labels outside bars
+  geom_text(
+    aes(
+      y = label_pos,
+      label = avg_salary_label
+    ),
+    color = "#2a4d69",
+    size = 4.8,
+    family = "RobotoCondensed",
+    fontface = "bold",
+    hjust = 0
+  ) +
+  
+  # Apply new 8-color VC palette
+  scale_fill_gradientn(
+    colours = pal8,
+    guide = "none"
+  ) +
+
+  coord_flip(clip = "off") +
+
+  labs(
+    title = "Average Salary Across Industries (2025)",
+    subtitle = "For data science jobs",
+    y = NULL,
+    x = NULL
+  ) +
+
+  theme_minimal(base_size = 14) +
+  theme(
+    plot.margin = margin(1, 2.5, 1, 1.5, "cm"),
+    panel.grid.major.y = element_blank(),
+    panel.grid.minor = element_blank(),
+    plot.title = element_text(
+      size = 22,
+      face = "bold",
+      color = "#2a4d69",
+      hjust = 0.5,
+      family = "RobotoCondensed"
+    ),
+    axis.text.y = element_text(
+      size = 13,
+      family = "RobotoCondensed"
+    )
+  )
+
+```
+
+
+
+
+
+```{r}
+#packages
+library(ggplot2)
+library(dplyr)
+library(readr)
+library(plotly)
+library(sf)
+library(viridis)
+library(sf)
+library(scales)
+```
+
+
+```{r}
+### Average Salary Across different states
+
+dsPosting_2025 <- dsPosting_2025 |>
+  mutate(
+    STUSPS = str_extract(location, ",\\s*([A-Z]{2})") |> 
+             str_replace(", ", "")   
+  )
+
+
+map_file <- st_read("../data/raw/cb_2018_us_state_500k/cb_2018_us_state_500k.shp")
+
+
+# Load Montserrat from Google
+font_add_google("Montserrat", "Montserrat")
+showtext_auto()
+
+#  compute avg salary by state (STUSPS)
+state_salary1 <- dsPosting_2025 %>%
+  filter(!is.na(STUSPS), !is.na(salary_usd)) %>%
+  group_by(STUSPS) %>%
+  summarise(
+    avg_salary = mean(salary_usd, na.rm = TRUE),
+    count_jobs = n(),
+    .groups = "drop"
+  )
+
+# Join to shapefile
+map_usa1 <- map_file %>%
+  filter(!STUSPS %in% c("AS","GU","MP","PR","VI"))
+
+map_joined1 <- map_usa1 %>%
+  left_join(state_salary1, by = "STUSPS")
+
+#  percentile bins (5 quantiles)
+map_joined1 <- map_joined1 %>%
+  mutate(
+    pct_bin = ntile(avg_salary, 5),
+    pct_bin_f = factor(
+      pct_bin,
+      levels = 1:5,
+      labels = c("0-20%", "20-40%", "40-60%", "60-80%", "80-100%")
+    )
+  )
+
+# VisualCapitalist/like blue palette
+vc_blue <- colorRampPalette(
+  c("#DCE6F2", "#A9C5E8", "#6A97CC", "#3366A8", "#1C3E73")
+)
+pal5 <- vc_blue(5)
+
+# Extract centroid coordinates for internal labels
+state_labels <- st_point_on_surface(map_joined1) %>%
+  mutate(
+    X = st_coordinates(.)[,1],
+    Y = st_coordinates(.)[,2]
+  ) %>%
+  st_set_geometry(NULL) %>%
+  select(STUSPS, avg_salary, X, Y)
+
+# --- Rounded legend breaks
+salary_breaks <- pretty(range(map_joined1$avg_salary, na.rm = TRUE), n = 5)
+salary_labels <- dollar_format(scale = 1)(salary_breaks)
+
+# VIZZ
+ggplot() +
+  # State polygons
+  geom_sf(
+    data = map_joined1,
+    aes(fill = pct_bin_f),
+    color = "#cccccc",          
+    size = 0.25
+  ) +
+
+  # Fill scale (manual VC style palette)
+  scale_fill_manual(
+    values = pal5,
+    name = "Percentile\n(Avg Salary)",
+    drop = FALSE
+  ) +
+
+  # State abbreviation label
+  geom_text(
+    data = state_labels %>% filter(!is.na(avg_salary)),
+    aes(x = X, y = Y, label = STUSPS),
+    color = "#1a1a1a",
+    family = "Montserrat",
+    fontface = "bold",
+    size = 3.0
+  ) +
+
+  # Salary label below abbreviation (in K)
+  geom_text(
+    data = state_labels %>% filter(!is.na(avg_salary)),
+    aes(x = X, y = Y - 0.6, label = paste0(round(avg_salary/1000), "K")),
+    color = "#2d2d2d",
+    family = "Montserrat",
+    size = 2.4
+  ) +
+
+  # Zoom 
+  coord_sf(
+    xlim = c(-125, -66),
+    ylim = c(24, 50),
+    expand = FALSE
+  ) +
+
+  labs(
+    title = "Average Data Science Salaries by U.S. State (2025)",
+    subtitle = "Percentile bins represent relative position within all U.S. states"#,
+    #caption = "Source: dsPosting_2025 dataset"
+  ) +
+
+  theme_void() +
+  theme(
+    # Light background
+    plot.background   = element_rect(fill = "#f7f7f7", color = NA),
+    panel.background  = element_rect(fill = "#f7f7f7", color = NA),
+
+    # Typography
+    plot.title = element_text(
+      family = "Montserrat",
+      size = 20,
+      face = "bold",
+      hjust = 0.5,
+      color = "#1a1a1a"
+    ),
+    plot.subtitle = element_text(
+      family = "Montserrat",
+      size = 12,
+      hjust = 0.5,
+      color = "#3a3a3a"
+    ),
+    plot.caption = element_text(
+      family = "Montserrat",
+      size = 9,
+      hjust = 0.5,
+      color = "#4a4a4a"
+    ),
+
+    # Legend formatting
+    legend.position = c(0.92, 0.35),
+    legend.background = element_rect(fill = alpha("#ffffff", 0.8), color = NA),
+    legend.key = element_rect(fill = alpha("#ffffff", 0), color = NA),
+    legend.text = element_text(color = "#1a1a1a", family = "Montserrat"),
+    legend.title = element_text(color = "#1a1a1a", family = "Montserrat", face = "bold"),
+
+    plot.margin = margin(10, 10, 10, 10)
+  )
+
+```
+
+ 
